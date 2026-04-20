@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "item": "sf_ash_mushroom_sapling",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_cave_mushroom_sapling",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_earth_mushroom_sapling1",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_earth_mushroom_sapling2",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_glowing_mushroom_sapling",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_mines_mushroom_sapling",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_morel_mushroom_sapling",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_oyster_mushroom_sapling",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_pine_mushroom_sapling1",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_pine_mushroom_sapling2",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_pine_mushroom_sapling3",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_purple_mushroom_sapling",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_red_mushroom_sapling",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_spirit_mushroom_sapling",
+      "store": "general",
+      "category": "mushroomoom"
+    },
+    {
+      "item": "sf_mushroomoom_scroll_bundle",
+      "store": "general",
+      "category": "mushroomoom"
+    }
+  ],
+  "categories": [
+    {
+      "store": "general",
+      "icon_name": "mushroomoom",
+      "sprite": "images/mushroom.png"
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+﻿
+{
+  "sf_mushroomoom_scroll_bundle": {
+    "overwrites_other_mod": false,
+    "name": "Mushroom Scroll",
+    "description": "A scroll with a lot of spores on it...",
+    "icon_sprite": "mushroom_scroll",
+    "soulbound": true,
+    "set_unlock": "mushies",
+    "tags": [
+      "scroll",
+      "mushies",
+      "blacklist_popup",
+      "stampingfeet"
+    ],
+    "value": {
+      "store": 500
+    }
+  },
+  "sf_ash_mushroom_sapling": {
+    "overwrites_other_mod": false,
+    "name": "Ash Mushroom Tree Sapling",
+    "description": "A genetically modified ash mushroom that loves the light I wonder how big it could grow?",
+    "icon_sprite": "ash_mushroom_sapling_ui",
+    "mini_sprite": "ash_mushroom_sapling_ui",
+    "sapling": "ash_mushroom_tree",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "ash_mushroom",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_cave_mushroom_sapling": {
+    "overwrites_other_mod": false,
+    "name": "Cave Mushroom Tree Sapling",
+    "description": "A genetically modified Cave mushroom that loves the light I wonder how big it could grow?",
+    "icon_sprite": "cave_mushroom_sapling_ui",
+    "mini_sprite": "cave_mushroom_sapling_ui",
+    "sapling": "cave_mushroom_tree",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "wild_mushroom",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_earth_mushroom_sapling1": {
+    "overwrites_other_mod": false,
+    "name": "Earth Mushroom Tree Sapling V1",
+    "description": "A genetically modified earth mushroom that loves the light I wonder how big it could grow?",
+    "icon_sprite": "earth_mushroom_sapling_ui1",
+    "mini_sprite": "earth_mushroom_sapling_ui1",
+    "sapling": "earth_mushroom_tree1",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "earthshroom",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_earth_mushroom_sapling2": {
+    "overwrites_other_mod": false,
+    "name": "Earth Mushroom Tree Sapling V2",
+    "description": "A genetically modified earth mushroom that loves the light I wonder how big it could grow?",
+    "icon_sprite": "earth_mushroom_sapling_ui2",
+    "mini_sprite": "earth_mushroom_sapling_ui2",
+    "sapling": "earth_mushroom_tree2",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "earthshroom",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_glowing_mushroom_sapling": {
+    "overwrites_other_mod": false,
+    "name": "Glowing Mushroom Tree Sapling",
+    "description": "A genetically modified glowing mushroom that loves the light I wonder how big it could grow?",
+    "icon_sprite": "glowing_mushroom_sapling_ui",
+    "mini_sprite": "glowing_mushroom_sapling_ui",
+    "sapling": "glowing_mushroom_tree",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "glowing_mushroom",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_mines_mushroom_sapling": {
+    "overwrites_other_mod": false,
+    "name": "Mines Mushroom Tree Sapling",
+    "description": "A genetically modified upper mine's mushroom that loves the light I wonder how big it could grow?",
+    "icon_sprite": "mines_mushroom_sapling_ui",
+    "mini_sprite": "mines_mushroom_sapling_ui",
+    "sapling": "mines_mushroom_tree",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "upper_mines_mushroom",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_morel_mushroom_sapling": {
+    "overwrites_other_mod": false,
+    "name": "Morel Mushroom Tree Sapling",
+    "description": "A genetically modified morel mushroom that loves the light I wonder how big it could grow?",
+    "icon_sprite": "morel_mushroom_sapling_ui",
+    "mini_sprite": "morel_mushroom_sapling_ui",
+    "sapling": "morel_mushroom_tree",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "morel_mushroom",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_oyster_mushroom_sapling": {
+    "overwrites_other_mod": false,
+    "name": "Oyster Mushroom Tree Sapling",
+    "description": "A genetically modified oyster mushroom that loves the light I wonder how big it could grow?",
+    "icon_sprite": "oyster_mushroom_sapling_ui",
+    "mini_sprite": "oyster_mushroom_sapling_ui",
+    "sapling": "oyster_mushroom_tree",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "oyster_mushroom",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_pine_mushroom_sapling1": {
+    "overwrites_other_mod": false,
+    "name": "Pine Mushroom Tree Sapling V1",
+    "description": "A genetically modified pine mushroom that loves the light I wonder how big it could grow?",
+    "icon_sprite": "pine_mushroom_sapling_ui1",
+    "mini_sprite": "pine_mushroom_sapling_ui1",
+    "sapling": "pine_mushroom_tree1",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "pineshroom",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_pine_mushroom_sapling2": {
+    "overwrites_other_mod": false,
+    "name": "Pine Mushroom Tree Sapling V2",
+    "description": "A genetically modified pine mushroom that loves the light I wonder how big it could grow?",
+    "icon_sprite": "pine_mushroom_sapling_ui2",
+    "mini_sprite": "pine_mushroom_sapling_ui2",
+    "sapling": "pine_mushroom_tree2",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "pineshroom",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_pine_mushroom_sapling3": {
+    "overwrites_other_mod": false,
+    "name": "Pine Mushroom Tree Sapling V3",
+    "description": "A genetically modified pine mushroom that loves the light I wonder how big it could grow?",
+    "icon_sprite": "pine_mushroom_sapling_ui3",
+    "mini_sprite": "pine_mushroom_sapling_ui3",
+    "sapling": "pine_mushroom_tree3",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "pineshroom",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_purple_mushroom_sapling": {
+    "overwrites_other_mod": false,
+    "name": "Purple Mushroom Tree Sapling",
+    "description": "A genetically modified purple mushroom that loves the light I wonder how big it could grow?",
+    "icon_sprite": "purple_mushroom_sapling_ui",
+    "mini_sprite": "purple_mushroom_sapling_ui",
+    "sapling": "purple_mushroom_tree",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "purple_mushroom",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_red_mushroom_sapling": {
+    "overwrites_other_mod": false,
+    "name": "Red Toadstool Sapling",
+    "description": "A genetically modified red toadstool tree",
+    "icon_sprite": "red_mushroom_sapling_ui",
+    "mini_sprite": "red_mushroom_sapling_ui",
+    "sapling": "red_mushroom_tree",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "red_toadstool",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_spirit_mushroom_sapling": {
+    "overwrites_other_mod": false,
+    "name": "Spirit Mushroom Tree Sapling",
+    "description": "A spirit mushroom tree",
+    "icon_sprite": "spirit_mushroom_sapling_ui",
+    "mini_sprite": "spirit_mushroom_sapling_ui",
+    "sapling": "spirit_mushroom_tree",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mushies",
+      "crop"
+    ],
+    "recipe_is_default": true,
+    "recipe": [
+      {
+        "item": "spirit_mushroom",
+        "count": 1
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 10
+    }
+  }
+}

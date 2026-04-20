@@ -1,0 +1,3582 @@
+﻿{
+  "ash_mushroom_stump": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_ash_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_ash_mushroom_sapling",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "ash_mushroom_tree": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_ash_mushroom_sapling",
+      "spawns_bugs": false,
+      "stump_id": "ash_mushroom_stump",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "ash_mushroom",
+        "positions": [
+          [
+            -14,
+            -5
+          ],
+          [
+            -14,
+            -5
+          ],
+          [
+            15,
+            -6
+          ],
+          [
+            15,
+            -6
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "ash_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "ash_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "ash_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "ash_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_ash_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_ash_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_ash_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_ash_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_ash_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_ash_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_ash_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_ash_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_ash_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_ash_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_ash_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_ash_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_ash_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_ash_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_ash_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_ash_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_ash_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_ash_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_ash_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_ash_winter_stage5"
+          ]
+        }
+      }
+    }
+  },
+  "cave_mushroom_stump": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_cave_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_cave_mushroom_sapling",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "cave_mushroom_tree": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_cave_mushroom_sapling",
+      "spawns_bugs": false,
+      "stump_id": "cave_mushroom_stump",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "wild_mushroom",
+        "positions": [
+          [
+            -14,
+            -5
+          ],
+          [
+            -14,
+            -5
+          ],
+          [
+            15,
+            -6
+          ],
+          [
+            15,
+            -6
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "wild_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "wild_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "wild_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "wild_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_cave_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_cave_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_cave_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_cave_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_cave_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_cave_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_cave_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_cave_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_cave_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_cave_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_cave_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_cave_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_cave_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_cave_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_cave_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_cave_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_cave_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_cave_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_cave_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_cave_winter_stage5"
+          ]
+        }
+      }
+    }
+  },
+  "earth_mushroom_stump1": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_earth1_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_earth_mushroom_sapling1",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "earth_mushroom_tree1": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_earth_mushroom_sapling1",
+      "spawns_bugs": false,
+      "stump_id": "earth_mushroom_stump1",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "earthshroom",
+        "positions": [
+          [
+            -8,
+            -5
+          ],
+          [
+            -8,
+            -5
+          ],
+          [
+            8,
+            -5
+          ],
+          [
+            8,
+            -5
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "earthshroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "earthshroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "earthshroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "earthshroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_earth1_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_earth1_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_earth1_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_earth1_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_earth1_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_earth1_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_earth1_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_earth1_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_earth1_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_earth1_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_earth1_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_earth1_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_earth1_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_earth1_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_earth1_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_earth1_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_earth1_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_earth1_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_earth1_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_earth1_winter_stage5"
+          ]
+        }
+      }
+    }
+  },
+  "earth_mushroom_stump2": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_earth2_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_earth_mushroom_sapling2",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "earth_mushroom_tree2": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_earth_mushroom_sapling2",
+      "spawns_bugs": false,
+      "stump_id": "earth_mushroom_stump2",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "earthshroom",
+        "positions": [
+          [
+            -8,
+            -5
+          ],
+          [
+            -8,
+            -5
+          ],
+          [
+            8,
+            -5
+          ],
+          [
+            8,
+            -5
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "earthshroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "earthshroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "earthshroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "earthshroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_earth2_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_earth2_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_earth2_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_earth2_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_earth2_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_earth2_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_earth2_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_earth2_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_earth2_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_earth2_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_earth2_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_earth2_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_earth2_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_earth2_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_earth2_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_earth2_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_earth2_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_earth2_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_earth2_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_earth2_winter_stage5"
+          ]
+        }
+      }
+    }
+  },
+  "glowing_mushroom_stump": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_glowing_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_glowing_mushroom_sapling",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "glowing_mushroom_tree": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_glowing_mushroom_sapling",
+      "spawns_bugs": false,
+      "stump_id": "glowing_mushroom_stump",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "glowing_mushroom",
+        "positions": [
+          [
+            6,
+            -2
+          ],
+          [
+            6,
+            -2
+          ],
+          [
+            6,
+            -2
+          ],
+          [
+            6,
+            -2
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "glowing_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "glowing_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "glowing_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "glowing_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_glowing_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_glowing_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_glowing_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_glowing_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_glowing_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_glowing_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_glowing_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_glowing_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_glowing_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_glowing_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_glowing_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_glowing_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_glowing_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_glowing_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_glowing_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_glowing_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_glowing_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_glowing_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_glowing_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_glowing_winter_stage5"
+          ]
+        }
+      }
+    }
+  },
+  "mines_mushroom_stump": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_mines_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_mines_mushroom_sapling",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "mines_mushroom_tree": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_mines_mushroom_sapling",
+      "spawns_bugs": false,
+      "stump_id": "mines_mushroom_stump",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "upper_mines_mushroom",
+        "positions": [
+          [
+            -14,
+            1
+          ],
+          [
+            -14,
+            1
+          ],
+          [
+            15,
+            1
+          ],
+          [
+            15,
+            1
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "upper_mines_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "upper_mines_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "upper_mines_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "upper_mines_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_mines_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_mines_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_mines_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_mines_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_mines_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_mines_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_mines_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_mines_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_mines_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_mines_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_mines_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_mines_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_mines_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_mines_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_mines_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_mines_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_mines_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_mines_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_mines_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_mines_winter_stage5"
+          ]
+        }
+      }
+    }
+  },
+  "morel_mushroom_stump": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_morel_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_morel_mushroom_sapling",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "morel_mushroom_tree": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_morel_mushroom_sapling",
+      "spawns_bugs": false,
+      "stump_id": "morel_mushroom_stump",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "morel_mushroom",
+        "positions": [
+          [
+            -14,
+            -5
+          ],
+          [
+            -14,
+            -5
+          ],
+          [
+            15,
+            -6
+          ],
+          [
+            15,
+            -6
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "morel_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "morel_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "morel_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "morel_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_morel1_spring_stage1",
+            "mushroom_tree_morel2_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_morel1_spring_stage1",
+            "mushroom_tree_morel2_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_morel1_spring_stage1",
+            "mushroom_tree_morel2_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_morel1_winter_stage1",
+            "mushroom_tree_morel2_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_morel1_spring_stage2",
+            "mushroom_tree_morel2_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_morel1_spring_stage2",
+            "mushroom_tree_morel2_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_morel1_spring_stage2",
+            "mushroom_tree_morel2_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_morel1_winter_stage2",
+            "mushroom_tree_morel2_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_morel1_spring_stage3",
+            "mushroom_tree_morel2_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_morel1_spring_stage3",
+            "mushroom_tree_morel2_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_morel1_spring_stage3",
+            "mushroom_tree_morel2_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_morel1_winter_stage3",
+            "mushroom_tree_morel2_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_morel1_spring_stage4",
+            "mushroom_tree_morel2_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_morel1_spring_stage4",
+            "mushroom_tree_morel2_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_morel1_spring_stage4",
+            "mushroom_tree_morel2_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_morel1_winter_stage4",
+            "mushroom_tree_morel2_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_morel1_spring_stage5",
+            "mushroom_tree_morel2_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_morel1_spring_stage5",
+            "mushroom_tree_morel2_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_morel1_spring_stage5",
+            "mushroom_tree_morel2_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_morel1_winter_stage5",
+            "mushroom_tree_morel2_winter_stage5"
+          ]
+        }
+      }
+    }
+  },
+  "oyster_mushroom_stump": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_oyster_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_oyster_mushroom_sapling",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "oyster_mushroom_tree": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_oyster_mushroom_sapling",
+      "spawns_bugs": false,
+      "stump_id": "oyster_mushroom_stump",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "oyster_mushroom",
+        "positions": [
+          [
+            8,
+            -6
+          ],
+          [
+            8,
+            -6
+          ],
+          [
+            8,
+            -6
+          ],
+          [
+            8,
+            -6
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "oyster_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "oyster_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "oyster_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "oyster_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_oyster1_spring_stage1",
+            "mushroom_tree_oyster2_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_oyster1_spring_stage1",
+            "mushroom_tree_oyster2_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_oyster1_spring_stage1",
+            "mushroom_tree_oyster2_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_oyster1_winter_stage1",
+            "mushroom_tree_oyster2_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_oyster1_spring_stage2",
+            "mushroom_tree_oyster2_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_oyster1_spring_stage2",
+            "mushroom_tree_oyster2_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_oyster1_spring_stage2",
+            "mushroom_tree_oyster2_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_oyster1_winter_stage2",
+            "mushroom_tree_oyster2_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_oyster1_spring_stage3",
+            "mushroom_tree_oyster2_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_oyster1_spring_stage3",
+            "mushroom_tree_oyster2_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_oyster1_spring_stage3",
+            "mushroom_tree_oyster2_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_oyster1_winter_stage3",
+            "mushroom_tree_oyster2_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_oyster1_spring_stage4",
+            "mushroom_tree_oyster2_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_oyster1_spring_stage4",
+            "mushroom_tree_oyster2_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_oyster1_spring_stage4",
+            "mushroom_tree_oyster2_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_oyster1_winter_stage4",
+            "mushroom_tree_oyster2_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_oyster1_spring_stage5",
+            "mushroom_tree_oyster2_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_oyster1_spring_stage5",
+            "mushroom_tree_oyster2_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_oyster1_spring_stage5",
+            "mushroom_tree_oyster2_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_oyster1_winter_stage5",
+            "mushroom_tree_oyster2_winter_stage5"
+          ]
+        }
+      }
+    }
+  },
+  "pine_mushroom_stump1": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_pine1_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_pine_mushroom_sapling1",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "pine_mushroom_tree1": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_pine_mushroom_sapling1",
+      "spawns_bugs": false,
+      "stump_id": "pine_mushroom_stump1",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "pineshroom",
+        "positions": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "pineshroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "pineshroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "pineshroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "pineshroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_pine1_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_pine1_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_pine1_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_pine1_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_pine1_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_pine1_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_pine1_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_pine1_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_pine1_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_pine1_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_pine1_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_pine1_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_pine1_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_pine1_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_pine1_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_pine1_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_pine1_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_pine1_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_pine1_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_pine1_winter_stage5"
+          ]
+        }
+      }
+    }
+  },
+  "pine_mushroom_stump2": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_pine2_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_pine_mushroom_sapling2",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "pine_mushroom_tree2": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_pine_mushroom_sapling2",
+      "spawns_bugs": false,
+      "stump_id": "pine_mushroom_stump2",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "pineshroom",
+        "positions": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "pineshroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "pineshroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "pineshroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "pineshroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_pine2_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_pine2_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_pine2_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_pine2_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_pine2_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_pine2_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_pine2_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_pine2_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_pine2_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_pine2_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_pine2_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_pine2_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_pine2_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_pine2_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_pine2_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_pine2_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_pine2_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_pine2_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_pine2_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_pine2_winter_stage5"
+          ]
+        }
+      }
+    }
+  },
+  "pine_mushroom_stump3": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_pine3_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_pine_mushroom_sapling3",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "pine_mushroom_tree3": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_pine_mushroom_sapling3",
+      "spawns_bugs": false,
+      "stump_id": "pine_mushroom_stump3",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "pineshroom",
+        "positions": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "pineshroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "pineshroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "pineshroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "pineshroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_pine3_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_pine3_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_pine3_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_pine3_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_pine3_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_pine3_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_pine3_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_pine3_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_pine3_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_pine3_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_pine3_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_pine3_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_pine3_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_pine3_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_pine3_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_pine3_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_pine3_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_pine3_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_pine3_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_pine3_winter_stage5"
+          ]
+        }
+      }
+    }
+  },
+  "purple_mushroom_stump": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_purple_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_purple_mushroom_sapling",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "purple_mushroom_tree": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_purple_mushroom_sapling",
+      "spawns_bugs": false,
+      "stump_id": "purple_mushroom_stump",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "purple_mushroom",
+        "positions": [
+          [
+            -14,
+            1
+          ],
+          [
+            -14,
+            1
+          ],
+          [
+            15,
+            1
+          ],
+          [
+            15,
+            1
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "purple_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "purple_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "purple_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "purple_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_purple1_spring_stage1",
+            "mushroom_tree_purple2_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_purple1_spring_stage1",
+            "mushroom_tree_purple2_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_purple1_spring_stage1",
+            "mushroom_tree_purple2_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_purple1_winter_stage1",
+            "mushroom_tree_purple2_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_purple1_spring_stage2",
+            "mushroom_tree_purple2_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_purple1_spring_stage2",
+            "mushroom_tree_purple2_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_purple1_spring_stage2",
+            "mushroom_tree_purple2_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_purple1_winter_stage2",
+            "mushroom_tree_purple2_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_purple1_spring_stage3",
+            "mushroom_tree_purple2_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_purple1_spring_stage3",
+            "mushroom_tree_purple2_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_purple1_spring_stage3",
+            "mushroom_tree_purple2_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_purple1_winter_stage3",
+            "mushroom_tree_purple2_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_purple1_spring_stage4",
+            "mushroom_tree_purple2_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_purple1_spring_stage4",
+            "mushroom_tree_purple2_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_purple1_spring_stage4",
+            "mushroom_tree_purple2_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_purple1_winter_stage4",
+            "mushroom_tree_purple2_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_purple1_spring_stage5",
+            "mushroom_tree_purple2_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_purple1_spring_stage5",
+            "mushroom_tree_purple2_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_purple1_spring_stage5",
+            "mushroom_tree_purple2_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_purple1_winter_stage5",
+            "mushroom_tree_purple2_winter_stage5"
+          ]
+        }
+      }
+    }
+  },
+  "red_mushroom_stump": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_red_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_red_mushroom_sapling",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "red_mushroom_tree": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_red_mushroom_sapling",
+      "spawns_bugs": false,
+      "stump_id": "red_mushroom_stump",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "red_toadstool",
+        "positions": [
+          [
+            -14,
+            1
+          ],
+          [
+            -14,
+            1
+          ],
+          [
+            15,
+            1
+          ],
+          [
+            15,
+            1
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "red_toadstool",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "red_toadstool",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "red_toadstool",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "red_toadstool",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_red1_spring_stage1",
+            "mushroom_tree_red2_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_red1_spring_stage1",
+            "mushroom_tree_red2_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_red1_spring_stage1",
+            "mushroom_tree_red2_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_red1_winter_stage1",
+            "mushroom_tree_red2_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_red1_spring_stage2",
+            "mushroom_tree_red2_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_red1_spring_stage2",
+            "mushroom_tree_red2_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_red1_spring_stage2",
+            "mushroom_tree_red2_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_red1_winter_stage2",
+            "mushroom_tree_red2_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_red1_spring_stage3",
+            "mushroom_tree_red2_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_red1_spring_stage3",
+            "mushroom_tree_red2_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_red1_spring_stage3",
+            "mushroom_tree_red2_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_red1_winter_stage3",
+            "mushroom_tree_red2_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_red1_spring_stage4",
+            "mushroom_tree_red2_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_red1_spring_stage4",
+            "mushroom_tree_red2_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_red1_spring_stage4",
+            "mushroom_tree_red2_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_red1_winter_stage4",
+            "mushroom_tree_red2_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_red1_spring_stage5",
+            "mushroom_tree_red2_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_red1_spring_stage5",
+            "mushroom_tree_red2_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_red1_spring_stage5",
+            "mushroom_tree_red2_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_red1_winter_stage5",
+            "mushroom_tree_red2_winter_stage5"
+          ]
+        }
+      }
+    }
+  },
+  "spirit_mushroom_stump": {
+    "category": "stump",
+    "overwrites_other_mod": false,
+    "data": {
+      "hp": 6,
+      "sprites": "mushroom_stump_spirit_spring_stage0",
+      "drops": [
+        {
+          "item": "sf_spirit_mushroom_sapling",
+          "count_range": [
+            1,
+            2
+          ],
+          "exclusive": false
+        }
+      ]
+    }
+  },
+  "spirit_mushroom_tree": {
+    "category": "tree",
+    "overwrites_other_mod": false,
+    "data": {
+      "seasons": [
+        "spring", 
+        "summer", 
+        "fall", 
+        "winter"
+      ],
+      "day_to_stage": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "collision_grid": "2",
+      "shake_item": "sf_spirit_mushroom_sapling",
+      "spawns_bugs": false,
+      "stump_id": "spirit_mushroom_stump",
+      "bird_landing_pos": {
+        "stage1": false,
+        "stage2": false,
+        "stage3": false,
+        "stage4": false,
+        "stage5": false
+      },
+      "fruit_data": {
+        "harvest": "spirit_mushroom",
+        "positions": [
+          [
+            10,
+            -10
+          ],
+          [
+            10,
+            -10
+          ],
+          [
+            10,
+            -10
+          ],
+          [
+            10,
+            -10
+          ]
+        ],
+        "regrow_days": 3,
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "wood_items": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "item": "spirit_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "spirit_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "item": "spirit_mushroom",
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "spirit_mushroom",
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "offsets": {
+        "stage1": [
+          24,
+          28
+        ],
+        "stage2": [
+          24,
+          28
+        ],
+        "stage3": [
+          24,
+          25
+        ],
+        "stage4": [
+          24,
+          25
+        ],
+        "stage5": [
+          24,
+          25
+        ]
+      },
+      "transparency_boxes": {
+        "stage1": [],
+        "stage2": [],
+        "stage3": [],
+        "stage4": [
+          {
+            "offset": [
+              8,
+              -9
+            ],
+            "size": [
+              34,
+              34
+            ]
+          }
+        ],
+        "stage5": [
+          {
+            "offset": [
+              2,
+              -24
+            ],
+            "size": [
+              44,
+              46
+            ]
+          }
+        ]
+      },
+      "destruct_sprites": {
+        "spring": [
+          "mushroom_destroy"
+        ],
+        "summer": [
+          "mushroom_destroy"
+        ],
+        "fall": [
+          "mushroom_destroy"
+        ],
+        "winter": [
+          "mushroom_destroy"
+        ]
+      },
+      "sprites": {
+        "stage1": {
+          "spring": [
+            "mushroom_tree_spirit_spring_stage1"
+          ],
+          "summer": [
+            "mushroom_tree_spirit_spring_stage1"
+          ],
+          "fall": [
+            "mushroom_tree_spirit_spring_stage1"
+          ],
+          "winter": [
+            "mushroom_tree_spirit_winter_stage1"
+          ]
+        },
+        "stage2": {
+          "spring": [
+            "mushroom_tree_spirit_spring_stage2"
+          ],
+          "summer": [
+            "mushroom_tree_spirit_spring_stage2"
+          ],
+          "fall": [
+            "mushroom_tree_spirit_spring_stage2"
+          ],
+          "winter": [
+            "mushroom_tree_spirit_winter_stage2"
+          ]
+        },
+        "stage3": {
+          "spring": [
+            "mushroom_tree_spirit_spring_stage3"
+          ],
+          "summer": [
+            "mushroom_tree_spirit_spring_stage3"
+          ],
+          "fall": [
+            "mushroom_tree_spirit_spring_stage3"
+          ],
+          "winter": [
+            "mushroom_tree_spirit_winter_stage3"
+          ]
+        },
+        "stage4": {
+          "spring": [
+            "mushroom_tree_spirit_spring_stage4"
+          ],
+          "summer": [
+            "mushroom_tree_spirit_spring_stage4"
+          ],
+          "fall": [
+            "mushroom_tree_spirit_spring_stage4"
+          ],
+          "winter": [
+            "mushroom_tree_spirit_winter_stage4"
+          ]
+        },
+        "stage5": {
+          "spring": [
+            "mushroom_tree_spirit_spring_stage5"
+          ],
+          "summer": [
+            "mushroom_tree_spirit_spring_stage5"
+          ],
+          "fall": [
+            "mushroom_tree_spirit_spring_stage5"
+          ],
+          "winter": [
+            "mushroom_tree_spirit_winter_stage5"
+          ]
+        }
+      }
+    }
+  }
+}
