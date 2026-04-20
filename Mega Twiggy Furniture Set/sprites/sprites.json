@@ -1,0 +1,1366 @@
+﻿{
+  "ash_twiggy_stool_south": {
+    "Location": "images/ash/alledged_stool/south.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "ash_twiggy_stool_south_shadow": {
+    "Location": "images/ash/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "ash_twiggy_stool_west": {
+    "Location": "images/ash/alledged_stool/west.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "ash_twiggy_stool_west_shadow": {
+    "Location": "images/ash/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "ash_twiggy_stool_east": {
+    "Location": "images/ash/alledged_stool/east.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "ash_twiggy_stool_east_shadow": {
+    "Location": "images/ash/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "ash_twiggy_stool_north": {
+    "Location": "images/ash/alledged_stool/north.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "ash_twiggy_stool_north_shadow": {
+    "Location": "images/ash/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "ash_twiggy_stool_ui": {
+    "Location": "images/ash/alledged_stool/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/ash/alledged_stool/outline.png"
+  },
+  "ash_twiggy_shelf_south": {
+    "Location": "images/ash/shelf/south.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "ash_twiggy_shelf_south_top": {
+    "Location": "images/ash/shelf/southnorth_top.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "ash_twiggy_shelf_south_shadow": {
+    "Location": "images/ash/shelf/shadow.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "ash_twiggy_shelf_west": {
+    "Location": "images/ash/shelf/west.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "ash_twiggy_shelf_west_top": {
+    "Location": "images/ash/shelf/eastwest_top.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "ash_twiggy_shelf_west_shadow": {
+    "Location": "images/ash/shelf/shadow2.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "ash_twiggy_shelf_east": {
+    "Location": "images/ash/shelf/east.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "ash_twiggy_shelf_east_top": {
+    "Location": "images/ash/shelf/eastwest_top.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "ash_twiggy_shelf_east_shadow": {
+    "Location": "images/ash/shelf/shadow2.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "ash_twiggy_shelf_north": {
+    "Location": "images/ash/shelf/north.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "ash_twiggy_shelf_north_top": {
+    "Location": "images/ash/shelf/southnorth_top.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "ash_twiggy_shelf_north_shadow": {
+    "Location": "images/ash/shelf/shadow.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "ash_twiggy_shelf_ui": {
+    "Location": "images/ash/shelf/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/ash/shelf/outline.png"
+  },
+  "ash_twiggy_table_south": {
+    "Location": "images/ash/table/south.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "ash_twiggy_table_south_shadow": {
+    "Location": "images/ash/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "ash_twiggy_table_west": {
+    "Location": "images/ash/table/west.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "ash_twiggy_table_west_shadow": {
+    "Location": "images/ash/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "ash_twiggy_table_east": {
+    "Location": "images/ash/table/east.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "ash_twiggy_table_east_shadow": {
+    "Location": "images/ash/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "ash_twiggy_table_north": {
+    "Location": "images/ash/table/north.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "ash_twiggy_table_north_shadow": {
+    "Location": "images/ash/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "ash_twiggy_table_ui": {
+    "Location": "images/ash/table/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/ash/table/outline.png"
+  },
+  "ash_twiggy_bed": {
+    "Location": "images/ash/bed/bed.png",
+    "OriginX": 33,
+    "OriginY": 44
+  },
+  "ash_twiggy_bed_top": {
+    "Location": "images/ash/bed/bed_top.png",
+    "OriginX": 33,
+    "OriginY": 44
+  },
+  "ash_twiggy_bed_shadow": {
+    "Location": "images/ash/bed/shadow.png",
+    "OriginX": 33,
+    "OriginY": 44
+  },
+  "ash_twiggy_bed_ui": {
+    "Location": "images/ash/bed/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/ash/bed/outline.png"
+  },
+  "ash_twiggy_couch_south": {
+    "Location": "images/ash/couch/south.png",
+    "OriginX": 10,
+    "OriginY": 31
+  },
+  "ash_twiggy_couch_south_shadow": {
+    "Location": "images/ash/couch/shadow.png",
+    "OriginX": 9,
+    "OriginY": 31
+  },
+  "ash_twiggy_couch_east": {
+    "Location": "images/ash/couch/east.png",
+    "OriginX": 13,
+    "OriginY": 29
+  },
+  "ash_twiggy_couch_east_top": {
+    "Location": "images/ash/couch/east_top.png",
+    "OriginX": 13,
+    "OriginY": 29
+  },
+  "ash_twiggy_couch_east_shadow": {
+    "Location": "images/ash/couch/shadow2.png",
+    "OriginX": 13,
+    "OriginY": 29
+  },
+  "ash_twiggy_couch_west": {
+    "Location": "images/ash/couch/west.png",
+    "OriginX": 37,
+    "OriginY": 29
+  },
+  "ash_twiggy_couch_west_top": {
+    "Location": "images/ash/couch/west_top.png",
+    "OriginX": 37,
+    "OriginY": 29
+  },
+  "ash_twiggy_couch_west_shadow": {
+    "Location": "images/ash/couch/shadow2.png",
+    "OriginX": 37,
+    "OriginY": 29
+  },
+  "ash_twiggy_couch_north": {
+    "Location": "images/ash/couch/north.png",
+    "OriginX": 34,
+    "OriginY": 31
+  },
+  "ash_twiggy_couch_north_shadow": {
+    "Location": "images/ash/couch/shadow.png",
+    "OriginX": 34,
+    "OriginY": 31
+  },
+  "ash_twiggy_couch_north_top": {
+    "Location": "images/ash/couch/north_top.png",
+    "OriginX": 34,
+    "OriginY": 31
+  },
+  "ash_twiggy_couch_ui": {
+    "Location": "images/ash/couch/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/ash/couch/outline.png"
+  },
+  "ash_twiggy_lamp_east": {
+    "Location": "images/ash/lamp/east/east.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "ash_twiggy_lamp_east_on": {
+    "Location": "images/ash/lamp/east/east_on.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "ash_twiggy_lamp_east_shadow": {
+    "Location": "images/ash/lamp/east/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "ash_twiggy_lamp_east_on_shadow": {
+    "Location": "images/ash/lamp/east/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "ash_twiggy_lamp_east_ui": {
+    "Location": "images/ash/lamp/east/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/ash/lamp/east/outline.png"
+  },
+  "ash_twiggy_lamp_west": {
+    "Location": "images/ash/lamp/west/west.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "ash_twiggy_lamp_west_on": {
+    "Location": "images/ash/lamp/west/west_on.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "ash_twiggy_lamp_west_shadow": {
+    "Location": "images/ash/lamp/west/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "ash_twiggy_lamp_west_on_shadow": {
+    "Location": "images/ash/lamp/west/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "ash_twiggy_lamp_west_ui": {
+    "Location": "images/ash/lamp/west/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/ash/lamp/west/outline.png"
+  },
+  "ash_twiggy_macareme_v1": {
+    "Location": "images/ash/wall_macareme/1/south.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "ash_twiggy_macareme_v1_shadow": {
+    "Location": "images/ash/wall_macareme/1/shadow.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "ash_twiggy_macareme_v1_ui": {
+    "Location": "images/ash/wall_macareme/1/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/ash/wall_macareme/1/outline.png"
+  },
+  "ash_twiggy_macareme_v2": {
+    "Location": "images/ash/wall_macareme/2/south.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "ash_twiggy_macareme_v2_shadow": {
+    "Location": "images/ash/wall_macareme/2/shadow.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "ash_twiggy_macareme_v2_ui": {
+    "Location": "images/ash/wall_macareme/2/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/ash/wall_macareme/2/outline.png"
+  },
+  "ash_twiggy_macareme_v3": {
+    "Location": "images/ash/wall_macareme/3/south.png",
+     "OriginX": 18,
+    "OriginY": -2
+  },
+  "ash_twiggy_macareme_v3_shadow": {
+    "Location": "images/ash/wall_macareme/3/shadow.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "ash_twiggy_macareme_v3_ui": {
+    "Location": "images/ash/wall_macareme/3/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/ash/wall_macareme/outline.png"
+  },
+  "cherry_twiggy_stool_south": {
+    "Location": "images/cherry/alledged_stool/south.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "cherry_twiggy_stool_south_shadow": {
+    "Location": "images/cherry/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "cherry_twiggy_stool_west": {
+    "Location": "images/cherry/alledged_stool/west.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "cherry_twiggy_stool_west_shadow": {
+    "Location": "images/cherry/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "cherry_twiggy_stool_east": {
+    "Location": "images/cherry/alledged_stool/east.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "cherry_twiggy_stool_east_shadow": {
+    "Location": "images/cherry/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "cherry_twiggy_stool_north": {
+    "Location": "images/cherry/alledged_stool/north.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "cherry_twiggy_stool_north_shadow": {
+    "Location": "images/cherry/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "cherry_twiggy_stool_ui": {
+    "Location": "images/cherry/alledged_stool/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/cherry/alledged_stool/outline.png"
+  },
+  "cherry_twiggy_shelf_south": {
+    "Location": "images/cherry/shelf/south.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "cherry_twiggy_shelf_south_top": {
+    "Location": "images/cherry/shelf/southnorth_top.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "cherry_twiggy_shelf_south_shadow": {
+    "Location": "images/cherry/shelf/shadow.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "cherry_twiggy_shelf_west": {
+    "Location": "images/cherry/shelf/west.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "cherry_twiggy_shelf_west_top": {
+    "Location": "images/cherry/shelf/eastwest_top.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "cherry_twiggy_shelf_west_shadow": {
+    "Location": "images/cherry/shelf/shadow2.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "cherry_twiggy_shelf_east": {
+    "Location": "images/cherry/shelf/east.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "cherry_twiggy_shelf_east_top": {
+    "Location": "images/cherry/shelf/eastwest_top.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "cherry_twiggy_shelf_east_shadow": {
+    "Location": "images/cherry/shelf/shadow2.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "cherry_twiggy_shelf_north": {
+    "Location": "images/cherry/shelf/north.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "cherry_twiggy_shelf_north_top": {
+    "Location": "images/cherry/shelf/southnorth_top.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "cherry_twiggy_shelf_north_shadow": {
+    "Location": "images/cherry/shelf/shadow.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "cherry_twiggy_shelf_ui": {
+    "Location": "images/cherry/shelf/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/cherry/shelf/outline.png"
+  },
+  "cherry_twiggy_table_south": {
+    "Location": "images/cherry/table/south.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "cherry_twiggy_table_south_shadow": {
+    "Location": "images/cherry/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "cherry_twiggy_table_west": {
+    "Location": "images/cherry/table/west.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "cherry_twiggy_table_west_shadow": {
+    "Location": "images/cherry/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "cherry_twiggy_table_east": {
+    "Location": "images/cherry/table/east.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "cherry_twiggy_table_east_shadow": {
+    "Location": "images/cherry/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "cherry_twiggy_table_north": {
+    "Location": "images/cherry/table/north.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "cherry_twiggy_table_north_shadow": {
+    "Location": "images/cherry/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "cherry_twiggy_table_ui": {
+    "Location": "images/cherry/table/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/cherry/table/outline.png"
+  },
+  "cherry_twiggy_bed": {
+    "Location": "images/cherry/bed/bed.png",
+    "OriginX": 33,
+    "OriginY": 44
+  },
+  "cherry_twiggy_bed_top": {
+    "Location": "images/cherry/bed/bed_top.png",
+    "OriginX": 33,
+    "OriginY": 44
+  },
+  "cherry_twiggy_bed_shadow": {
+    "Location": "images/cherry/bed/shadow.png",
+    "OriginX": 33,
+    "OriginY": 44
+  },
+  "cherry_twiggy_bed_ui": {
+    "Location": "images/cherry/bed/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/cherry/bed/outline.png"
+  },
+  "cherry_twiggy_couch_south": {
+    "Location": "images/cherry/couch/south.png",
+    "OriginX": 10,
+    "OriginY": 29
+  },
+  "cherry_twiggy_couch_south_shadow": {
+    "Location": "images/cherry/couch/shadow.png",
+    "OriginX": 9,
+    "OriginY": 29
+  },
+  "cherry_twiggy_couch_east": {
+    "Location": "images/cherry/couch/east.png",
+    "OriginX": 13,
+    "OriginY": 29
+  },
+  "cherry_twiggy_couch_east_top": {
+    "Location": "images/cherry/couch/east_top.png",
+    "OriginX": 13,
+    "OriginY": 29
+  },
+  "cherry_twiggy_couch_east_shadow": {
+    "Location": "images/cherry/couch/shadow2.png",
+    "OriginX": 13,
+    "OriginY": 29
+  },
+  "cherry_twiggy_couch_west": {
+    "Location": "images/cherry/couch/west.png",
+    "OriginX": 37,
+    "OriginY": 29
+  },
+  "cherry_twiggy_couch_west_top": {
+    "Location": "images/cherry/couch/west_top.png",
+    "OriginX": 37,
+    "OriginY": 29
+  },
+  "cherry_twiggy_couch_west_shadow": {
+    "Location": "images/cherry/couch/shadow2.png",
+    "OriginX": 37,
+    "OriginY": 29
+  },
+  "cherry_twiggy_couch_north": {
+    "Location": "images/cherry/couch/north.png",
+    "OriginX": 34,
+    "OriginY": 31
+  },
+  "cherry_twiggy_couch_north_shadow": {
+    "Location": "images/cherry/couch/shadow.png",
+    "OriginX": 34,
+    "OriginY": 31
+  },
+  "cherry_twiggy_couch_north_top": {
+    "Location": "images/cherry/couch/north_top.png",
+    "OriginX": 34,
+    "OriginY": 31
+  },
+  "cherry_twiggy_couch_ui": {
+    "Location": "images/cherry/couch/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/couch/outline.png"
+  },
+  "cherry_twiggy_lamp_east": {
+    "Location": "images/cherry/lamp/east/east.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "cherry_twiggy_lamp_east_on": {
+    "Location": "images/cherry/lamp/east/east_on.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "cherry_twiggy_lamp_east_shadow": {
+    "Location": "images/cherry/lamp/east/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "cherry_twiggy_lamp_east_on_shadow": {
+    "Location": "images/cherry/lamp/east/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "cherry_twiggy_lamp_east_ui": {
+    "Location": "images/cherry/lamp/east/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/cherry/lamp/east/outline.png"
+  },
+  "cherry_twiggy_lamp_west": {
+    "Location": "images/cherry/lamp/west/west.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "cherry_twiggy_lamp_west_on": {
+    "Location": "images/cherry/lamp/west/west_on.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "cherry_twiggy_lamp_west_shadow": {
+    "Location": "images/cherry/lamp/west/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "cherry_twiggy_lamp_west_on_shadow": {
+    "Location": "images/cherry/lamp/west/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "cherry_twiggy_lamp_west_ui": {
+    "Location": "images/cherry/lamp/west/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/cherry/lamp/west/outline.png"
+  },
+  "cherry_twiggy_macareme_v1": {
+    "Location": "images/cherry/wall_macareme/1/south.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "cherry_twiggy_macareme_v1_shadow": {
+    "Location": "images/cherry/wall_macareme/1/shadow.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "cherry_twiggy_macareme_v1_ui": {
+    "Location": "images/cherry/wall_macareme/1/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/cherry/wall_macareme/1/outline.png"
+  },
+  "cherry_twiggy_macareme_v2": {
+    "Location": "images/cherry/wall_macareme/2/south.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "cherry_twiggy_macareme_v2_shadow": {
+    "Location": "images/cherry/wall_macareme/2/shadow.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "cherry_twiggy_macareme_v2_ui": {
+    "Location": "images/cherry/wall_macareme/2/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/cherry/wall_macareme/2/outline.png"
+  },
+  "cherry_twiggy_macareme_v3": {
+    "Location": "images/cherry/wall_macareme/3/south.png",
+     "OriginX": 18,
+    "OriginY": -2
+  },
+  "cherry_twiggy_macareme_v3_shadow": {
+    "Location": "images/cherry/wall_macareme/3/shadow.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "cherry_twiggy_macareme_v3_ui": {
+    "Location": "images/cherry/wall_macareme/3/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/cherry/wall_macareme/outline.png"
+  },
+  "oak_twiggy_stool_south": {
+    "Location": "images/oak/alledged_stool/south.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "oak_twiggy_stool_south_shadow": {
+    "Location": "images/oak/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "oak_twiggy_stool_west": {
+    "Location": "images/oak/alledged_stool/west.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "oak_twiggy_stool_west_shadow": {
+    "Location": "images/oak/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "oak_twiggy_stool_east": {
+    "Location": "images/oak/alledged_stool/east.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "oak_twiggy_stool_east_shadow": {
+    "Location": "images/oak/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "oak_twiggy_stool_north": {
+    "Location": "images/oak/alledged_stool/north.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "oak_twiggy_stool_north_shadow": {
+    "Location": "images/oak/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "oak_twiggy_stool_ui": {
+    "Location": "images/oak/alledged_stool/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/oak/alledged_stool/outline.png"
+  },
+  "oak_twiggy_shelf_south": {
+    "Location": "images/oak/shelf/south.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "oak_twiggy_shelf_south_top": {
+    "Location": "images/oak/shelf/southnorth_top.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "oak_twiggy_shelf_south_shadow": {
+    "Location": "images/oak/shelf/shadow.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "oak_twiggy_shelf_west": {
+    "Location": "images/oak/shelf/west.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "oak_twiggy_shelf_west_top": {
+    "Location": "images/oak/shelf/eastwest_top.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "oak_twiggy_shelf_west_shadow": {
+    "Location": "images/oak/shelf/shadow2.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "oak_twiggy_shelf_east": {
+    "Location": "images/oak/shelf/east.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "oak_twiggy_shelf_east_top": {
+    "Location": "images/oak/shelf/eastwest_top.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "oak_twiggy_shelf_east_shadow": {
+    "Location": "images/oak/shelf/shadow2.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "oak_twiggy_shelf_north": {
+    "Location": "images/oak/shelf/north.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "oak_twiggy_shelf_north_top": {
+    "Location": "images/oak/shelf/southnorth_top.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "oak_twiggy_shelf_north_shadow": {
+    "Location": "images/oak/shelf/shadow.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "oak_twiggy_shelf_ui": {
+    "Location": "images/oak/shelf/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/oak/shelf/outline.png"
+  },
+  "oak_twiggy_table_south": {
+    "Location": "images/oak/table/south.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "oak_twiggy_table_south_shadow": {
+    "Location": "images/oak/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "oak_twiggy_table_west": {
+    "Location": "images/oak/table/west.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "oak_twiggy_table_west_shadow": {
+    "Location": "images/oak/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "oak_twiggy_table_east": {
+    "Location": "images/oak/table/east.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "oak_twiggy_table_east_shadow": {
+    "Location": "images/oak/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "oak_twiggy_table_north": {
+    "Location": "images/oak/table/north.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "oak_twiggy_table_north_shadow": {
+    "Location": "images/oak/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "oak_twiggy_table_ui": {
+    "Location": "images/oak/table/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/oak/table/outline.png"
+  },
+  "oak_twiggy_bed": {
+    "Location": "images/oak/bed/bed.png",
+    "OriginX": 33,
+    "OriginY": 44
+  },
+  "oak_twiggy_bed_top": {
+    "Location": "images/oak/bed/bed_top.png",
+    "OriginX": 33,
+    "OriginY": 44
+  },
+  "oak_twiggy_bed_shadow": {
+    "Location": "images/oak/bed/shadow.png",
+    "OriginX": 33,
+    "OriginY": 44
+  },
+  "oak_twiggy_bed_ui": {
+    "Location": "images/oak/bed/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/oak/bed/outline.png"
+  },
+  "oak_twiggy_couch_south": {
+    "Location": "images/oak/couch/south.png",
+    "OriginX": 10,
+    "OriginY": 29
+  },
+  "oak_twiggy_couch_south_shadow": {
+    "Location": "images/oak/couch/shadow.png",
+    "OriginX": 9,
+    "OriginY": 29
+  },
+  "oak_twiggy_couch_east": {
+    "Location": "images/oak/couch/east.png",
+    "OriginX": 13,
+    "OriginY": 29
+  },
+  "oak_twiggy_couch_east_top": {
+    "Location": "images/oak/couch/east_top.png",
+    "OriginX": 13,
+    "OriginY": 29
+  },
+  "oak_twiggy_couch_east_shadow": {
+    "Location": "images/oak/couch/shadow2.png",
+    "OriginX": 13,
+    "OriginY": 29
+  },
+  "oak_twiggy_couch_west": {
+    "Location": "images/oak/couch/west.png",
+    "OriginX": 37,
+    "OriginY": 29
+  },
+  "oak_twiggy_couch_west_top": {
+    "Location": "images/oak/couch/west_top.png",
+    "OriginX": 37,
+    "OriginY": 29
+  },
+  "oak_twiggy_couch_west_shadow": {
+    "Location": "images/oak/couch/shadow2.png",
+    "OriginX": 37,
+    "OriginY": 29
+  },
+  "oak_twiggy_couch_north": {
+    "Location": "images/oak/couch/north.png",
+    "OriginX": 34,
+    "OriginY": 31
+  },
+  "oak_twiggy_couch_north_shadow": {
+    "Location": "images/oak/couch/shadow.png",
+    "OriginX": 34,
+    "OriginY": 31
+  },
+  "oak_twiggy_couch_north_top": {
+    "Location": "images/oak/couch/north_top.png",
+    "OriginX": 34,
+    "OriginY": 31
+  },
+  "oak_twiggy_couch_ui": {
+    "Location": "images/oak/couch/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/oak/couch/outline.png"
+  },
+  "oak_twiggy_lamp_east": {
+    "Location": "images/oak/lamp/east/east.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "oak_twiggy_lamp_east_on": {
+    "Location": "images/oak/lamp/east/east_on.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "oak_twiggy_lamp_east_shadow": {
+    "Location": "images/oak/lamp/east/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "oak_twiggy_lamp_east_on_shadow": {
+    "Location": "images/oak/lamp/east/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "oak_twiggy_lamp_east_ui": {
+    "Location": "images/oak/lamp/east/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/oak/lamp/east/outline.png"
+  },
+  "oak_twiggy_lamp_west": {
+    "Location": "images/oak/lamp/west/west.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "oak_twiggy_lamp_west_on": {
+    "Location": "images/oak/lamp/west/west_on.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "oak_twiggy_lamp_west_shadow": {
+    "Location": "images/oak/lamp/west/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "oak_twiggy_lamp_west_on_shadow": {
+    "Location": "images/oak/lamp/west/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "oak_twiggy_lamp_west_ui": {
+    "Location": "images/oak/lamp/west/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/oak/lamp/west/outline.png"
+  },
+  "oak_twiggy_macareme_v1": {
+    "Location": "images/oak/wall_macareme/1/south.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "oak_twiggy_macareme_v1_shadow": {
+    "Location": "images/oak/wall_macareme/1/shadow.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "oak_twiggy_macareme_v1_ui": {
+    "Location": "images/oak/wall_macareme/1/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/oak/wall_macareme/1/outline.png"
+  },
+  "oak_twiggy_macareme_v2": {
+    "Location": "images/oak/wall_macareme/2/south.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "oak_twiggy_macareme_v2_shadow": {
+    "Location": "images/oak/wall_macareme/2/shadow.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "oak_twiggy_macareme_v2_ui": {
+    "Location": "images/oak/wall_macareme/2/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/oak/wall_macareme/2/outline.png"
+  },
+  "oak_twiggy_macareme_v3": {
+    "Location": "images/oak/wall_macareme/3/south.png",
+     "OriginX": 18,
+    "OriginY": -2
+  },
+  "oak_twiggy_macareme_v3_shadow": {
+    "Location": "images/oak/wall_macareme/3/shadow.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "oak_twiggy_macareme_v3_ui": {
+    "Location": "images/oak/wall_macareme/3/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/oak/wall_macareme/outline.png"
+  },
+  "walnut_twiggy_stool_south": {
+    "Location": "images/walnut/alledged_stool/south.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "walnut_twiggy_stool_south_shadow": {
+    "Location": "images/walnut/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "walnut_twiggy_stool_west": {
+    "Location": "images/walnut/alledged_stool/west.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "walnut_twiggy_stool_west_shadow": {
+    "Location": "images/walnut/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "walnut_twiggy_stool_east": {
+    "Location": "images/walnut/alledged_stool/east.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "walnut_twiggy_stool_east_shadow": {
+    "Location": "images/walnut/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "walnut_twiggy_stool_north": {
+    "Location": "images/walnut/alledged_stool/north.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "walnut_twiggy_stool_north_shadow": {
+    "Location": "images/walnut/alledged_stool/shadow.png",
+    "OriginX": 16,
+    "OriginY": 18
+  },
+  "walnut_twiggy_stool_ui": {
+    "Location": "images/walnut/alledged_stool/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/walnut/alledged_stool/outline.png"
+  },
+  "walnut_twiggy_shelf_south": {
+    "Location": "images/walnut/shelf/south.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "walnut_twiggy_shelf_south_top": {
+    "Location": "images/walnut/shelf/southnorth_top.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "walnut_twiggy_shelf_south_shadow": {
+    "Location": "images/walnut/shelf/shadow.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "walnut_twiggy_shelf_west": {
+    "Location": "images/walnut/shelf/west.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "walnut_twiggy_shelf_west_top": {
+    "Location": "images/walnut/shelf/eastwest_top.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "walnut_twiggy_shelf_west_shadow": {
+    "Location": "images/walnut/shelf/shadow2.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "walnut_twiggy_shelf_east": {
+    "Location": "images/walnut/shelf/east.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "walnut_twiggy_shelf_east_top": {
+    "Location": "images/walnut/shelf/eastwest_top.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "walnut_twiggy_shelf_east_shadow": {
+    "Location": "images/walnut/shelf/shadow2.png",
+    "OriginX": 24,
+    "OriginY": 13
+  },
+  "walnut_twiggy_shelf_north": {
+    "Location": "images/walnut/shelf/north.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "walnut_twiggy_shelf_north_top": {
+    "Location": "images/walnut/shelf/southnorth_top.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "walnut_twiggy_shelf_north_shadow": {
+    "Location": "images/walnut/shelf/shadow.png",
+    "OriginX": 19,
+    "OriginY": 17
+  },
+  "walnut_twiggy_shelf_ui": {
+    "Location": "images/walnut/shelf/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/walnut/shelf/outline.png"
+  },
+  "walnut_twiggy_table_south": {
+    "Location": "images/walnut/table/south.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "walnut_twiggy_table_south_shadow": {
+    "Location": "images/walnut/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "walnut_twiggy_table_west": {
+    "Location": "images/walnut/table/west.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "walnut_twiggy_table_west_shadow": {
+    "Location": "images/walnut/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "walnut_twiggy_table_east": {
+    "Location": "images/walnut/table/east.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "walnut_twiggy_table_east_shadow": {
+    "Location": "images/walnut/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "walnut_twiggy_table_north": {
+    "Location": "images/walnut/table/north.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "walnut_twiggy_table_north_shadow": {
+    "Location": "images/walnut/table/shadow.png",
+    "OriginX": 24,
+    "OriginY": 23
+  },
+  "walnut_twiggy_table_ui": {
+    "Location": "images/walnut/table/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/walnut/table/outline.png"
+  },
+  "walnut_twiggy_bed": {
+    "Location": "images/walnut/bed/bed.png",
+    "OriginX": 33,
+    "OriginY": 44
+  },
+  "walnut_twiggy_bed_top": {
+    "Location": "images/walnut/bed/bed_top.png",
+    "OriginX": 33,
+    "OriginY": 44
+  },
+  "walnut_twiggy_bed_shadow": {
+    "Location": "images/walnut/bed/shadow.png",
+    "OriginX": 33,
+    "OriginY": 44
+  },
+  "walnut_twiggy_bed_ui": {
+    "Location": "images/walnut/bed/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/walnut/bed/outline.png"
+  },
+  "walnut_twiggy_couch_south": {
+    "Location": "images/walnut/couch/south.png",
+    "OriginX": 10,
+    "OriginY": 29
+  },
+  "walnut_twiggy_couch_south_shadow": {
+    "Location": "images/walnut/couch/shadow.png",
+    "OriginX": 9,
+    "OriginY": 29
+  },
+  "walnut_twiggy_couch_east": {
+    "Location": "images/walnut/couch/east.png",
+    "OriginX": 13,
+    "OriginY": 29
+  },
+  "walnut_twiggy_couch_east_top": {
+    "Location": "images/walnut/couch/east_top.png",
+    "OriginX": 13,
+    "OriginY": 29
+  },
+  "walnut_twiggy_couch_east_shadow": {
+    "Location": "images/walnut/couch/shadow2.png",
+    "OriginX": 13,
+    "OriginY": 29
+  },
+  "walnut_twiggy_couch_west": {
+    "Location": "images/walnut/couch/west.png",
+    "OriginX": 37,
+    "OriginY": 29
+  },
+  "walnut_twiggy_couch_west_top": {
+    "Location": "images/walnut/couch/west_top.png",
+    "OriginX": 37,
+    "OriginY": 29
+  },
+  "walnut_twiggy_couch_west_shadow": {
+    "Location": "images/walnut/couch/shadow2.png",
+    "OriginX": 37,
+    "OriginY": 29
+  },
+  "walnut_twiggy_couch_north": {
+    "Location": "images/walnut/couch/north.png",
+    "OriginX": 34,
+    "OriginY": 31
+  },
+  "walnut_twiggy_couch_north_shadow": {
+    "Location": "images/walnut/couch/shadow.png",
+    "OriginX": 34,
+    "OriginY": 31
+  },
+  "walnut_twiggy_couch_north_top": {
+    "Location": "images/walnut/couch/north_top.png",
+    "OriginX": 34,
+    "OriginY": 31
+  },
+  "walnut_twiggy_couch_ui": {
+    "Location": "images/walnut/couch/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/walnut/couch/outline.png"
+  },
+  "walnut_twiggy_lamp_east": {
+    "Location": "images/walnut/lamp/east/east.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "walnut_twiggy_lamp_east_on": {
+    "Location": "images/walnut/lamp/east/east_on.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "walnut_twiggy_lamp_east_shadow": {
+    "Location": "images/walnut/lamp/east/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "walnut_twiggy_lamp_east_on_shadow": {
+    "Location": "images/walnut/lamp/east/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "walnut_twiggy_lamp_east_ui": {
+    "Location": "images/walnut/lamp/east/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/walnut/lamp/east/outline.png"
+  },
+  "walnut_twiggy_lamp_west": {
+    "Location": "images/walnut/lamp/west/west.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "walnut_twiggy_lamp_west_on": {
+    "Location": "images/walnut/lamp/west/west_on.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "walnut_twiggy_lamp_west_shadow": {
+    "Location": "images/walnut/lamp/west/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "walnut_twiggy_lamp_west_on_shadow": {
+    "Location": "images/walnut/lamp/west/shadow.png",
+    "OriginX": 20,
+    "OriginY": 37
+  },
+  "walnut_twiggy_lamp_west_ui": {
+    "Location": "images/walnut/lamp/west/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/walnut/lamp/west/outline.png"
+  },
+  "walnut_twiggy_macareme_v1": {
+    "Location": "images/walnut/wall_macareme/1/south.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "walnut_twiggy_macareme_v1_shadow": {
+    "Location": "images/walnut/wall_macareme/1/shadow.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "walnut_twiggy_macareme_v1_ui": {
+    "Location": "images/walnut/wall_macareme/1/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/walnut/wall_macareme/1/outline.png"
+  },
+  "walnut_twiggy_macareme_v2": {
+    "Location": "images/walnut/wall_macareme/2/south.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "walnut_twiggy_macareme_v2_shadow": {
+    "Location": "images/walnut/wall_macareme/2/shadow.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "walnut_twiggy_macareme_v2_ui": {
+    "Location": "images/walnut/wall_macareme/2/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/walnut/wall_macareme/2/outline.png"
+  },
+  "walnut_twiggy_macareme_v3": {
+    "Location": "images/walnut/wall_macareme/3/south.png",
+     "OriginX": 18,
+    "OriginY": -2
+  },
+  "walnut_twiggy_macareme_v3_shadow": {
+    "Location": "images/walnut/wall_macareme/3/shadow.png",
+    "OriginX": 18,
+    "OriginY": -2
+  },
+  "walnut_twiggy_macareme_v3_ui": {
+    "Location": "images/walnut/wall_macareme/3/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/walnut/wall_macareme/outline.png"
+  },
+  "twiggy_rug_south": {
+    "Location": "images/rugs/rug/rug1.png",
+    "OriginX": 41,
+    "OriginY": 37
+  },
+  "twiggy_rug_east": {
+    "Location": "images/rugs/rug/rug2.png",
+    "OriginX": 41,
+    "OriginY": 37
+  },
+  "twiggy_rug_west": {
+    "Location": "images/rugs/rug/rug3.png",
+    "OriginX": 41,
+    "OriginY": 37
+  },
+  "twiggy_rug_north": {
+    "Location": "images/rugs/rug/rug4.png",
+    "OriginX": 41,
+    "OriginY": 37
+  },
+  "twiggy_rug_ui": {
+    "Location": "images/rugs/rug/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/rugs/rug/outline.png"
+  },
+  "twiggy_rug_lace_south": {
+    "Location": "images/rugs/lace/lace_rug.png",
+    "OriginX": 9,
+    "OriginY": 9
+  },
+  "twiggy_rug_lace_ui": {
+    "Location": "images/rugs/lace/ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/rugs/lace/outline.png"
+  },
+  "messy_scroll_ui": {
+    "Location": "images/scroll_ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/scroll_outline.png"
+  },
+  "store_icon": {
+    "Location": "images/icon_modded.png",
+    "IsUiSprite": true
+  }
+}

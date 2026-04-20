@@ -1,0 +1,6 @@
+{
+  "sf_crafting_stump_shadow": {
+    "regular_sprite_name": "sf_crafting_stump_wood",
+    "sprite": "images/craft/shadow.png"
+  }
+}

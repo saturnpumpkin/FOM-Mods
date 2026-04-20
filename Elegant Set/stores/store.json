@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "item": { 
+        "cosmetic":  "elegant_hat" 
+      },
+      "store": "general",
+      "category": "modded_icon"
+    }
+  ],
+  "categories": [
+    {
+      "store": "general",
+      "icon_name": "modded_icon",
+      "sprite": "images/icon_modded.png"
+    }
+  ],
+  "items": [
+    {
+      "item": { 
+        "cosmetic":  "elegant_dress" 
+      },
+      "store": "general",
+      "category": "modded_icon"
+    }
+  ],
+  "categories": [
+    {
+      "store": "general",
+      "icon_name": "modded_icon",
+      "sprite": "images/icon_modded.png"
+    }
+  ],
+  "items": [
+    {
+      "item": { 
+        "cosmetic":  "elegant_shoes" 
+      },
+      "store": "general",
+      "category": "modded_icon"
+    }
+  ]
+}

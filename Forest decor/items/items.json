@@ -1,0 +1,287 @@
+{
+  "sf_farm_decor_scroll_bundle": {
+    "overwrites_other_mod": true,
+    "name": "Farm Decor Scroll",
+    "description": "A scroll that has decorative farm pieces",
+    "icon_sprite": "farm_decor_scroll_ui",
+    "soulbound": true,
+    "set_unlock": "sf_farm_decor_set",
+    "tags": [
+      "scroll",
+      "blacklist_popup"
+    ],
+    "value": {
+      "store": 1000
+    }
+  },
+  "sf_farm_decor_clovers": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "farm_decor_clovers_ui",
+    "name": "Clover Tile",
+    "description": "Clover tiles to decorate the farm with",
+    "object": "sf_farm_decor_clovers",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_farm_decor_set",
+      "starter_farm_set",
+      "ground_decor",
+      "stampingfeet"
+    ],
+    "recipe_key": "sf_farm_decor",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "sf_farm_decor_flower": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "farm_decor_flower_ui",
+    "name": "Flower Tile",
+    "description": "Flower tiles to decorate the farm with",
+    "object": "sf_farm_decor_flower",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_farm_decor_set",
+      "starter_farm_set",
+      "ground_decor",
+      "stampingfeet"
+    ],
+    "recipe_key": "sf_farm_decor",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "sf_farm_decor_leafy": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "farm_decor_leafy_ui",
+    "name": "Leafy Cluster",
+    "description": "Cluster of leaves to decorate the farm with",
+    "object": "sf_farm_decor_leafy",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_farm_decor_set",
+      "starter_farm_set",
+      "ground_decor",
+      "stampingfeet"
+    ],
+    "recipe_key": "sf_farm_decor",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "sf_farm_decor_log_ash": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "farm_decor_log_ash_ui",
+    "name": "Log Path - Ash",
+    "description": "Natural wooden stump steps in the ash colour",
+    "object": "sf_farm_decor_log_ash",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_farm_decor_set",
+      "starter_farm_set",
+      "ground_decor",
+      "stampingfeet"
+    ],
+    "recipe_key": "sf_farm_decor",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "sf_farm_decor_log_cherry": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "farm_decor_log_cherry_ui",
+    "name": "Log Path - Cherry",
+    "description": "Natural wooden stump steps in the cherry colour",
+    "object": "sf_farm_decor_log_cherry",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_farm_decor_set",
+      "starter_farm_set",
+      "ground_decor",
+      "stampingfeet"
+    ],
+    "recipe_key": "sf_farm_decor",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "sf_farm_decor_log_oak": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "farm_decor_log_oak_ui",
+    "name": "Log Path - Oak",
+    "description": "Natural wooden stump steps in the oak colour",
+    "object": "sf_farm_decor_log_oak",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_farm_decor_set",
+      "starter_farm_set",
+      "ground_decor",
+      "stampingfeet"
+    ],
+    "recipe_key": "sf_farm_decor",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "sf_farm_decor_log_walnut": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "farm_decor_log_walnut_ui",
+    "name": "Log Path - Walnut",
+    "description": "Natural wooden stump steps in the walnut colour",
+    "object": "sf_farm_decor_log_walnut",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_farm_decor_set",
+      "starter_farm_set",
+      "ground_decor",
+      "stampingfeet"
+    ],
+    "recipe_key": "sf_farm_decor",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "sf_farm_decor_rocks": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "farm_decor_rocks_ui",
+    "name": "Mossy Rock Decor",
+    "description": "Mossy rocks to decorate your farm with",
+    "object": "sf_farm_decor_rocks",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_farm_decor_set",
+      "starter_farm_set",
+      "ground_decor",
+      "stampingfeet"
+    ],
+    "recipe_key": "sf_farm_decor",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "sf_farm_decor_stump": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "farm_decor_stump_ui",
+    "name": "Tree Trunk Decor",
+    "description": "Tree Trunks to decorate your farm with. Can Place things on top.",
+    "object": "sf_farm_decor_stump",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_farm_decor_set",
+      "starter_farm_set",
+      "ground_decor",
+      "stampingfeet"
+    ],
+    "recipe_key": "sf_farm_decor",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "elegant_hat": {
+    "name": "Elegant Hat",
+    "description": "An elegant hat for the elegant-est farmer in town.",
+    "ui_slot": "head_gear",
+    "default_unlocked": true,
+    "ui_sub_category": "head_gear_misc",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/elegant_hat_ui.png",
+    "outlineFile": "images/elegant_hat_ui_outline.png",
+    "animationFiles": {
+      "head_gear": "images/elegant_hat"
+    }
+  },
+  "elegant_dress": {
+    "name": "Elegant Dress",
+    "description": "An elegant dress for the elegant-est farmer in town.",
+    "ui_slot": "top",
+    "default_unlocked": true,
+    "ui_sub_category": "dress",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/elegant_dress_ui.png",
+    "outlineFile": "images/elegant_dress_ui_outline.png",
+    "animationFiles": {
+      "sleeve_right": "images/elegant_dress/sleeve_right",
+      "sleeve_left": "images/elegant_dress/sleeve_left",
+      "torso": "images/elegant_dress/torso",
+      "waist": "images/elegant_dress/waist"
+    }
+  },
+  "elegant_shoes": {
+    "name": "Elegant Shoes",
+    "description": "Elegant shoes for the elegant-est farmer in town.",
+    "ui_slot": "feet",
+    "default_unlocked": true,
+    "ui_sub_category": "feet_misc",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/elegant_shoes_ui.png",
+    "outlineFile": "images/elegant_shoes_ui_outline.png",
+    "animationFiles": {
+      "feet": "images/elegant_shoes"
+    }
+  }
+}

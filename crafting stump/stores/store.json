@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "item": "sf_crafting_stump_scroll",
+      "store": "general",
+      "category": "shiny"
+    }
+  ],
+  "categories": [
+    {
+      "store": "general",
+      "icon_name": "shiny",
+      "sprite": "images/shiny.png"
+    }
+  ]
+}

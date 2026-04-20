@@ -1,0 +1,15 @@
+{
+  "cute_ribbon": {
+    "name": "Cute Ribbon",
+    "description": "A ribbon that is cute!",
+    "ui_slot": "head_gear",
+    "default_unlocked": true,
+    "ui_sub_category": "head_gear_misc",
+    "lutFile": "images/cuteribbon_lut.png",
+    "uiItem": "images/cuteribbon_ui.png",
+    "outlineFile": "images/cuteribbon_outline.png",
+    "animationFiles": {
+      "head_gear": "images/cuteribbon"
+    }
+  }
+}

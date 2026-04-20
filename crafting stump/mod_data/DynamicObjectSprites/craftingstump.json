@@ -1,0 +1,29 @@
+{
+  "mod_name": "stampingfeets crafting stump",
+  "dynamic_object_sprites": [
+    {
+      "original_sprite_name": "sf_crafting_stump_spring",
+      "replacement_sprite_name": "sf_crafting_stump_summer",
+      "base_sprite_name": "sf_crafting_stump_wood",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "sf_crafting_stump_spring",
+      "replacement_sprite_name": "sf_crafting_stump_autumn",
+      "base_sprite_name": "sf_crafting_stump_wood",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "sf_crafting_stump_spring",
+      "replacement_sprite_name": "sf_crafting_stump_winter",
+      "base_sprite_name": "sf_crafting_stump_wood",
+      "conditions": {
+        "season": "winter"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "item": { 
+        "cosmetic":  
+        "l_bun_bangs"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  
+        "l_bun_forehead"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  
+        "l_top_bangs"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  
+        "l_top_forehead"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  
+        "m_bun_bangs"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  
+        "m_bun_forehead"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  
+        "m_top_bangs"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  
+        "m_top_forehead"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  
+        "s_bun_bangs"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  
+        "s_bun_forehead"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  
+        "s_top_bangs"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  
+        "s_top_forehead"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    }    
+  ],
+  "categories": [
+    {
+      "store": "general",
+      "icon_name": "modded_icon",
+      "sprite": "images/icon_modded.png"
+    }
+  ]
+}

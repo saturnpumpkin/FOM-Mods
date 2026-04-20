@@ -1,0 +1,51 @@
+{
+  "sf_crafting_stump_wood": {
+    "Location": "images/craft/wood.png",
+    "OriginX": 8,
+    "OriginY": 10
+  },
+  "sf_crafting_stump_spring": {
+    "Location": "images/craft/crafting_stump_spring.png",
+    "OriginX": 8,
+    "OriginY": 10
+  },
+  "sf_crafting_stump_summer": {
+    "Location": "images/craft/crafting_stump_summer.png",
+    "OriginX": 8,
+    "OriginY": 10
+  },
+  "sf_crafting_stump_autumn": {
+    "Location": "images/craft/crafting_stump_autumn.png",
+    "OriginX": 8,
+    "OriginY": 10
+  },
+  "sf_crafting_stump_winter": {
+    "Location": "images/craft/crafting_stump_winter.png",
+    "OriginX": 8,
+    "OriginY": 10
+  },
+  "sf_crafting_stump_shadow": {
+    "Location": "images/craft/shadow.png",
+    "OriginX": 8,
+    "OriginY": 10
+  },
+  "sf_crafting_stump_preview": {
+    "Location": "images/craft/preview.png",
+    "OriginX": 8,
+    "OriginY": 10
+  },
+  "sf_crafting_stump_ui": {
+    "Location": "images/craft/ui.png",
+    "OutlineLocation": "images/craft/outline.png",
+    "IsUiSprite": true
+  },
+  "crafting_stump_scroll": {
+    "Location": "images/scroll.png",
+    "OutlineLocation": "images/scroll_outline.png",
+    "IsUiSprite": true
+  },
+  "icon_modded": {
+    "Location": "images/shiny.png",
+    "IsUiSprite": true
+  }                   
+}

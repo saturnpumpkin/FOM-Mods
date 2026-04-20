@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "item": "furniture_bundle2",
+      "store": "balor",
+      "category": "store_icon"
+    },
+    {
+      "item": "recipe_bundle2",
+      "store": "balor",
+      "category": "store_icon"
+    }
+  ],
+  "categories": [
+    {
+      "store": "balor",
+      "icon_name": "store_icon",
+      "sprite": "images/icon_modded.png"
+    }
+  ]
+}

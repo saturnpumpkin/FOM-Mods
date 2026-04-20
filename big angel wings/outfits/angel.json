@@ -1,0 +1,15 @@
+{
+  "angel_wingz": {
+    "name": "Angel Wings",
+    "description": "Wings fit for the town angel",
+    "ui_slot": "back",
+    "default_unlocked": true,
+    "ui_sub_category": "backpacks",
+    "lutFile": "images/angel_lut.png",
+    "uiItem": "images/angel_ui.png",
+    "outlineFile": "images/angel_outline.png",
+    "animationFiles": {
+      "back_gear": "images/angel"
+    }
+  }
+}

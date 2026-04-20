@@ -1,0 +1,39 @@
+{
+  "sf_crafting_stump": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        6,
+        4
+      ],
+      "collision_grid": [
+        "002222",
+        "002222",
+        "002222",
+        "002222"
+      ],
+      "mirror_west": false,
+      "can_be_child": false,
+      "interact_menu": {
+        "ari_offset": [
+          -8,
+          13
+        ],
+        "menu": "woodcrafting",
+        "bubble_big": "spr_ui_bark_icon_woodcrafting",
+        "bubble_small": "spr_ui_bark_icon_woodcrafting_small",
+        "offset": "interaction/woodcrafting_offset_stump"
+      },
+      "south": {
+        "interact_mask": "spr_object_crafting_table_spring_empty_east_interaction_mask",
+        "sprite": "sf_crafting_stump_wood",
+        "floor_sprite": "sf_crafting_stump_spring",
+        "offset": [
+          16,
+          0
+        ]
+      }
+    }
+  }
+}

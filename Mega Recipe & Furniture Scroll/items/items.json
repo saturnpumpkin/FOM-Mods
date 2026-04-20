@@ -1,0 +1,32 @@
+﻿{
+  "furniture_bundle2": {
+    "overwrites_other_mod": true,
+    "name": "Mega Furniture Scroll",
+    "description": "A scroll containing all furniture recipes",
+    "icon_sprite": "furniture_bundle_ui",
+    "soulbound": true,
+    "set_unlock": "furniture",
+    "tags": [
+      "scroll",
+      "blacklist_popup"
+    ],
+    "value": {
+      "store": 1000
+    }
+  },
+  "recipe_bundle2": {
+    "overwrites_other_mod": true,
+    "name": "Mega Recipe Scroll",
+    "description": "A scroll containing all cooking recipes",
+    "icon_sprite": "recipe_bundle_ui",
+    "soulbound": true,
+    "set_unlock": "food",
+    "tags": [
+      "scroll",
+      "blacklist_popup"
+    ],
+    "value": {
+      "store": 1000
+    }
+  }
+}

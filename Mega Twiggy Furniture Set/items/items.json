@@ -1,0 +1,1235 @@
+﻿{
+  "twiggy_furniture_bundle": {
+    "overwrites_other_mod": true,
+    "name": "Mega Twiggy Furniture Scroll",
+    "description": "A scroll containing blueprints to create some twiggy furniture",
+    "icon_sprite": "messy_scroll_ui",
+    "soulbound": true,
+    "set_unlock": "twiggy_set",
+    "tags": [
+      "scroll",
+      "blacklist_popup"
+    ],
+    "value": {
+      "store": 1000
+    }
+  },
+  "ash_twiggy_bed": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "ash_twiggy_bed_ui",
+    "name": "Twiggy Ash Bed",
+    "description": "An ash bed made with twigs",
+    "object": "ash_twiggy_bed",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "double_bed"
+    ],
+    "recipe_key": "ash_twiggy_bed",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "ash_twiggy_couch": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "ash_twiggy_couch_ui",
+    "name": "Twiggy Ash Couch",
+    "description": "An ash couch with knitted cover and cushions",
+    "object": "ash_twiggy_couch",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "sofa"
+    ],
+    "recipe_key": "ash_twiggy_couch",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "ash_twiggy_stool": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "ash_twiggy_stool_ui",
+    "name": "Twiggy Ash Stool",
+    "description": "An ash stool....?",
+    "object": "ash_twiggy_stool",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "stool"
+    ],
+    "recipe_key": "ash_twiggy_stool",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "ash_twiggy_shelf": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "ash_twiggy_shelf_ui",
+    "name": "Twiggy Ash Shelf",
+    "description": "An ash shelf made with wood and twigs",
+    "object": "ash_twiggy_shelf",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "dining_table"
+    ],
+    "recipe_key": "ash_twiggy_shelf",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "ash_twiggy_table": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "ash_twiggy_table_ui",
+    "name": "Twiggy Ash Table",
+    "description": "An ash table with multiple styles",
+    "object": "ash_twiggy_table",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "dining_table"
+    ],
+    "recipe_key": "ash_twiggy_table",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "ash_twiggy_lamp_west": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "ash_twiggy_lamp_west_ui",
+    "name": "West Twiggy Ash Lamp",
+    "description": "An ash twig with a light hanging from it",
+    "object": "ash_twiggy_lamp_west",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "floor_lighting"
+    ],
+    "recipe_key": "ash_twiggy_lamp_west",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "ash_twiggy_lamp_east": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "ash_twiggy_lamp_east_ui",
+    "name": "East Twiggy Ash Lamp",
+    "description": "An ash twig with a light hanging from it",
+    "object": "ash_twiggy_lamp_east",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "floor_lighting"
+    ],
+    "recipe_key": "ash_twiggy_lamp_east",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "ash_twiggy_macareme_v1": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "ash_twiggy_macareme_v1_ui",
+    "name": "Twiggy Ash Spring Macareme",
+    "description": "An ash twig with a spring macareme draping from it",
+    "object": "ash_twiggy_macareme_v1",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "ash_twiggy_macareme_v1",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "ash_twiggy_macareme_v2": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "ash_twiggy_macareme_v2_ui",
+    "name": "Twiggy Ash Autumn Macareme",
+    "description": "An ash twig with an autumn macareme draping from it",
+    "object": "ash_twiggy_macareme_v2",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "ash_twiggy_macareme_v2",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "ash_twiggy_macareme_v3": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "ash_twiggy_macareme_v3_ui",
+    "name": "Twiggy Ash Knit Macareme",
+    "description": "An ash twig with a knitted macareme draping from it",
+    "object": "ash_twiggy_macareme_v3",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "ash_twiggy_macareme_v3",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "cherry_twiggy_bed": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "cherry_twiggy_bed_ui",
+    "name": "Twiggy Cherry Bed",
+    "description": "An cherry bed made with twigs",
+    "object": "cherry_twiggy_bed",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "double_bed"
+    ],
+    "recipe_key": "cherry_twiggy_bed",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "cherry_twiggy_couch": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "cherry_twiggy_couch_ui",
+    "name": "Twiggy Cherry Couch",
+    "description": "An cherry couch with knitted cover and cushions",
+    "object": "cherry_twiggy_couch",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "sofa"
+    ],
+    "recipe_key": "cherry_twiggy_couch",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "cherry_twiggy_stool": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "cherry_twiggy_stool_ui",
+    "name": "Twiggy Cherry Stool",
+    "description": "An cherry stool....?",
+    "object": "cherry_twiggy_stool",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "stool"
+    ],
+    "recipe_key": "cherry_twiggy_stool",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "cherry_twiggy_shelf": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "cherry_twiggy_shelf_ui",
+    "name": "Twiggy Cherry Shelf",
+    "description": "An cherry shelf made with wood and twigs",
+    "object": "cherry_twiggy_shelf",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "dining_table"
+    ],
+    "recipe_key": "cherry_twiggy_shelf",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "cherry_twiggy_table": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "cherry_twiggy_table_ui",
+    "name": "Twiggy Cherry Table",
+    "description": "An cherry table with multiple styles",
+    "object": "cherry_twiggy_table",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "dining_table"
+    ],
+    "recipe_key": "cherry_twiggy_table",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "cherry_twiggy_lamp_west": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "cherry_twiggy_lamp_west_ui",
+    "name": "West Twiggy Cherry Lamp",
+    "description": "An cherry twig with a light hanging from it",
+    "object": "cherry_twiggy_lamp_west",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "floor_lighting"
+    ],
+    "recipe_key": "cherry_twiggy_lamp_west",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "cherry_twiggy_lamp_east": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "cherry_twiggy_lamp_east_ui",
+    "name": "East Twiggy Cherry Lamp",
+    "description": "An cherry twig with a light hanging from it",
+    "object": "cherry_twiggy_lamp_east",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "floor_lighting"
+    ],
+    "recipe_key": "cherry_twiggy_lamp_east",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "cherry_twiggy_macareme_v1": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "cherry_twiggy_macareme_v1_ui",
+    "name": "Twiggy Cherry Spring Macareme",
+    "description": "An cherry twig with a spring macareme draping from it",
+    "object": "cherry_twiggy_macareme_v1",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "cherry_twiggy_macareme_v1",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "cherry_twiggy_macareme_v2": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "cherry_twiggy_macareme_v2_ui",
+    "name": "Twiggy Cherry Autumn Macareme",
+    "description": "An cherry twig with an autumn macareme draping from it",
+    "object": "cherry_twiggy_macareme_v2",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "cherry_twiggy_macareme_v2",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "cherry_twiggy_macareme_v3": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "cherry_twiggy_macareme_v3_ui",
+    "name": "Twiggy Cherry Knit Macareme",
+    "description": "An cherry twig with a knitted macareme draping from it",
+    "object": "cherry_twiggy_macareme_v3",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "cherry_twiggy_macareme_v3",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "oak_twiggy_bed": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "oak_twiggy_bed_ui",
+    "name": "Twiggy Oak Bed",
+    "description": "An oak bed made with twigs",
+    "object": "oak_twiggy_bed",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "double_bed"
+    ],
+    "recipe_key": "oak_twiggy_bed",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "oak_twiggy_couch": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "oak_twiggy_couch_ui",
+    "name": "Twiggy Oak Couch",
+    "description": "An oak couch with knitted cover and cushions",
+    "object": "oak_twiggy_couch",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "sofa"
+    ],
+    "recipe_key": "oak_twiggy_couch",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "oak_twiggy_stool": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "oak_twiggy_stool_ui",
+    "name": "Twiggy Oak Stool",
+    "description": "An oak stool....?",
+    "object": "oak_twiggy_stool",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "stool"
+    ],
+    "recipe_key": "oak_twiggy_stool",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "oak_twiggy_shelf": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "oak_twiggy_shelf_ui",
+    "name": "Twiggy Oak Shelf",
+    "description": "An oak shelf made with wood and twigs",
+    "object": "oak_twiggy_shelf",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "dining_table"
+    ],
+    "recipe_key": "oak_twiggy_shelf",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "oak_twiggy_table": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "oak_twiggy_table_ui",
+    "name": "Twiggy Oak Table",
+    "description": "An oak table with multiple styles",
+    "object": "oak_twiggy_table",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "dining_table"
+    ],
+    "recipe_key": "oak_twiggy_table",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "oak_twiggy_lamp_west": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "oak_twiggy_lamp_west_ui",
+    "name": "West Twiggy Oak Lamp",
+    "description": "An oak twig with a light hanging from it",
+    "object": "oak_twiggy_lamp_west",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "floor_lighting"
+    ],
+    "recipe_key": "oak_twiggy_lamp_west",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "oak_twiggy_lamp_east": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "oak_twiggy_lamp_east_ui",
+    "name": "East Twiggy Oak Lamp",
+    "description": "An oak twig with a light hanging from it",
+    "object": "oak_twiggy_lamp_east",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "floor_lighting"
+    ],
+    "recipe_key": "oak_twiggy_lamp_east",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "oak_twiggy_macareme_v1": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "oak_twiggy_macareme_v1_ui",
+    "name": "Twiggy Oak Spring Macareme",
+    "description": "An oak twig with a spring macareme draping from it",
+    "object": "oak_twiggy_macareme_v1",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "oak_twiggy_macareme_v1",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "oak_twiggy_macareme_v2": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "oak_twiggy_macareme_v2_ui",
+    "name": "Twiggy Oak Autumn Macareme",
+    "description": "An oak twig with an autumn macareme draping from it",
+    "object": "oak_twiggy_macareme_v2",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "oak_twiggy_macareme_v2",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "oak_twiggy_macareme_v3": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "oak_twiggy_macareme_v3_ui",
+    "name": "Twiggy Oak Knit Macareme",
+    "description": "An oak twig with a knitted macareme draping from it",
+    "object": "oak_twiggy_macareme_v3",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "oak_twiggy_macareme_v3",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "walnut_twiggy_bed": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "walnut_twiggy_bed_ui",
+    "name": "Twiggy Walnut Bed",
+    "description": "An walnut bed made with twigs",
+    "object": "walnut_twiggy_bed",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "double_bed"
+    ],
+    "recipe_key": "walnut_twiggy_bed",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "walnut_twiggy_couch": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "walnut_twiggy_couch_ui",
+    "name": "Twiggy Walnut Couch",
+    "description": "An walnut couch with knitted cover and cushions",
+    "object": "walnut_twiggy_couch",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "sofa"
+    ],
+    "recipe_key": "walnut_twiggy_couch",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "walnut_twiggy_stool": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "walnut_twiggy_stool_ui",
+    "name": "Twiggy Walnut Stool",
+    "description": "An walnut stool....?",
+    "object": "walnut_twiggy_stool",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "stool"
+    ],
+    "recipe_key": "walnut_twiggy_stool",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "walnut_twiggy_shelf": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "walnut_twiggy_shelf_ui",
+    "name": "Twiggy Walnut Shelf",
+    "description": "An walnut shelf made with wood and twigs",
+    "object": "walnut_twiggy_shelf",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "dining_table"
+    ],
+    "recipe_key": "walnut_twiggy_shelf",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "walnut_twiggy_table": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "walnut_twiggy_table_ui",
+    "name": "Twiggy Walnut Table",
+    "description": "An walnut table with multiple styles",
+    "object": "walnut_twiggy_table",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "dining_table"
+    ],
+    "recipe_key": "walnut_twiggy_table",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "walnut_twiggy_lamp_west": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "walnut_twiggy_lamp_west_ui",
+    "name": "West Twiggy Walnut Lamp",
+    "description": "An walnut twig with a light hanging from it",
+    "object": "walnut_twiggy_lamp_west",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "floor_lighting"
+    ],
+    "recipe_key": "walnut_twiggy_lamp_west",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "walnut_twiggy_lamp_east": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "walnut_twiggy_lamp_east_ui",
+    "name": "East Twiggy Walnut Lamp",
+    "description": "An walnut twig with a light hanging from it",
+    "object": "walnut_twiggy_lamp_east",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "floor_lighting"
+    ],
+    "recipe_key": "walnut_twiggy_lamp_east",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "walnut_twiggy_macareme_v1": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "walnut_twiggy_macareme_v1_ui",
+    "name": "Twiggy Walnut Spring Macareme",
+    "description": "An walnut twig with a spring macareme draping from it",
+    "object": "walnut_twiggy_macareme_v1",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "walnut_twiggy_macareme_v1",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "walnut_twiggy_macareme_v2": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "walnut_twiggy_macareme_v2_ui",
+    "name": "Twiggy Walnut Autumn Macareme",
+    "description": "An walnut twig with an autumn macareme draping from it",
+    "object": "walnut_twiggy_macareme_v2",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "walnut_twiggy_macareme_v2",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "walnut_twiggy_macareme_v3": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "walnut_twiggy_macareme_v3_ui",
+    "name": "Twiggy Walnut Knit Macareme",
+    "description": "An walnut twig with a knitted macareme draping from it",
+    "object": "walnut_twiggy_macareme_v3",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "stampingfeet",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "walnut_twiggy_macareme_v3",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "basic_wood"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "twiggy_rug": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "twiggy_rug_ui",
+    "name": "Twiggy Knit Rug",
+    "description": "Four various coloured knit rugs",
+    "object": "twiggy_rug",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "large_rug",
+      "stampingfeet"
+    ],
+    "recipe_key": "twiggy_rug",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "twiggy_rug_lace": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "twiggy_rug_lace_ui",
+    "name": "Lacey Twiggy Rug",
+    "description": "A pink walnut closet you can store things in",
+    "object": "twiggy_rug_lace",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "twiggy_set",
+      "small_rug",
+      "stampingfeet"
+    ],
+    "recipe_key": "twiggy_rug_lace",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 4,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  }
+}

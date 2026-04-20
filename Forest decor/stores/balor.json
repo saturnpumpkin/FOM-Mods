@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "item": "sf_farm_decor_scroll_bundle",
+      "store": "balor",
+      "category": "shiny"
+    }
+  ],
+  "categories": [
+    {
+      "store": "balor",
+      "icon_name": "shiny",
+      "sprite": "images/shiny.png"
+    }
+  ]
+}

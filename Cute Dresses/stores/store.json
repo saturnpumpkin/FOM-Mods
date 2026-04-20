@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "item": { 
+        "cosmetic":  "sf_apron_dress_long"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  "sf_apron_dress_short"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  "sf_cardigan_dress_long"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  "sf_cardigan_dress_short"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  "sf_off_sleeve_dress_long"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  "sf_off_sleeve_dress_short"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  "sf_puffysleeve_overall_dress_long"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    },
+    {
+      "item": { 
+        "cosmetic":  "sf_puffysleeve_overall_dress_short"
+      },
+      "store": "general",
+      "category": "modded_icon"
+    }
+
+  ],
+  "categories": [
+    {
+      "store": "general",
+      "icon_name": "modded_icon",
+      "sprite": "images/icon_modded.png"
+    }
+  ]
+}

@@ -1,0 +1,8699 @@
+{
+  "dungeons/dungeons/biomes/0/combat_xp_gain": 1000,
+  "dungeons/dungeons/biomes/1/combat_xp_gain": 1000,
+  "dungeons/dungeons/biomes/2/combat_xp_gain": 1000,
+  "dungeons/dungeons/biomes/3/combat_xp_gain": 1000,
+  "dungeons/dungeons/biomes/4/combat_xp_gain": 1000,
+  "dungeons/dungeons/biomes": [
+    {
+      "combat_xp_gain": 1000
+    },
+    {
+      "combat_xp_gain": 1000
+    },
+    {
+      "combat_xp_gain": 1000
+    },
+    {
+      "combat_xp_gain": 1000
+    },
+    {
+      "combat_xp_gain": 1000
+    }
+  ],
+  "dungeons/dungeons/biomes/0": [
+    {
+      "combat_xp_gain": 1000
+    }
+  ],
+  "dungeons/dungeons/biomes/1": [
+    {
+      "combat_xp_gain": 1000
+    }
+  ],
+  "dungeons/dungeons/biomes/2": [
+    {
+      "combat_xp_gain": 1000
+    }
+  ],
+  "dungeons/dungeons/biomes/3": [
+    {
+      "combat_xp_gain": 1000
+    }
+  ],
+  "dungeons/dungeons/biomes/4": [
+    {
+      "combat_xp_gain": 1000
+    }
+  ],
+  "dungeons/dungeons": {
+    "biomes": [
+      {
+        "combat_xp_gain": 1000
+      },
+      {
+        "combat_xp_gain": 1000
+      },
+      {
+        "combat_xp_gain": 1000
+      },
+      {
+        "combat_xp_gain": 1000
+      },
+      {
+        "combat_xp_gain": 1000
+      }
+    ]
+  },
+  "dungeons": {
+    "dungeons": {
+      "biomes": [
+        {
+          "combat_xp_gain": 1000
+        },
+        {
+          "combat_xp_gain": 1000
+        },
+        {
+          "combat_xp_gain": 1000
+        },
+        {
+          "combat_xp_gain": 1000
+        },
+        {
+          "combat_xp_gain": 1000
+        }
+      ]
+    },
+    "misc": {
+      "void_powder_chance": 80
+    }
+  },
+  "dungeons/misc": {
+    "bug_count": [
+      3,
+      5
+    ]
+  },
+  "object_prototypes": {
+    "breakable": {
+      "coral_small": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "coral",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_2": [
+            {
+              "item": "coral",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "coral_large": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "coral",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_2": [
+            {
+              "item": "coral",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "crystal_small": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "crystal",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_3": [
+            {
+              "item": "crystal",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "crystal_large": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "crystal",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_3": [
+            {
+              "item": "crystal",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "obsidian_small": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "obsidian",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_4": [
+            {
+              "item": "obsidian",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "obsidian_large": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "obsidian",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_4": [
+            {
+              "item": "obsidian",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "voidite_small": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "voidite",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_5": [
+            {
+              "item": "voidite",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "voidite_large": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "voidite",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_5": [
+            {
+              "item": "voidite",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "debris": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "cave_shark",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cave_eel",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rock_guppy",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "stone_loach",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cave_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "mine_cricket",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "tunnel_millipede",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "copper_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "worm",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "lantern_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "shadow_flower",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "narrows_moss",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "upper_mines_mushroom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sweetroot",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_2": [
+            {
+              "item": "mines_mussels",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "tide_lettuce",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "underseaweed",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cave_kelp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sea_grapes",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "waterfly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hermit_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coral_mantis",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "puddle_spider",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sea_scarab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sapphire_betta",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "transparent_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "archerfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "water_balloon_fish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "mini_whale_shark",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_3": [
+            {
+              "item": "crystal_rose",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rockroot",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "earthshroom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "shale_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "crystal_berries",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "crystal_wing_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gem_shard_caterpillar",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "crystalline_cricket",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rock_roach",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "emerald_horned_charger",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "deep_earthworm",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rockbiter",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "shardfin",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "earth_eel",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "pebble_minnow",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_4": [
+            {
+              "item": "lava_piranha",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "armored_bass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "candelabra_seadragon",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sulfur_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "firesail_fish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "fire_wasp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "lava_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cooktop_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "smoke_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "diamond_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "flame_pepper",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ash_mushroom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "lava_chestnuts",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hot_potato",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "breath_of_fire",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_5": [
+            {
+              "item": "ancient_firefly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "void_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "parchment_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hidden_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "winged_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "luminescent_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "giant_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gazer",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coelacanth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "spell_fruit",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "written_root",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "essence_blossom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ethereal_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "chirping_fern",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "box": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "cave_shark",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cave_eel",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rock_guppy",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "stone_loach",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cave_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "mine_cricket",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "tunnel_millipede",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "copper_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "worm",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "lantern_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "shadow_flower",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "narrows_moss",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "upper_mines_mushroom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sweetroot",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_2": [
+            {
+              "item": "mines_mussels",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "tide_lettuce",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "underseaweed",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cave_kelp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sea_grapes",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "waterfly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hermit_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coral_mantis",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "puddle_spider",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sea_scarab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sapphire_betta",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "transparent_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "archerfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "water_balloon_fish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "mini_whale_shark",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_3": [
+            {
+              "item": "crystal_rose",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rockroot",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "earthshroom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "shale_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "crystal_berries",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "crystal_wing_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gem_shard_caterpillar",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "crystalline_cricket",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rock_roach",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "emerald_horned_charger",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "deep_earthworm",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rockbiter",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "shardfin",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "earth_eel",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "pebble_minnow",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_4": [
+            {
+              "item": "lava_piranha",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "armored_bass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "candelabra_seadragon",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sulfur_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "firesail_fish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "fire_wasp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "lava_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cooktop_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "smoke_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "diamond_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "flame_pepper",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ash_mushroom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "lava_chestnuts",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hot_potato",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "breath_of_fire",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_5": [
+            {
+              "item": "ancient_firefly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "void_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "parchment_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hidden_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "winged_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "luminescent_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "giant_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gazer",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coelacanth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "spell_fruit",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "written_root",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "essence_blossom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ethereal_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "chirping_fern",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "barrel": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "cave_shark",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cave_eel",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rock_guppy",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "stone_loach",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cave_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "mine_cricket",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "tunnel_millipede",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "copper_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "worm",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "lantern_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "shadow_flower",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "narrows_moss",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "upper_mines_mushroom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sweetroot",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_2": [
+            {
+              "item": "mines_mussels",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "tide_lettuce",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "underseaweed",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cave_kelp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sea_grapes",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "waterfly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hermit_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coral_mantis",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "puddle_spider",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sea_scarab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sapphire_betta",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "transparent_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "archerfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "water_balloon_fish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "mini_whale_shark",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_3": [
+            {
+              "item": "crystal_rose",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rockroot",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "earthshroom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "shale_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "crystal_berries",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "crystal_wing_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gem_shard_caterpillar",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "crystalline_cricket",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rock_roach",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "emerald_horned_charger",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "deep_earthworm",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rockbiter",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "shardfin",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "earth_eel",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "pebble_minnow",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_4": [
+            {
+              "item": "lava_piranha",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "armored_bass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "candelabra_seadragon",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sulfur_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "firesail_fish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "fire_wasp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "lava_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cooktop_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "smoke_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "diamond_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "flame_pepper",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ash_mushroom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "lava_chestnuts",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hot_potato",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "breath_of_fire",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_5": [
+            {
+              "item": "ancient_firefly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "void_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "parchment_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hidden_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "winged_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "luminescent_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "giant_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gazer",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coelacanth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "spell_fruit",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "written_root",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "essence_blossom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ethereal_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "chirping_fern",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "crate": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "cave_shark",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cave_eel",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rock_guppy",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "stone_loach",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cave_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "mine_cricket",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "tunnel_millipede",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "copper_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "worm",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "lantern_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "shadow_flower",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "narrows_moss",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "upper_mines_mushroom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sweetroot",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_2": [
+            {
+              "item": "mines_mussels",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "tide_lettuce",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "underseaweed",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cave_kelp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sea_grapes",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "waterfly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hermit_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coral_mantis",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "puddle_spider",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sea_scarab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sapphire_betta",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "transparent_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "archerfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "water_balloon_fish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "mini_whale_shark",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_3": [
+            {
+              "item": "crystal_rose",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rockroot",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "earthshroom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "shale_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "crystal_berries",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "crystal_wing_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gem_shard_caterpillar",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "crystalline_cricket",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rock_roach",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "emerald_horned_charger",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "deep_earthworm",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "rockbiter",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "shardfin",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "earth_eel",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "pebble_minnow",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_4": [
+            {
+              "item": "lava_piranha",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "armored_bass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "candelabra_seadragon",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "sulfur_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "firesail_fish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "fire_wasp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "lava_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "cooktop_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "smoke_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "diamond_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "flame_pepper",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ash_mushroom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "lava_chestnuts",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hot_potato",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "breath_of_fire",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_5": [
+            {
+              "item": "ancient_firefly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "void_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "parchment_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hidden_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "winged_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "luminescent_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "giant_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gazer",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coelacanth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "spell_fruit",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "written_root",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "essence_blossom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ethereal_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "chirping_fern",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "ruins_pot_white": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "ancient_firefly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "void_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "parchment_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hidden_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "winged_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "luminescent_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "giant_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gazer",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coelacanth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "spell_fruit",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "written_root",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "essence_blossom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ethereal_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "chirping_fern",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_5": [
+            {
+              "item": "ancient_firefly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "void_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "parchment_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hidden_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "winged_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "luminescent_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "giant_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gazer",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coelacanth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "spell_fruit",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "written_root",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "essence_blossom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ethereal_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "chirping_fern",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "ruins_pot_red": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "ancient_firefly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "void_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "parchment_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hidden_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "winged_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "luminescent_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "giant_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gazer",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coelacanth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "spell_fruit",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "written_root",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "essence_blossom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ethereal_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "chirping_fern",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_5": [
+            {
+              "item": "ancient_firefly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "void_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "parchment_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hidden_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "winged_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "luminescent_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "giant_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gazer",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coelacanth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "spell_fruit",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "written_root",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "essence_blossom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ethereal_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "chirping_fern",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      },
+      "ruins_pot_purple": {
+        "drops": {
+          "biome_1": [
+            {
+              "item": "ancient_firefly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "void_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "parchment_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hidden_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "winged_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "luminescent_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "giant_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gazer",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coelacanth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "spell_fruit",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "written_root",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "essence_blossom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ethereal_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "chirping_fern",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ],
+          "biome_5": [
+            {
+              "item": "ancient_firefly",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "void_snail",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "parchment_moth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "hidden_beetle",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "winged_shrimp",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "luminescent_crab",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "giant_jellyfish",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "gazer",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "coelacanth",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "spell_fruit",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "written_root",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "essence_blossom",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "ethereal_grass",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            },
+            {
+              "item": "chirping_fern",
+              "chance": 80,
+              "count_range": [
+                5,
+                10
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "rock": {
+      "boulder_rock_stone": {
+        "mining_xp_gain": 1000
+      },
+      "large_rock_stone_one": {
+        "mining_xp_gain": 1000
+      },
+      "large_rock_stone_upper": {
+        "mining_xp_gain": 1000
+      },
+      "large_rock_stone_two": {
+        "mining_xp_gain": 1000
+      },
+      "large_rock_stone_three": {
+        "mining_xp_gain": 1000
+      },
+      "large_rock_stone_four": {
+        "mining_xp_gain": 1000
+      },
+      "large_rock_stone_five": {
+        "mining_xp_gain": 1000
+      },
+      "small_dirt_rock_one": {
+        "mining_xp_gain": 1000,
+        "drops": [
+          {
+            "item": "sod",
+            "chance": 10,
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "clay",
+            "chance": 10,
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "peat",
+            "chance": 10,
+            "count_range": [
+              3,
+              5
+            ]
+          }
+        ]
+      },
+      "small_dirt_rock_two": {
+        "mining_xp_gain": 1000,
+        "drops": [
+          {
+            "item": "sod",
+            "chance": 10,
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "clay",
+            "chance": 10,
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "peat",
+            "chance": 10,
+            "count_range": [
+              3,
+              5
+            ]
+          }
+        ]
+      },
+      "small_dirt_rock_three": {
+        "mining_xp_gain": 1000,
+        "drops": [
+          {
+            "item": "sod",
+            "chance": 10,
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "clay",
+            "chance": 10,
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "peat",
+            "chance": 10,
+            "count_range": [
+              3,
+              5
+            ]
+          }
+        ]
+      },
+      "small_dirt_rock_four": {
+        "mining_xp_gain": 1000,
+        "drops": [
+          {
+            "item": "sod",
+            "chance": 10,
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "clay",
+            "chance": 10,
+            "count_range": [
+              3,
+              5
+            ]
+          },
+          {
+            "item": "peat",
+            "chance": 10,
+            "count_range": [
+              3,
+              5
+            ]
+          }
+        ]
+      },
+      "rock_copper": {
+        "drops": [
+          {
+            "item": "ore_copper",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_copper_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rock_iron": {
+        "drops": [
+          {
+            "item": "ore_iron",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_iron_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rock_silver": {
+        "drops": [
+          {
+            "item": "ore_silver",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_silver_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rock_gold": {
+        "drops": [
+          {
+            "item": "ore_gold",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_gold_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rock_mistril": {
+        "drops": [
+          {
+            "item": "ore_mistril",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_mistril_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "light": {
+          "name": "circle_hundred_fifty_two",
+          "offset": [
+            0,
+            7
+          ]
+        }
+      },
+      "rock_pink_diamond": {
+        "drops": [
+          {
+            "item": "ore_pink_diamond",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_pink_diamond",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "light": {
+          "name": "circle_hundred_fifty_two",
+          "offset": [
+            0,
+            7
+          ]
+        }
+      },
+      "rock_ruby": {
+        "drops": [
+          {
+            "item": "ore_ruby",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_ruby",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rock_sapphire": {
+        "drops": [
+          {
+            "item": "ore_sapphire",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_sapphire",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rock_emerald": {
+        "drops": [
+          {
+            "item": "ore_emerald",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_emerald",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rock_diamond": {
+        "drops": [
+          {
+            "item": "ore_diamond",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_diamond",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "seam_rock_copper": {
+        "drops": [
+          {
+            "item": "ore_copper",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_copper_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "seam_rock_iron": {
+        "drops": [
+          {
+            "item": "ore_iron",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_iron_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "seam_rock_silver": {
+        "drops": [
+          {
+            "item": "ore_silver",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_silver_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "seam_rock_gold": {
+        "drops": [
+          {
+            "item": "ore_gold",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_gold_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "seam_rock_mistril": {
+        "drops": [
+          {
+            "item": "ore_mistril",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_mistril_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "light": {
+          "name": "circle_hundred_fifty_two",
+          "offset": [
+            0,
+            7
+          ]
+        }
+      },
+      "node_copper": {
+        "drops": [
+          {
+            "item": "ore_copper",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_copper_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "node_iron": {
+        "drops": [
+          {
+            "item": "ore_iron",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_iron_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "node_silver": {
+        "drops": [
+          {
+            "item": "ore_silver",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_silver_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "node_gold": {
+        "drops": [
+          {
+            "item": "ore_gold",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_gold_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "node_mistril": {
+        "drops": [
+          {
+            "item": "ore_mistril",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_mistril_ore",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "light": {
+          "name": "circle_hundred_fifty_two",
+          "offset": [
+            0,
+            7
+          ]
+        }
+      },
+      "node_ruby": {
+        "drops": [
+          {
+            "item": "ore_ruby",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_ruby",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "node_sapphire": {
+        "drops": [
+          {
+            "item": "ore_sapphire",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_sapphire",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "node_emerald": {
+        "drops": [
+          {
+            "item": "ore_emerald",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_emerald",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "node_diamond": {
+        "drops": [
+          {
+            "item": "ore_diamond",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_diamond",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "node_pink_diamond": {
+        "drops": [
+          {
+            "item": "ore_pink_diamond",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "perfect_pink_diamond",
+            "chance": 50,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ],
+        "light": {
+          "name": "circle_hundred_fifty_two",
+          "offset": [
+            0,
+            7
+          ]
+        }
+      }
+    }
+  },
+  "monsters/bat/bat/drops/0/chance": 100,
+  "monsters/bat/bat/drops/1/chance": 100,
+  "monsters/bat/bat_blue/drops/0/chance": 100,
+  "monsters/bat/bat_blue/drops/1/chance": 100,
+  "monsters/clod/rockclod/drops/0/chance": 100,
+  "monsters/clod/rockclod/drops/1/chance": 100,
+  "monsters/clod/copperclod/drops/0/chance": 100,
+  "monsters/clod/copperclod/drops/1/chance": 100,
+  "monsters/clod/rockclod_blue/drops/0/chance": 100,
+  "monsters/clod/rockclod_blue/drops/1/chance": 100,
+  "monsters/clod/ironclod/drops/0/chance": 100,
+  "monsters/clod/ironclod/drops/1/chance": 100,
+  "monsters/clod/rockclod_green/drops/0/chance": 100,
+  "monsters/clod/rockclod_green/drops/1/chance": 100,
+  "monsters/clod/silverclod/drops/0/chance": 100,
+  "monsters/clod/silverclod/drops/1/chance": 100,
+  "monsters/clod/rockclod_red/drops/0/chance": 100,
+  "monsters/clod/rockclod_red/drops/1/chance": 100,
+  "monsters/clod/goldclod/drops/0/chance": 100,
+  "monsters/clod/goldclod/drops/1/chance": 100,
+  "monsters/clod/rockclod_purple/drops/0/chance": 100,
+  "monsters/clod/rockclod_purple/drops/1/chance": 100,
+  "monsters/clod/mistrilclod/drops/0/chance": 100,
+  "monsters/clod/mistrilclod/drops/1/chance": 100,
+  "monsters/enchantern/enchantern/drops/0/chance": 100,
+  "monsters/enchantern/enchantern/drops/1/chance": 100,
+  "monsters/enchantern/enchantern_blue/drops/0/chance": 100,
+  "monsters/enchantern/enchantern_blue/drops/1/chance": 100,
+  "monsters/shroom/mushroom/drops/0/chance": 100,
+  "monsters/shroom/mushroom/drops/1/chance": 100,
+  "monsters/shroom/mushroom_green/drops/0/chance": 100,
+  "monsters/shroom/mushroom_green/drops/1/chance": 100,
+  "monsters/shroom/mushroom_blue/drops/0/chance": 100,
+  "monsters/shroom/mushroom_blue/drops/1/chance": 100,
+  "monsters/shroom/mushroom_purple/drops/0/chance": 100,
+  "monsters/shroom/mushroom_purple/drops/1/chance": 100,
+  "monsters/sap/sapling_cool/drops/0/chance": 100,
+  "monsters/sap/sapling_cool/drops/1/chance": 100,
+  "monsters/sap/sapling/drops/0/chance": 100,
+  "monsters/sap/sapling/drops/1/chance": 100,
+  "monsters/sap/sapling_blue/drops/0/chance": 100,
+  "monsters/sap/sapling_blue/drops/1/chance": 100,
+  "monsters/sap/sapling_purple/drops/0/chance": 100,
+  "monsters/sap/sapling_purple/drops/1/chance": 100,
+  "monsters/sap/sapling_orange/drops/0/chance": 100,
+  "monsters/sap/sapling_orange/drops/1/chance": 100,
+  "monsters/sap/sapling_orange_mini/drops/0/chance": 100,
+  "monsters/sap/sapling_orange_mini/drops/1/chance": 100,
+  "monsters/sap/sapling_pink/drops/0/chance": 100,
+  "monsters/sap/sapling_pink/drops/1/chance": 100,
+  "monsters/mite/stalagmite/drops/0/chance": 100,
+  "monsters/mite/stalagmite/drops/1/chance": 100,
+  "monsters/mite/stalagmite_green/drops/0/chance": 100,
+  "monsters/mite/stalagmite_green/drops/1/chance": 100,
+  "monsters/mite/stalagmite_purple/drops/0/chance": 100,
+  "monsters/mite/stalagmite_purple/drops/1/chance": 100,
+  "monsters/spirit/spirit/drops/0/chance": 100,
+  "monsters/spirit/spirit/drops/1/chance": 100,
+  "monsters/barrel/barrel/drops/0/chance": 100,
+  "monsters/barrel/barrel/drops/1/chance": 100,
+  "monsters/statue/griffin_statue/drops/0/chance": 100,
+  "monsters/statue/griffin_statue/drops/1/chance": 100,
+  "monsters/tome/tome/drops/0/chance": 100,
+  "monsters/tome/tome/drops/1/chance": 100,
+  "monsters/spirit/spirit_purple/drops/0/chance": 100,
+  "monsters/spirit/spirit_purple/drops/1/chance": 100,
+  "monsters/spirit/spirit_purple/drops/2/chance": 100,
+  "monsters/cat/cat/drops/0/chance": 100,
+  "monsters/cat/cat/drops/1/chance": 100,
+  "monsters/cat/cat_void/drops/0/chance": 100,
+  "monsters/rock_stack/rock_stack/drops/0/chance": 100,
+  "monsters/rock_stack/rock_stack/drops/1/chance": 100,
+  "monsters/rock_stack/rock_stack_lava/drops/0/chance": 100,
+  "monsters/rock_stack/rock_stack_lava/drops/1/chance": 100,
+  "monsters/bat/bat/drops/0/item": "essence_drop",
+  "monsters/bat/bat/drops/1/item": "monster_wing",
+  "monsters/bat/bat_blue/drops/0/item": "essence_drop",
+  "monsters/bat/bat_blue/drops/1/item": "monster_wing",
+  "monsters/clod/rockclod/drops/0/item": "monster_shell",
+  "monsters/clod/rockclod/drops/1/item": "monster_shell",
+  "monsters/clod/copperclod/drops/0/item": "monster_shell",
+  "monsters/clod/copperclod/drops/1/item": "monster_shell",
+  "monsters/clod/rockclod_blue/drops/0/item": "monster_shell",
+  "monsters/clod/rockclod_blue/drops/1/item": "monster_shell",
+  "monsters/clod/ironclod/drops/0/item": "monster_shell",
+  "monsters/clod/ironclod/drops/1/item": "monster_shell",
+  "monsters/clod/rockclod_green/drops/0/item": "monster_shell",
+  "monsters/clod/rockclod_green/drops/1/item": "monster_shell",
+  "monsters/clod/silverclod/drops/0/item": "monster_shell",
+  "monsters/clod/silverclod/drops/1/item": "monster_shell",
+  "monsters/clod/rockclod_red/drops/0/item": "monster_shell",
+  "monsters/clod/rockclod_red/drops/1/item": "monster_shell",
+  "monsters/clod/goldclod/drops/0/item": "monster_shell",
+  "monsters/clod/goldclod/drops/1/item": "monster_shell",
+  "monsters/clod/rockclod_purple/drops/0/item": "monster_shell",
+  "monsters/clod/rockclod_purple/drops/1/item": "monster_shell",
+  "monsters/clod/mistrilclod/drops/0/item": "monster_shell",
+  "monsters/clod/mistrilclod/drops/1/item": "monster_shell",
+  "monsters/enchantern/enchantern/drops/0/item": "glass",
+  "monsters/enchantern/enchantern/drops/1/item": "monster_core",
+  "monsters/enchantern/enchantern_blue/drops/0/item": "glass",
+  "monsters/enchantern/enchantern_blue/drops/1/item": "monster_core",
+  "monsters/shroom/mushroom/drops/0/item": "red_toadstool",
+  "monsters/shroom/mushroom/drops/1/item": "monster_powder",
+  "monsters/shroom/mushroom_green/drops/0/item": "wild_mushroom",
+  "monsters/shroom/mushroom_green/drops/1/item": "monster_powder",
+  "monsters/shroom/mushroom_blue/drops/0/item": "glowing_mushroom",
+  "monsters/shroom/mushroom_blue/drops/1/item": "monster_powder",
+  "monsters/shroom/mushroom_purple/drops/0/item": "purple_mushroom",
+  "monsters/shroom/mushroom_purple/drops/1/item": "monster_powder",
+  "monsters/sap/sapling_cool/drops/0/item": "sap",
+  "monsters/sap/sapling_cool/drops/1/item": "monster_fang",
+  "monsters/sap/sapling/drops/0/item": "sap",
+  "monsters/sap/sapling/drops/1/item": "monster_fang",
+  "monsters/sap/sapling_blue/drops/0/item": "sap",
+  "monsters/sap/sapling_blue/drops/1/item": "monster_fang",
+  "monsters/sap/sapling_purple/drops/0/item": "sap",
+  "monsters/sap/sapling_purple/drops/1/item": "monster_fang",
+  "monsters/sap/sapling_orange/drops/0/item": "sap",
+  "monsters/sap/sapling_orange/drops/1/item": "monster_fang",
+  "monsters/sap/sapling_orange_mini/drops/0/item": "sap",
+  "monsters/sap/sapling_orange_mini/drops/1/item": "monster_fang",
+  "monsters/sap/sapling_pink/drops/0/item": "sap",
+  "monsters/sap/sapling_pink/drops/1/item": "monster_fang",
+  "monsters/mite/stalagmite/drops/0/item": "monster_horn",
+  "monsters/mite/stalagmite/drops/1/item": "monster_horn",
+  "monsters/mite/stalagmite_green/drops/0/item": "monster_horn",
+  "monsters/mite/stalagmite_green/drops/1/item": "monster_horn",
+  "monsters/mite/stalagmite_purple/drops/0/item": "monster_horn",
+  "monsters/mite/stalagmite_purple/drops/1/item": "monster_horn",
+  "monsters/spirit/spirit/drops/0/item": "monster_core",
+  "monsters/spirit/spirit/drops/1/item": "monster_core",
+  "monsters/barrel/barrel/drops/0/item": "monster_shell",
+  "monsters/barrel/barrel/drops/1/item": "monster_shell",
+  "monsters/statue/griffin_statue/drops/0/item": "sap",
+  "monsters/statue/griffin_statue/drops/1/item": "monster_fang",
+  "monsters/tome/tome/drops/0/item": "sap",
+  "monsters/tome/tome/drops/1/item": "monster_fang",
+  "monsters/spirit/spirit_purple/drops/0/item": "monster_core",
+  "monsters/spirit/spirit_purple/drops/1/item": "monster_core",
+  "monsters/spirit/spirit_purple/drops/2/item": "monster_core",
+  "monsters/cat/cat/drops/0/item": "monster_whisker",
+  "monsters/cat/cat/drops/1/item": "monster_whisker",
+  "monsters/cat/cat_void/drops/0/item": "monster_whisker",
+  "monsters/rock_stack/rock_stack/drops/0/item": "monster_block",
+  "monsters/rock_stack/rock_stack/drops/1/item": "monster_block",
+  "monsters/rock_stack/rock_stack_lava/drops/0/item": "monster_block",
+  "monsters/rock_stack/rock_stack_lava/drops/1/item": "monster_block",
+  "monsters/bat/bat": {
+    "drops": [
+      {
+        "item": "essence_drop",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_wing",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/bat/bat_blue": {
+    "drops": [
+      {
+        "item": "essence_drop",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_wing",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/clod/rockclod": {
+    "drops": [
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/clod/copperclod": {
+    "drops": [
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/clod/rockclod_blue": {
+    "drops": [
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/clod/ironclod": {
+    "drops": [
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/clod/rockclod_green": {
+    "launcher": false,
+    "drops": [
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/clod/silverclod": {
+    "drops": [
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/clod/rockclod_red": {
+    "drops": [
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/clod/goldclod": {
+    "drops": [
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/clod/rockclod_purple": {
+    "drops": [
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/clod/mistrilclod": {
+    "drops": [
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/enchantern/enchantern": {
+    "charge_timer": [
+      0,
+      10
+    ],
+    "projectile_timer": [
+      1,
+      10
+    ],
+    "windup": [
+      1,
+      10
+    ],
+    "waiting": [
+      500,
+      700
+    ],
+    "flee_timer": [
+      500,
+      700
+    ],
+    "drops": [
+      {
+        "item": "glass",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_core",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/enchantern/enchantern_blue": {
+    "charge_timer": [
+      0,
+      10
+    ],
+    "projectile_timer": [
+      1,
+      10
+    ],
+    "windup": [
+      1,
+      10
+    ],
+    "waiting": [
+      500,
+      700
+    ],
+    "flee_timer": [
+      500,
+      700
+    ],
+    "drops": [
+      {
+        "item": "glass",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_core",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/shroom/mushroom": {
+    "drops": [
+      {
+        "item": "red_toadstool",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_powder",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/shroom/mushroom_green": {
+    "drops": [
+      {
+        "item": "wild_mushroom",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_powder",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/shroom/mushroom_blue": {
+    "drops": [
+      {
+        "item": "glowing_mushroom",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_powder",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/shroom/mushroom_purple": {
+    "drops": [
+      {
+        "item": "purple_mushroom",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_powder",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/sap/sapling_cool": {
+    "drops": [
+      {
+        "item": "sap",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_fang",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/sap/sapling": {
+    "drops": [
+      {
+        "item": "sap",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_fang",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/sap/sapling_blue": {
+    "drops": [
+      {
+        "item": "sap",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_fang",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/sap/sapling_purple": {
+    "drops": [
+      {
+        "item": "sap",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_fang",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/sap/sapling_orange": {
+    "drops": [
+      {
+        "item": "sap",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_fang",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/sap/sapling_orange_mini": {
+    "drops": [
+      {
+        "item": "sap",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_fang",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/sap/sapling_pink": {
+    "drops": [
+      {
+        "item": "sap",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_fang",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/mite/stalagmite": {
+    "drops": [
+      {
+        "item": "monster_horn",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_horn",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/mite/stalagmite_green": {
+    "drops": [
+      {
+        "item": "monster_horn",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_horn",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/mite/stalagmite_purple": {
+    "drops": [
+      {
+        "item": "monster_horn",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_horn",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/spirit/spirit": {
+    "drops": [
+      {
+        "item": "monster_core",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_core",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/barrel/barrel": {
+    "drops": [
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/statue/griffin_statue": {
+    "drops": [
+      {
+        "item": "sap",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_fang",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/tome/tome": {
+    "drops": [
+      {
+        "item": "sap",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_fang",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/spirit/spirit_purple": {
+    "drops": [
+      {
+        "item": "monster_core",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_core",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_core",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/cat/cat": {
+    "drops": [
+      {
+        "item": "monster_whisker",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_whisker",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/cat/cat_void": {
+    "drops": [
+      {
+        "item": "monster_whisker",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/rock_stack/rock_stack": {
+    "drops": [
+      {
+        "item": "monster_block",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_block",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/rock_stack/rock_stack_lava": {
+    "drops": [
+      {
+        "item": "monster_block",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      },
+      {
+        "item": "monster_block",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/bat/bat/drops": [
+    {
+      "item": "essence_drop",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_wing",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/bat/bat_blue/drops": [
+    {
+      "item": "essence_drop",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_wing",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/clod/rockclod/drops": [
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/clod/copperclod/drops": [
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/clod/rockclod_blue/drops": [
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/clod/ironclod/drops": [
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/clod/rockclod_green/drops": [
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/clod/silverclod/drops": [
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/clod/rockclod_red/drops": [
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/clod/goldclod/drops": [
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/clod/rockclod_purple/drops": [
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/clod/mistrilclod/drops": [
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/enchantern/enchantern/drops": [
+    {
+      "item": "glass",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_core",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/enchantern/enchantern_blue/drops": [
+    {
+      "item": "glass",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_core",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/shroom/mushroom/drops": [
+    {
+      "item": "red_toadstool",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_powder",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/shroom/mushroom_green/drops": [
+    {
+      "item": "wild_mushroom",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_powder",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/shroom/mushroom_blue/drops": [
+    {
+      "item": "glowing_mushroom",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_powder",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/shroom/mushroom_purple/drops": [
+    {
+      "item": "purple_mushroom",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_powder",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/sap/sapling_cool/drops": [
+    {
+      "item": "sap",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_fang",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/sap/sapling/drops": [
+    {
+      "item": "sap",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_fang",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/sap/sapling_blue/drops": [
+    {
+      "item": "sap",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_fang",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/sap/sapling_purple/drops": [
+    {
+      "item": "sap",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_fang",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/sap/sapling_orange/drops": [
+    {
+      "item": "sap",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_fang",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/sap/sapling_orange_mini/drops": [
+    {
+      "item": "sap",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_fang",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/sap/sapling_pink/drops": [
+    {
+      "item": "sap",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_fang",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/mite/stalagmite/drops": [
+    {
+      "item": "monster_horn",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_horn",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/mite/stalagmite_green/drops": [
+    {
+      "item": "monster_horn",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_horn",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/mite/stalagmite_purple/drops": [
+    {
+      "item": "monster_horn",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_horn",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/spirit/spirit/drops": [
+    {
+      "item": "monster_core",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_core",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/barrel/barrel/drops": [
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_shell",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/statue/griffin_statue/drops": [
+    {
+      "item": "sap",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_fang",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/tome/tome/drops": [
+    {
+      "item": "sap",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_fang",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/spirit/spirit_purple/drops": [
+    {
+      "item": "monster_core",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_core",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_core",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/cat/cat/drops": [
+    {
+      "item": "monster_whisker",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_whisker",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/cat/cat_void/drops": [
+    {
+      "item": "monster_whisker",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/rock_stack/rock_stack/drops": [
+    {
+      "item": "monster_block",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_block",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/rock_stack/rock_stack_lava/drops": [
+    {
+      "item": "monster_block",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    },
+    {
+      "item": "monster_block",
+      "chance": 100,
+      "count_range": [
+        5,
+        10
+      ]
+    }
+  ],
+  "monsters/bat/bat/drops/0": {
+    "item": "essence_drop",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/bat/bat/drops/1": {
+    "item": "monster_wing",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/bat/bat_blue/drops/0": {
+    "item": "essence_drop",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/bat/bat_blue/drops/1": {
+    "item": "monster_wing",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/rockclod/drops/0": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/rockclod/drops/1": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/copperclod/drops/0": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/copperclod/drops/1": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/rockclod_blue/drops/0": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/rockclod_blue/drops/1": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/ironclod/drops/0": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/ironclod/drops/1": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/rockclod_green/drops/0": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/rockclod_green/drops/1": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/silverclod/drops/0": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/silverclod/drops/1": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/rockclod_red/drops/0": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/rockclod_red/drops/1": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/goldclod/drops/0": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/goldclod/drops/1": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/rockclod_purple/drops/0": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/rockclod_purple/drops/1": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/mistrilclod/drops/0": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/clod/mistrilclod/drops/1": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/enchantern/enchantern/drops/0": {
+    "item": "glass",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/enchantern/enchantern/drops/1": {
+    "item": "monster_core",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/enchantern/enchantern_blue/drops/0": {
+    "item": "glass",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/enchantern/enchantern_blue/drops/1": {
+    "item": "monster_core",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/shroom/mushroom/drops/0": {
+    "item": "red_toadstool",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/shroom/mushroom/drops/1": {
+    "item": "monster_powder",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/shroom/mushroom_green/drops/0": {
+    "item": "wild_mushroom",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/shroom/mushroom_green/drops/1": {
+    "item": "monster_powder",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/shroom/mushroom_blue/drops/0": {
+    "item": "glowing_mushroom",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/shroom/mushroom_blue/drops/1": {
+    "item": "monster_powder",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/shroom/mushroom_purple/drops/0": {
+    "item": "purple_mushroom",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/shroom/mushroom_purple/drops/1": {
+    "item": "monster_powder",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling_cool/drops/0": {
+    "item": "sap",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling_cool/drops/1": {
+    "item": "monster_fang",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling/drops/0": {
+    "item": "sap",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling/drops/1": {
+    "item": "monster_fang",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling_blue/drops/0": {
+    "item": "sap",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling_blue/drops/1": {
+    "item": "monster_fang",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling_purple/drops/0": {
+    "item": "sap",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling_purple/drops/1": {
+    "item": "monster_fang",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling_orange/drops/0": {
+    "item": "sap",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling_orange/drops/1": {
+    "item": "monster_fang",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling_orange_mini/drops/0": {
+    "item": "sap",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling_orange_mini/drops/1": {
+    "item": "monster_fang",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling_pink/drops/0": {
+    "item": "sap",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/sap/sapling_pink/drops/1": {
+    "item": "monster_fang",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/mite/stalagmite/drops/0": {
+    "item": "monster_horn",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/mite/stalagmite/drops/1": {
+    "item": "monster_horn",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/mite/stalagmite_green/drops/0": {
+    "item": "monster_horn",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/mite/stalagmite_green/drops/1": {
+    "item": "monster_horn",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/mite/stalagmite_purple/drops/0": {
+    "item": "monster_horn",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/mite/stalagmite_purple/drops/1": {
+    "item": "monster_horn",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/spirit/spirit/drops/0": {
+    "item": "monster_core",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/spirit/spirit/drops/1": {
+    "item": "monster_core",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/barrel/barrel/drops/0": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/barrel/barrel/drops/1": {
+    "item": "monster_shell",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/statue/griffin_statue/drops/0": {
+    "item": "sap",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/statue/griffin_statue/drops/1": {
+    "item": "monster_fang",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/tome/tome/drops/0": {
+    "item": "sap",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/tome/tome/drops/1": {
+    "item": "monster_fang",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/spirit/spirit_purple/drops/0": {
+    "item": "monster_core",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/spirit/spirit_purple/drops/1": {
+    "item": "monster_core",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/spirit/spirit_purple/drops/2": {
+    "item": "monster_core",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/cat/cat/drops/0": {
+    "item": "monster_whisker",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/cat/cat/drops/1": {
+    "item": "monster_whisker",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/cat/cat_void/drops/0": {
+    "item": "monster_whisker",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/rock_stack/rock_stack/drops/0": {
+    "item": "monster_block",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/rock_stack/rock_stack/drops/1": {
+    "item": "monster_block",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/rock_stack/rock_stack_lava/drops/0": {
+    "item": "monster_block",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/rock_stack/rock_stack_lava/drops/1": {
+    "item": "monster_block",
+    "chance": 100,
+    "count_range": [
+      5,
+      10
+    ]
+  },
+  "monsters/bat": {
+    "default": {
+      "drops": [
+        {
+          "item": "essence_drop",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_wing",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "bat": {
+      "drops": [
+        {
+          "item": "essence_drop",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_wing",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "bat_blue": {
+      "drops": [
+        {
+          "item": "essence_drop",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_wing",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "monsters/clod": {
+    "default": {
+      "drops": [
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "rockclod": {
+      "drops": [
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "copperclod": {
+      "drops": [
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "rockclod_blue": {
+      "drops": [
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "ironclod": {
+      "drops": [
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "rockclod_green": {
+      "launcher": false,
+      "drops": [
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "silverclod": {
+      "drops": [
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "rockclod_red": {
+      "drops": [
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "goldclod": {
+      "drops": [
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "rockclod_purple": {
+      "drops": [
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "mistrilclod": {
+      "drops": [
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "monsters/enchantern": {
+    "default": {
+      "drops": [
+        {
+          "item": "glass",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_core",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "enchantern": {
+      "charge_timer": [
+        0,
+        10
+      ],
+      "projectile_timer": [
+        1,
+        10
+      ],
+      "windup": [
+        1,
+        10
+      ],
+      "waiting": [
+        500,
+        700
+      ],
+      "flee_timer": [
+        500,
+        700
+      ],
+      "drops": [
+        {
+          "item": "glass",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_core",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "enchantern_blue": {
+      "drops": [
+        {
+          "item": "glass",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_core",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "monsters/shroom": {
+    "mushroom": {
+      "drops": [
+        {
+          "item": "red_toadstool",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_powder",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "mushroom_green": {
+      "drops": [
+        {
+          "item": "wild_mushroom",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_powder",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "mushroom_blue": {
+      "drops": [
+        {
+          "item": "glowing_mushroom",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_powder",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "mushroom_purple": {
+      "drops": [
+        {
+          "item": "purple_mushroom",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_powder",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "monsters/sap": {
+    "default": {
+      "drops": [
+        {
+          "item": "sap",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_fang",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "sapling_cool": {
+      "drops": [
+        {
+          "item": "sap",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_fang",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "sapling": {
+      "drops": [
+        {
+          "item": "sap",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_fang",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "sapling_blue": {
+      "drops": [
+        {
+          "item": "sap",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_fang",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "sapling_purple": {
+      "drops": [
+        {
+          "item": "sap",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_fang",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "sapling_orange": {
+      "drops": [
+        {
+          "item": "sap",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_fang",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "sapling_orange_mini": {
+      "drops": [
+        {
+          "item": "sap",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_fang",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "sapling_pink": {
+      "drops": [
+        {
+          "item": "sap",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_fang",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "monsters/mite": {
+    "default": {
+      "drops": [
+        {
+          "item": "monster_horn",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_horn",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "stalagmite": {
+      "drops": [
+        {
+          "item": "monster_horn",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_horn",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "stalagmite_green": {
+      "drops": [
+        {
+          "item": "monster_horn",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_horn",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "stalagmite_purple": {
+      "drops": [
+        {
+          "item": "monster_horn",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_horn",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "monsters/rock_stack": {
+    "default": {
+      "drops": [
+        {
+          "item": "monster_block",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_block",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "rock_stack": {
+      "drops": [
+        {
+          "item": "monster_block",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_block",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "rock_stack_lava": {
+      "drops": [
+        {
+          "item": "monster_block",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_block",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "monsters/cat": {
+    "default": {
+      "drops": [
+        {
+          "item": "monster_whisker",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_whisker",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "cat": {
+      "drops": [
+        {
+          "item": "monster_whisker",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_whisker",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "cat_void": {
+      "drops": [
+        {
+          "item": "monster_whisker",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "monsters/spirit": {
+    "default": {
+      "drops": [
+        {
+          "item": "monster_core",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_core",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "spirit": {
+      "drops": [
+        {
+          "item": "monster_core",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_core",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "spirit_purple": {
+      "drops": [
+        {
+          "item": "monster_core",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_core",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "monsters/barrel": {
+    "default": {
+      "drops": [
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "barrel": {
+      "drops": [
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_shell",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "monsters/tome": {
+    "default": {
+      "drops": [
+        {
+          "item": "sap",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_fang",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_core",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    "tome": {
+      "drops": [
+        {
+          "item": "sap",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_fang",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_core",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "monsters/statue": {
+    "griffin_statue": {
+      "drops": [
+        {
+          "item": "sap",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        },
+        {
+          "item": "monster_fang",
+          "chance": 100,
+          "count_range": [
+            5,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "monsters": {
+    "bat": {
+      "default": {
+        "drops": [
+          {
+            "item": "essence_drop",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_wing",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "bat": {
+        "drops": [
+          {
+            "item": "essence_drop",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_wing",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "bat_blue": {
+        "drops": [
+          {
+            "item": "essence_drop",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_wing",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      }
+    },
+    "clod": {
+      "default": {
+        "drops": [
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rockclod": {
+        "drops": [
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "copperclod": {
+        "drops": [
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rockclod_blue": {
+        "drops": [
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "ironclod": {
+        "drops": [
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rockclod_green": {
+        "launcher": false,
+        "drops": [
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "silverclod": {
+        "drops": [
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rockclod_red": {
+        "drops": [
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "goldclod": {
+        "drops": [
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rockclod_purple": {
+        "drops": [
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "mistrilclod": {
+        "drops": [
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      }
+    },
+    "enchantern": {
+      "default": {
+        "drops": [
+          {
+            "item": "glass",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_core",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "enchantern": {
+        "drops": [
+          {
+            "item": "glass",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_core",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "enchantern_blue": {
+        "drops": [
+          {
+            "item": "glass",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_core",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      }
+    },
+    "shroom": {
+      "mushroom": {
+        "drops": [
+          {
+            "item": "red_toadstool",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_powder",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "mushroom_green": {
+        "drops": [
+          {
+            "item": "wild_mushroom",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_powder",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "mushroom_blue": {
+        "drops": [
+          {
+            "item": "glowing_mushroom",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_powder",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "mushroom_purple": {
+        "drops": [
+          {
+            "item": "purple_mushroom",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_powder",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      }
+    },
+    "sap": {
+      "default": {
+        "drops": [
+          {
+            "item": "sap",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_fang",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "sapling_cool": {
+        "drops": [
+          {
+            "item": "sap",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_fang",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "sapling": {
+        "drops": [
+          {
+            "item": "sap",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_fang",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "sapling_blue": {
+        "drops": [
+          {
+            "item": "sap",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_fang",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "sapling_purple": {
+        "drops": [
+          {
+            "item": "sap",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_fang",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "sapling_orange": {
+        "drops": [
+          {
+            "item": "sap",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_fang",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "sapling_orange_mini": {
+        "drops": [
+          {
+            "item": "sap",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_fang",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "sapling_pink": {
+        "drops": [
+          {
+            "item": "sap",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_fang",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      }
+    },
+    "mite": {
+      "default": {
+        "drops": [
+          {
+            "item": "monster_horn",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_horn",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "stalagmite": {
+        "drops": [
+          {
+            "item": "monster_horn",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_horn",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "stalagmite_green": {
+        "drops": [
+          {
+            "item": "monster_horn",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_horn",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "stalagmite_purple": {
+        "drops": [
+          {
+            "item": "monster_horn",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_horn",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      }
+    },
+    "rock_stack": {
+      "default": {
+        "drops": [
+          {
+            "item": "monster_block",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_block",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rock_stack": {
+        "drops": [
+          {
+            "item": "monster_block",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_block",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "rock_stack_lava": {
+        "drops": [
+          {
+            "item": "monster_block",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_block",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      }
+    },
+    "cat": {
+      "default": {
+        "drops": [
+          {
+            "item": "monster_whisker",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_whisker",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "cat": {
+        "drops": [
+          {
+            "item": "monster_whisker",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_whisker",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "cat_void": {
+        "drops": [
+          {
+            "item": "monster_whisker",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      }
+    },
+    "spirit": {
+      "default": {
+        "drops": [
+          {
+            "item": "monster_core",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_core",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "spirit": {
+        "drops": [
+          {
+            "item": "monster_core",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_core",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "spirit_purple": {
+        "drops": [
+          {
+            "item": "monster_core",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_core",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      }
+    },
+    "barrel": {
+      "default": {
+        "drops": [
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "barrel": {
+        "drops": [
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_shell",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      }
+    },
+    "tome": {
+      "default": {
+        "drops": [
+          {
+            "item": "sap",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_fang",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "tome": {
+        "drops": [
+          {
+            "item": "sap",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_fang",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      }
+    },
+    "statue": {
+      "default": {
+        "drops": [
+          {
+            "item": "sap",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_fang",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "griffin_statue": {
+        "drops": [
+          {
+            "item": "sap",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          },
+          {
+            "item": "monster_fang",
+            "chance": 100,
+            "count_range": [
+              5,
+              10
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "crop": {
+    "magic_key": {
+      "day_to_stage": [
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "items": {
+    "other": {
+      "armor": {
+        "cloth_chestpiece": {
+          "tags": [
+            "chest",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "cloth_helmet": {
+          "tags": [
+            "head",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "cloth_pants": {
+          "tags": [
+            "legs",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "cloth_wristband": {
+          "tags": [
+            "accessory",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "cloth_shoes": {
+          "tags": [
+            "boots",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "scrap_metal_helmet": {
+          "tags": [
+            "head",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "scrap_metal_chestpiece": {
+          "tags": [
+            "chest",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "scrap_metal_pants": {
+          "tags": [
+            "legs",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "scrap_metal_boots": {
+          "tags": [
+            "boots",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "scrap_metal_ring": {
+          "tags": [
+            "armor",
+            "accessory",
+            "glow_armor"
+          ]
+        },
+        "copper_armor": {
+          "tags": [
+            "chest",
+            "armor",
+            "copper_armor",
+            "blacksmithing",
+            "glow_armor"
+          ]
+        },
+        "copper_ring": {
+          "tags": [
+            "accessory",
+            "armor",
+            "copper_armor",
+            "blacksmithing",
+            "glow_armor"
+          ]
+        },
+        "copper_greaves": {
+          "tags": [
+            "boots",
+            "armor",
+            "copper_armor",
+            "blacksmithing",
+            "glow_armor"
+          ]
+        },
+        "copper_helmet": {
+          "tags": [
+            "head",
+            "armor",
+            "copper_armor",
+            "blacksmithing",
+            "glow_armor"
+          ]
+        },
+        "copper_legplates": {
+          "tags": [
+            "legs",
+            "armor",
+            "copper_armor",
+            "blacksmithing",
+            "glow_armor"
+          ]
+        },
+        "verdigris_helmet": {
+          "tags": [
+            "head",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "verdigris_chestpiece": {
+          "tags": [
+            "chest",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "verdigris_tassets": {
+          "tags": [
+            "legs",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "verdigris_boots": {
+          "tags": [
+            "boots",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "verdigris_ring": {
+          "tags": [
+            "accessory",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "iron_armor": {
+          "tags": [
+            "chest",
+            "armor",
+            "blacksmithing",
+            "iron_armor",
+            "glow_armor"
+          ]
+        },
+        "iron_ring": {
+          "tags": [
+            "accessory",
+            "armor",
+            "blacksmithing",
+            "iron_armor",
+            "glow_armor"
+          ]
+        },
+        "iron_greaves": {
+          "tags": [
+            "boots",
+            "armor",
+            "blacksmithing",
+            "iron_armor",
+            "glow_armor"
+          ]
+        },
+        "iron_helmet": {
+          "tags": [
+            "head",
+            "armor",
+            "blacksmithing",
+            "iron_armor",
+            "glow_armor"
+          ]
+        },
+        "iron_legplates": {
+          "tags": [
+            "legs",
+            "armor",
+            "blacksmithing",
+            "iron_armor",
+            "glow_armor"
+          ]
+        },
+        "crystal_helmet": {
+          "tags": [
+            "head",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "crystal_chestpiece": {
+          "tags": [
+            "chest",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "crystal_tassets": {
+          "tags": [
+            "legs",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "crystal_boots": {
+          "tags": [
+            "boots",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "crystal_ring": {
+          "tags": [
+            "accessory",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "silver_armor": {
+          "tags": [
+            "chest",
+            "armor",
+            "blacksmithing",
+            "silver_armor",
+            "glow_armor"
+          ]
+        },
+        "silver_ring": {
+          "tags": [
+            "accessory",
+            "armor",
+            "blacksmithing",
+            "silver_armor",
+            "glow_armor"
+          ]
+        },
+        "silver_greaves": {
+          "tags": [
+            "boots",
+            "armor",
+            "blacksmithing",
+            "silver_armor",
+            "glow_armor"
+          ]
+        },
+        "silver_helmet": {
+          "tags": [
+            "head",
+            "armor",
+            "blacksmithing",
+            "silver_armor",
+            "glow_armor"
+          ]
+        },
+        "silver_legplates": {
+          "tags": [
+            "legs",
+            "armor",
+            "blacksmithing",
+            "silver_armor",
+            "glow_armor"
+          ]
+        },
+        "tarnished_gold_helmet": {
+          "tags": [
+            "head",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "tarnished_gold_armor": {
+          "tags": [
+            "chest",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "tarnished_gold_legplates": {
+          "tags": [
+            "legs",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "tarnished_gold_boots": {
+          "tags": [
+            "boots",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "tarnished_gold_ring": {
+          "tags": [
+            "accessory",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "gold_armor": {
+          "tags": [
+            "chest",
+            "armor",
+            "blacksmithing",
+            "gold_armor",
+            "glow_armor"
+          ]
+        },
+        "gold_ring": {
+          "tags": [
+            "accessory",
+            "armor",
+            "blacksmithing",
+            "gold_armor",
+            "glow_armor"
+          ]
+        },
+        "gold_greaves": {
+          "tags": [
+            "boots",
+            "armor",
+            "blacksmithing",
+            "gold_armor",
+            "glow_armor"
+          ]
+        },
+        "gold_helmet": {
+          "tags": [
+            "head",
+            "armor",
+            "blacksmithing",
+            "gold_armor",
+            "glow_armor"
+          ]
+        },
+        "gold_legplates": {
+          "tags": [
+            "legs",
+            "armor",
+            "blacksmithing",
+            "gold_armor",
+            "glow_armor"
+          ]
+        },
+        "corrupted_mistril_chestpiece": {
+          "tags": [
+            "chest",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "corrupted_mistril_ring": {
+          "tags": [
+            "accessory",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "corrupted_mistril_boots": {
+          "tags": [
+            "boots",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "corrupted_mistril_helmet": {
+          "tags": [
+            "head",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "corrupted_mistril_pants": {
+          "tags": [
+            "legs",
+            "armor",
+            "glow_armor"
+          ]
+        },
+        "mistril_armor": {
+          "tags": [
+            "chest",
+            "armor",
+            "blacksmithing",
+            "mistril_armor",
+            "glow_armor"
+          ]
+        },
+        "mistril_ring": {
+          "tags": [
+            "accessory",
+            "armor",
+            "blacksmithing",
+            "mistril_armor",
+            "glow_armor"
+          ]
+        },
+        "mistril_boots": {
+          "tags": [
+            "boots",
+            "armor",
+            "blacksmithing",
+            "mistril_armor",
+            "glow_armor"
+          ]
+        },
+        "mistril_helmet": {
+          "tags": [
+            "head",
+            "armor",
+            "blacksmithing",
+            "mistril_armor",
+            "glow_armor"
+          ]
+        },
+        "mistril_legplates": {
+          "tags": [
+            "legs",
+            "armor",
+            "blacksmithing",
+            "mistril_armor",
+            "glow_armor"
+          ]
+        },
+        "dragonsworn_helmet_equipment": {
+          "tags": [
+            "head",
+            "armor",
+            "dragonsworn_armor",
+            "glow_armor"
+          ]
+        },
+        "dragonsworn_greaves_equipment": {
+          "tags": [
+            "boots",
+            "armor",
+            "dragonsworn_armor",
+            "glow_armor"
+          ]
+        },
+        "dragonsworn_armor_equipment": {
+          "tags": [
+            "chest",
+            "armor",
+            "dragonsworn_armor",
+            "glow_armor"
+          ]
+        },
+        "dragonsworn_legplates_equipment": {
+          "tags": [
+            "legs",
+            "armor",
+            "dragonsworn_armor",
+            "glow_armor"
+          ]
+        }
+      }
+    }
+  }
+}

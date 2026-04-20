@@ -1,0 +1,1592 @@
+﻿{
+  "stitches_mega_bundle": {
+    "overwrites_other_mod": true,
+    "name": "Mega Stitches Scroll",
+    "description": "A collection of knitty and stitchy things",
+    "icon_sprite": "stitches_scroll_ui",
+    "soulbound": true,
+    "set_unlock": "stitches_set",
+    "tags": [
+      "scroll",
+      "blacklist_popup"
+    ],
+    "value": {
+      "store": 1000
+    }
+  },
+  "stitches_button_stool_ash": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_button_stool_ui",
+    "name": "Stitches Ash Button Stool",
+    "description": "A cute button stool with 4 colours",
+    "object": "stitches_button_stool_ash",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stool",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_button_chair",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_lace_couch_ash": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_ash_couch_ui",
+    "name": "Stitches Ash Couch",
+    "description": "A couch with some lace fabric",
+    "object": "stitches_lace_couch_ash",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "sofa",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_lace_couch",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_embroidery_hoop_ash": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_ash_embroidery_hoop_ui",
+    "name": "Stitches Ash Embroidery Hoop",
+    "description": "Embroidery hoops with various designs place on your table",
+    "object": "stitches_embroidery_hoop_ash",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "chest_and_storage",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_embroidery_hoop",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_storage_wovenbasket_ash": {
+    "overwrites_other_mod": true,
+    "icon_sprite": "stitches_ash_woven_storage_ui",
+    "name": "Stitches Ash Woven Storage",
+    "description": "A woven storage basket you can put things in",
+    "object": "stitches_storage_wovenbasket_ash",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "chest_and_storage",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_storage_wovenbasket",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_knitting_needles_ash": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_ash_needles_ui",
+    "name": "Stitches Ash Needles",
+    "description": "Ash wood knitting and crocheting needles",
+    "object": "stitches_knitting_needles_ash",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_knitting_needles",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_sewing_bobbin_ash": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_ash_sewingbobbin_ui",
+    "name": "Stitches Ash Sewing Bobbin",
+    "description": "Sewing bobbins with 4 variants",
+    "object": "stitches_sewing_bobbin_ash",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_sewing_bobbin",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_thread_shelf_ash": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_ash_threadshelf_ui",
+    "name": "Stitches Ash Thread Shelf",
+    "description": "A thread shelf made with ash wood. 4 variants",
+    "object": "stitches_thread_shelf_ash",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_thread_shelf",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_spool_table_ash": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_ash_spool_table_ui",
+    "name": "Stitches Ash Spool Table",
+    "description": "A spool table made with ash wood and 4 variants",
+    "object": "stitches_spool_table_ash",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "side_table",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_spool_table",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_standing_thread_ash": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_ash_standing_threads_ui",
+    "name": "Stitches Ash Thread",
+    "description": "Sewing threads with 4 variants",
+    "object": "stitches_standing_thread_ash",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_standing_thread",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_long_table_ash": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_ash_long_table_ui",
+    "name": "Stitches Ash Table",
+    "description": "A table with either lace or a floral patten.",
+    "object": "stitches_long_table_ash",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "coffee_table",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_long_table",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_wall_floral_embroidery_ash": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_ash_wall_floral_embroidery_ui",
+    "name": "Ash Floral Wall Hoops",
+    "description": "Embroidery hoops with a floral design you can hang on your wall. 2 Designs.",
+    "object": "stitches_wall_floral_embroidery_ash",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "stitches_wall_embroidery",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_wall_bug_embroidery_ash": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_ash_wall_bug_embroidery_ui",
+    "name": "Ash Bug Wall Hoops",
+    "description": "Embroidery hoops with bug designs you can hang on your wall. 2 Designs.",
+    "object": "stitches_wall_bug_embroidery_ash",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "stitches_wall_embroidery",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_button_stool_cherry": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_button_stool_ui",
+    "name": "Stitches Cherry Button Stool",
+    "description": "A cute button stool with 4 colours",
+    "object": "stitches_button_stool_cherry",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stool",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_button_chair",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_lace_couch_cherry": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_cherry_couch_ui",
+    "name": "Stitches Cherry Couch",
+    "description": "A couch with some lace fabric",
+    "object": "stitches_lace_couch_cherry",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "sofa",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_lace_couch",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_embroidery_hoop_cherry": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_cherry_embroidery_hoop_ui",
+    "name": "Stitches Cherry Embroidery Hoop",
+    "description": "Embroidery hoops with various designs place on your table",
+    "object": "stitches_embroidery_hoop_cherry",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "chest_and_storage",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_embroidery_hoop",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_storage_wovenbasket_cherry": {
+    "overwrites_other_mod": true,
+    "icon_sprite": "stitches_cherry_woven_storage_ui",
+    "name": "Stitches Cherry Woven Storage",
+    "description": "A woven storage basket you can put things in",
+    "object": "stitches_storage_wovenbasket_cherry",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "chest_and_storage",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_storage_wovenbasket",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_knitting_needles_cherry": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_cherry_needles_ui",
+    "name": "Stitches Cherry Needles",
+    "description": "cherry wood knitting and crocheting needles",
+    "object": "stitches_knitting_needles_cherry",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_knitting_needles",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_sewing_bobbin_cherry": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_cherry_sewingbobbin_ui",
+    "name": "Stitches Cherry Sewing Bobbin",
+    "description": "Sewing bobbins with 4 variants",
+    "object": "stitches_sewing_bobbin_cherry",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_sewing_bobbin",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_thread_shelf_cherry": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_cherry_threadshelf_ui",
+    "name": "Stitches Cherry Thread Shelf",
+    "description": "A thread shelf made with cherry wood. 4 variants",
+    "object": "stitches_thread_shelf_cherry",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_thread_shelf",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_spool_table_cherry": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_cherry_spool_table_ui",
+    "name": "Stitches Cherry Spool Table",
+    "description": "A spool table made with cherry wood and 4 variants",
+    "object": "stitches_spool_table_cherry",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "side_table",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_spool_table",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_standing_thread_cherry": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_cherry_standing_threads_ui",
+    "name": "Stitches Cherry Thread",
+    "description": "Sewing threads with 4 variants",
+    "object": "stitches_standing_thread_cherry",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_standing_thread",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_long_table_cherry": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_cherry_long_table_ui",
+    "name": "Stitches Cherry Table",
+    "description": "A table with either lace or a floral patten.",
+    "object": "stitches_long_table_cherry",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "coffee_table"
+    ],
+    "recipe_key": "stitches_long_table",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_wall_floral_embroidery_cherry": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_cherry_wall_floral_embroidery_ui",
+    "name": "Cherry Floral Wall Embroidery Hoops",
+    "description": "Embroidery hoops with a floral design you can hang on your wall. 2 Designs.",
+    "object": "stitches_wall_floral_embroidery_cherry",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "stitches_wall_embroidery",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_wall_bug_embroidery_cherry": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_cherry_wall_bug_embroidery_ui",
+    "name": "Cherry Bug Embroidery Hoops",
+    "description": "Embroidery hoops with bug designs you can hang on your wall. 2 Designs.",
+    "object": "stitches_wall_bug_embroidery_cherry",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "stitches_wall_embroidery",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_button_stool_oak": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_button_stool_ui",
+    "name": "Stitches Oak Button Stool",
+    "description": "A cute button stool with 4 colours",
+    "object": "stitches_button_stool_oak",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stool",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_button_chair",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_lace_couch_oak": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_oak_couch_ui",
+    "name": "Stitches Oak Couch",
+    "description": "A couch with some lace fabric",
+    "object": "stitches_lace_couch_oak",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "sofa",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_lace_couch",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_embroidery_hoop_oak": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_oak_embroidery_hoop_ui",
+    "name": "Stitches Oak Embroidery Hoop",
+    "description": "Embroidery hoops with various designs place on your table",
+    "object": "stitches_embroidery_hoop_oak",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_embroidery_hoop",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_storage_wovenbasket_oak": {
+    "overwrites_other_mod": true,
+    "icon_sprite": "stitches_oak_woven_storage_ui",
+    "name": "Stitches Oak Woven Storage",
+    "description": "A woven storage basket you can put things in",
+    "object": "stitches_storage_wovenbasket_oak",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "chest_and_storage",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_storage_wovenbasket",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_knitting_needles_oak": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_oak_needles_ui",
+    "name": "Stitches Oak Needles",
+    "description": "oak wood knitting and crocheting needles",
+    "object": "stitches_knitting_needles_oak",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_knitting_needles",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_sewing_bobbin_oak": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_oak_sewingbobbin_ui",
+    "name": "Stitches Oak Sewing Bobbin",
+    "description": "Sewing bobbins with 4 variants",
+    "object": "stitches_sewing_bobbin_oak",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_sewing_bobbin",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_thread_shelf_oak": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_oak_threadshelf_ui",
+    "name": "Stitches Oak Thread Shelf",
+    "description": "A thread shelf made with oak wood. 4 variants",
+    "object": "stitches_thread_shelf_oak",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_thread_shelf",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_spool_table_oak": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_oak_spool_table_ui",
+    "name": "Stitches Oak Spool Table",
+    "description": "A spool table made with oak wood and 4 variants",
+    "object": "stitches_spool_table_oak",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "side_table",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_spool_table",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_standing_thread_oak": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_oak_standing_threads_ui",
+    "name": "Stitches Oak Thread",
+    "description": "Sewing threads with 4 variants",
+    "object": "stitches_standing_thread_oak",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_standing_thread",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_long_table_oak": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_oak_long_table_ui",
+    "name": "Stitches Oak Table",
+    "description": "A table with either lace or a floral patten.",
+    "object": "stitches_long_table_oak",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "coffee_table"
+    ],
+    "recipe_key": "stitches_long_table",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_wall_floral_embroidery_oak": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_oak_wall_floral_embroidery_ui",
+    "name": "Oak Floral Wall Embroidery Hoops",
+    "description": "Embroidery hoops with a floral design you can hang on your wall. 2 Designs.",
+    "object": "stitches_wall_floral_embroidery_oak",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "stitches_wall_embroidery",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_wall_bug_embroidery_oak": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_oak_wall_bug_embroidery_ui",
+    "name": "Oak Bug Embroidery Hoops",
+    "description": "Embroidery hoops with bug designs you can hang on your wall. 2 Designs.",
+    "object": "stitches_wall_bug_embroidery_oak",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "stitches_wall_embroidery",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_button_stool_walnut": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_button_stool_ui",
+    "name": "Stitches Walnut Button Stool",
+    "description": "A cute button stool with 4 colours",
+    "object": "stitches_button_stool_walnut",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stool",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_button_chair",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_lace_couch_walnut": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_walnut_couch_ui",
+    "name": "Stitches Walnut Couch",
+    "description": "A couch with some lace fabric",
+    "object": "stitches_lace_couch_walnut",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "sofa",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_lace_couch",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_embroidery_hoop_walnut": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_walnut_embroidery_hoop_ui",
+    "name": "Stitches Walnut Embroidery Hoop",
+    "description": "Embroidery hoops with various designs place on your table",
+    "object": "stitches_embroidery_hoop_walnut",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_embroidery_hoop",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_storage_wovenbasket_walnut": {
+    "overwrites_other_mod": true,
+    "icon_sprite": "stitches_walnut_woven_storage_ui",
+    "name": "Stitches Walnut Woven Storage",
+    "description": "A woven storage basket you can put things in",
+    "object": "stitches_storage_wovenbasket_walnut",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "chest_and_storage",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_storage_wovenbasket",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_knitting_needles_walnut": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_walnut_needles_ui",
+    "name": "Stitches Walnut Needles",
+    "description": "Walnut wood knitting and crocheting needles",
+    "object": "stitches_knitting_needles_walnut",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_knitting_needles",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_sewing_bobbin_walnut": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_walnut_sewingbobbin_ui",
+    "name": "Stitches Walnut Sewing Bobbin",
+    "description": "Sewing bobbins with 4 variants",
+    "object": "stitches_sewing_bobbin_walnut",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_sewing_bobbin",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_thread_shelf_walnut": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_walnut_threadshelf_ui",
+    "name": "Stitches Walnut Thread Shelf",
+    "description": "A thread shelf made with walnut wood. 4 variants",
+    "object": "stitches_thread_shelf_walnut",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_thread_shelf",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_spool_table_walnut": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_walnut_spool_table_ui",
+    "name": "Stitches Walnut Spool Table",
+    "description": "A spool table made with walnut wood and 4 variants",
+    "object": "stitches_spool_table_walnut",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "side_table",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_spool_table",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_standing_thread_walnut": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_walnut_standing_threads_ui",
+    "name": "Stitches Walnut Thread",
+    "description": "Sewing threads with 4 variants",
+    "object": "stitches_standing_thread_walnut",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_standing_thread",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_long_table_walnut": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_walnut_long_table_ui",
+    "name": "Stitches Walnut Table",
+    "description": "A table with either lace or a floral patten.",
+    "object": "stitches_long_table_walnut",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "coffee_table"
+    ],
+    "recipe_key": "stitches_long_table",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_wall_floral_embroidery_walnut": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_walnut_wall_floral_embroidery_ui",
+    "name": "Walnut Floral Wall Embroidery Hoops",
+    "description": "Embroidery hoops with a floral design you can hang on your wall. 2 Designs.",
+    "object": "stitches_wall_floral_embroidery_walnut",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "stitches_wall_embroidery",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_wall_bug_embroidery_walnut": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "stitches_walnut_wall_bug_embroidery_ui",
+    "name": "Walnut Bug Embroidery Hoops",
+    "description": "Embroidery hoops with bug designs you can hang on your wall. 2 Designs.",
+    "object": "stitches_wall_bug_embroidery_walnut",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "misc_wall_decor"
+    ],
+    "recipe_key": "stitches_wall_embroidery",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_storage_cookie_tin": {
+    "overwrites_other_mod": true,
+    "icon_sprite": "stitches_cookie_tin_storage_ui",
+    "name": "Definitely A Cookie Tin",
+    "description": "A storage tin full of....cookies?",
+    "object": "stitches_storage_cookie_tin",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "chest_and_storage",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_storage_cookie_tin",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_measuring_taped": {
+    "overwrites_other_mod": true,
+    "icon_sprite": "stitches_measuring_tape_ui",
+    "name": "Stitches Measuring Tape",
+    "description": "Four types of measuring tapes",
+    "object": "stitches_measuring_taped",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_measuring_taped",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_scissorsors": {
+    "overwrites_other_mod": true,
+    "icon_sprite": "stitches_scissorsors_ui",
+    "name": "Stitches Scissors",
+    "description": "Scissors with 4 variants",
+    "object": "stitches_scissorsors",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set"
+    ],
+    "recipe_key": "stitches_scissorsors",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_modern_sewing_machine": {
+    "overwrites_other_mod": true,
+    "icon_sprite": "stitches_sewingmachine_ui",
+    "name": "stitches Modern Sewing Machine",
+    "description": "A modern sewing machine with 4 variants",
+    "object": "stitches_modern_sewing_machine",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "craft_set",
+      "stampingfeet"
+    ],
+    "recipe_key": "stitches_modern_sewing_machine",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "stitches_round_floral_rug": {
+    "overwrites_other_mod": true,
+    "icon_sprite": "stitches_floral_rug_ui",
+    "name": "Stitches Round Floral Rug",
+    "description": "A large round floral rug",
+    "object": "stitches_round_floral_rug",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "stitches_set",
+      "stampingfeet",
+      "craft_set",
+      "large_rug"
+    ],
+    "recipe_key": "stitches_round_floral_rug",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  }
+}

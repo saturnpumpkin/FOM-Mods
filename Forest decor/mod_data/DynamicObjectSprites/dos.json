@@ -1,0 +1,285 @@
+{
+  "mod_name": "farm decor",
+  "dynamic_object_sprites": [
+    {
+      "original_sprite_name": "farm_decor_clovers_spring_south",
+      "replacement_sprite_name": "farm_decor_clovers_summer_south",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_clovers_spring_east",
+      "replacement_sprite_name": "farm_decor_clovers_summer_east",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_clovers_spring_west",
+      "replacement_sprite_name": "farm_decor_clovers_summer_west",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_clovers_spring_north",
+      "replacement_sprite_name": "farm_decor_clovers_summer_north",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_clovers_spring_south",
+      "replacement_sprite_name": "farm_decor_clovers_autumn_south",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_clovers_spring_east",
+      "replacement_sprite_name": "farm_decor_clovers_autumn_east",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_clovers_spring_west",
+      "replacement_sprite_name": "farm_decor_clovers_autumn_west",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_clovers_spring_north",
+      "replacement_sprite_name": "farm_decor_clovers_autumn_north",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_flower_spring_south",
+      "replacement_sprite_name": "farm_decor_flower_summer_south",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_flower_spring_east",
+      "replacement_sprite_name": "farm_decor_flower_summer_east",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_flower_spring_west",
+      "replacement_sprite_name": "farm_decor_flower_summer_west",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_flower_spring_north",
+      "replacement_sprite_name": "farm_decor_flower_summer_north",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_flower_spring_south",
+      "replacement_sprite_name": "farm_decor_flower_autumn_south",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_flower_spring_east",
+      "replacement_sprite_name": "farm_decor_flower_autumn_east",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_flower_spring_west",
+      "replacement_sprite_name": "farm_decor_flower_autumn_west",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_flower_spring_north",
+      "replacement_sprite_name": "farm_decor_flower_autumn_north",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_leafy_spring_south",
+      "replacement_sprite_name": "farm_decor_leafy_summer_south",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_leafy_spring_east",
+      "replacement_sprite_name": "farm_decor_leafy_summer_east",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_leafy_spring_west",
+      "replacement_sprite_name": "farm_decor_leafy_summer_west",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_leafy_spring_north",
+      "replacement_sprite_name": "farm_decor_leafy_summer_north",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_leafy_spring_south",
+      "replacement_sprite_name": "farm_decor_leafy_autumn_south",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_leafy_spring_east",
+      "replacement_sprite_name": "farm_decor_leafy_autumn_east",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_leafy_spring_west",
+      "replacement_sprite_name": "farm_decor_leafy_autumn_west",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_leafy_spring_north",
+      "replacement_sprite_name": "farm_decor_leafy_autumn_north",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_rocks_spring_south",
+      "replacement_sprite_name": "farm_decor_rocks_summer_south",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_rocks_spring_east",
+      "replacement_sprite_name": "farm_decor_rocks_summer_east",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_rocks_spring_west",
+      "replacement_sprite_name": "farm_decor_rocks_summer_west",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_rocks_spring_north",
+      "replacement_sprite_name": "farm_decor_rocks_summer_north",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_rocks_spring_south",
+      "replacement_sprite_name": "farm_decor_rocks_autumn_south",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_rocks_spring_east",
+      "replacement_sprite_name": "farm_decor_rocks_autumn_east",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_rocks_spring_west",
+      "replacement_sprite_name": "farm_decor_rocks_autumn_west",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_rocks_spring_north",
+      "replacement_sprite_name": "farm_decor_rocks_autumn_north",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_stump_spring_south",
+      "replacement_sprite_name": "farm_decor_stump_summer_south",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_stump_spring_east",
+      "replacement_sprite_name": "farm_decor_stump_summer_east",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_stump_spring_west",
+      "replacement_sprite_name": "farm_decor_stump_summer_west",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_stump_spring_north",
+      "replacement_sprite_name": "farm_decor_stump_summer_north",
+      "conditions": {
+        "season": "summer"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_stump_spring_south",
+      "replacement_sprite_name": "farm_decor_stump_autumn_south",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_stump_spring_east",
+      "replacement_sprite_name": "farm_decor_stump_autumn_east",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_stump_spring_west",
+      "replacement_sprite_name": "farm_decor_stump_autumn_west",
+      "conditions": {
+        "season": "fall"
+      }
+    },
+    {
+      "original_sprite_name": "farm_decor_stump_spring_north",
+      "replacement_sprite_name": "farm_decor_stump_autumn_north",
+      "conditions": {
+        "season": "fall"
+      }
+    }
+  ]
+}

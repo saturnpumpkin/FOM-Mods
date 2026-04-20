@@ -1,0 +1,834 @@
+﻿{
+  "mushies_set_button_cluster_brown": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_button_cluster_brown_spring_south",
+        "winter_sprite": "mushies_set_button_cluster_brown_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_button_cluster_brown_spring_east",
+        "winter_sprite": "mushies_set_button_cluster_brown_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_button_cluster_brown_spring_west",
+        "winter_sprite": "mushies_set_button_cluster_brown_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_button_cluster_brown_spring_north",
+        "winter_sprite": "mushies_set_button_cluster_brown_winter_north"
+      }
+    }
+  },
+  "mushies_set_button_single_brown": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_button_single_brown_spring_south",
+        "winter_sprite": "mushies_set_button_single_brown_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_button_single_brown_spring_east",
+        "winter_sprite": "mushies_set_button_single_brown_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_button_single_brown_spring_west",
+        "winter_sprite": "mushies_set_button_single_brown_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_button_single_brown_spring_north",
+        "winter_sprite": "mushies_set_button_single_brown_winter_north"
+      }
+    }
+  },
+  "mushies_set_chanterelle_cluster_brown": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_chanterelle_cluster_brown_spring_south",
+        "winter_sprite": "mushies_set_chanterelle_cluster_brown_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_chanterelle_cluster_brown_spring_east",
+        "winter_sprite": "mushies_set_chanterelle_cluster_brown_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_chanterelle_cluster_brown_spring_west",
+        "winter_sprite": "mushies_set_chanterelle_cluster_brown_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_chanterelle_cluster_brown_spring_north",
+        "winter_sprite": "mushies_set_chanterelle_cluster_brown_winter_north"
+      }
+    }
+  },
+  "mushies_set_chanterelle_single_brown": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_chanterelle_single_brown_spring_south",
+        "winter_sprite": "mushies_set_chanterelle_single_brown_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_chanterelle_single_brown_spring_east",
+        "winter_sprite": "mushies_set_chanterelle_single_brown_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_chanterelle_single_brown_spring_west",
+        "winter_sprite": "mushies_set_chanterelle_single_brown_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_chanterelle_single_brown_spring_north",
+        "winter_sprite": "mushies_set_chanterelle_single_brown_winter_north"
+      }
+    }
+  },
+  "mushies_set_flat_cluster_brown": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_flat_cluster_brown_spring_south",
+        "winter_sprite": "mushies_set_flat_cluster_brown_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_flat_cluster_brown_spring_east",
+        "winter_sprite": "mushies_set_flat_cluster_brown_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_flat_cluster_brown_spring_west",
+        "winter_sprite": "mushies_set_flat_cluster_brown_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_flat_cluster_brown_spring_north",
+        "winter_sprite": "mushies_set_flat_cluster_brown_winter_north"
+      }
+    }
+  },
+  "mushies_set_flat_single_brown": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_flat_single_brown_spring_south",
+        "winter_sprite": "mushies_set_flat_single_brown_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_flat_single_brown_spring_east",
+        "winter_sprite": "mushies_set_flat_single_brown_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_flat_single_brown_spring_west",
+        "winter_sprite": "mushies_set_flat_single_brown_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_flat_single_brown_spring_north",
+        "winter_sprite": "mushies_set_flat_single_brown_winter_north"
+      }
+    }
+  },
+  "mushies_set_trumpet_cluster_brown": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_trumpet_cluster_brown_spring_south",
+        "winter_sprite": "mushies_set_trumpet_cluster_brown_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_trumpet_cluster_brown_spring_east",
+        "winter_sprite": "mushies_set_trumpet_cluster_brown_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_trumpet_cluster_brown_spring_west",
+        "winter_sprite": "mushies_set_trumpet_cluster_brown_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_trumpet_cluster_brown_spring_north",
+        "winter_sprite": "mushies_set_trumpet_cluster_brown_winter_north"
+      }
+    }
+  },
+  "mushies_set_trumpet_single_brown": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_trumpet_single_brown_spring_south",
+        "winter_sprite": "mushies_set_trumpet_single_brown_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_trumpet_single_brown_spring_east",
+        "winter_sprite": "mushies_set_trumpet_single_brown_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_trumpet_single_brown_spring_west",
+        "winter_sprite": "mushies_set_trumpet_single_brown_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_trumpet_single_brown_spring_north",
+        "winter_sprite": "mushies_set_trumpet_single_brown_winter_north"
+      }
+    }
+  },
+  "mushies_set_button_cluster_red": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_button_cluster_red_spring_south",
+        "winter_sprite": "mushies_set_button_cluster_red_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_button_cluster_red_spring_east",
+        "winter_sprite": "mushies_set_button_cluster_red_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_button_cluster_red_spring_west",
+        "winter_sprite": "mushies_set_button_cluster_red_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_button_cluster_red_spring_north",
+        "winter_sprite": "mushies_set_button_cluster_red_winter_north"
+      }
+    }
+  },
+  "mushies_set_button_single_red": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_button_single_red_spring_south",
+        "winter_sprite": "mushies_set_button_single_red_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_button_single_red_spring_east",
+        "winter_sprite": "mushies_set_button_single_red_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_button_single_red_spring_west",
+        "winter_sprite": "mushies_set_button_single_red_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_button_single_red_spring_north",
+        "winter_sprite": "mushies_set_button_single_red_winter_north"
+      }
+    }
+  },
+  "mushies_set_chanterelle_cluster_red": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_chanterelle_cluster_red_spring_south",
+        "winter_sprite": "mushies_set_chanterelle_cluster_red_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_chanterelle_cluster_red_spring_east",
+        "winter_sprite": "mushies_set_chanterelle_cluster_red_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_chanterelle_cluster_red_spring_west",
+        "winter_sprite": "mushies_set_chanterelle_cluster_red_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_chanterelle_cluster_red_spring_north",
+        "winter_sprite": "mushies_set_chanterelle_cluster_red_winter_north"
+      }
+    }
+  },
+  "mushies_set_chanterelle_single_red": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_chanterelle_single_red_spring_south",
+        "winter_sprite": "mushies_set_chanterelle_single_red_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_chanterelle_single_red_spring_east",
+        "winter_sprite": "mushies_set_chanterelle_single_red_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_chanterelle_single_red_spring_west",
+        "winter_sprite": "mushies_set_chanterelle_single_red_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_chanterelle_single_red_spring_north",
+        "winter_sprite": "mushies_set_chanterelle_single_red_winter_north"
+      }
+    }
+  },
+  "mushies_set_flat_cluster_red": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_flat_cluster_red_spring_south",
+        "winter_sprite": "mushies_set_flat_cluster_red_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_flat_cluster_red_spring_east",
+        "winter_sprite": "mushies_set_flat_cluster_red_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_flat_cluster_red_spring_west",
+        "winter_sprite": "mushies_set_flat_cluster_red_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_flat_cluster_red_spring_north",
+        "winter_sprite": "mushies_set_flat_cluster_red_winter_north"
+      }
+    }
+  },
+  "mushies_set_flat_single_red": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_flat_single_red_spring_south",
+        "winter_sprite": "mushies_set_flat_single_red_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_flat_single_red_spring_east",
+        "winter_sprite": "mushies_set_flat_single_red_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_flat_single_red_spring_west",
+        "winter_sprite": "mushies_set_flat_single_red_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_flat_single_red_spring_north",
+        "winter_sprite": "mushies_set_flat_single_red_winter_north"
+      }
+    }
+  },
+  "mushies_set_trumpet_cluster_red": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_trumpet_cluster_red_spring_south",
+        "winter_sprite": "mushies_set_trumpet_cluster_red_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_trumpet_cluster_red_spring_east",
+        "winter_sprite": "mushies_set_trumpet_cluster_red_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_trumpet_cluster_red_spring_west",
+        "winter_sprite": "mushies_set_trumpet_cluster_red_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_trumpet_cluster_red_spring_north",
+        "winter_sprite": "mushies_set_trumpet_cluster_red_winter_north"
+      }
+    }
+  },
+  "mushies_set_trumpet_single_red": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_trumpet_single_red_spring_south",
+        "winter_sprite": "mushies_set_trumpet_single_red_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_trumpet_single_red_spring_east",
+        "winter_sprite": "mushies_set_trumpet_single_red_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_trumpet_single_red_spring_west",
+        "winter_sprite": "mushies_set_trumpet_single_red_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_trumpet_single_red_spring_north",
+        "winter_sprite": "mushies_set_trumpet_single_red_winter_north"
+      }
+    }
+  },
+  "mushies_set_button_cluster_cream": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_button_cluster_cream_spring_south",
+        "winter_sprite": "mushies_set_button_cluster_cream_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_button_cluster_cream_spring_east",
+        "winter_sprite": "mushies_set_button_cluster_cream_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_button_cluster_cream_spring_west",
+        "winter_sprite": "mushies_set_button_cluster_cream_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_button_cluster_cream_spring_north",
+        "winter_sprite": "mushies_set_button_cluster_cream_winter_north"
+      }
+    }
+  },
+  "mushies_set_button_single_cream": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_button_single_cream_spring_south",
+        "winter_sprite": "mushies_set_button_single_cream_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_button_single_cream_spring_east",
+        "winter_sprite": "mushies_set_button_single_cream_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_button_single_cream_spring_west",
+        "winter_sprite": "mushies_set_button_single_cream_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_button_single_cream_spring_north",
+        "winter_sprite": "mushies_set_button_single_cream_winter_north"
+      }
+    }
+  },
+  "mushies_set_chanterelle_cluster_cream": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_chanterelle_cluster_cream_spring_south",
+        "winter_sprite": "mushies_set_chanterelle_cluster_cream_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_chanterelle_cluster_cream_spring_east",
+        "winter_sprite": "mushies_set_chanterelle_cluster_cream_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_chanterelle_cluster_cream_spring_west",
+        "winter_sprite": "mushies_set_chanterelle_cluster_cream_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_chanterelle_cluster_cream_spring_north",
+        "winter_sprite": "mushies_set_chanterelle_cluster_cream_winter_north"
+      }
+    }
+  },
+  "mushies_set_chanterelle_single_cream": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_chanterelle_single_cream_spring_south",
+        "winter_sprite": "mushies_set_chanterelle_single_cream_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_chanterelle_single_cream_spring_east",
+        "winter_sprite": "mushies_set_chanterelle_single_cream_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_chanterelle_single_cream_spring_west",
+        "winter_sprite": "mushies_set_chanterelle_single_cream_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_chanterelle_single_cream_spring_north",
+        "winter_sprite": "mushies_set_chanterelle_single_cream_winter_north"
+      }
+    }
+  },
+  "mushies_set_flat_cluster_cream": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_flat_cluster_cream_spring_south",
+        "winter_sprite": "mushies_set_flat_cluster_cream_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_flat_cluster_cream_spring_east",
+        "winter_sprite": "mushies_set_flat_cluster_cream_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_flat_cluster_cream_spring_west",
+        "winter_sprite": "mushies_set_flat_cluster_cream_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_flat_cluster_cream_spring_north",
+        "winter_sprite": "mushies_set_flat_cluster_cream_winter_north"
+      }
+    }
+  },
+  "mushies_set_flat_single_cream": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_flat_single_cream_spring_south",
+        "winter_sprite": "mushies_set_flat_single_cream_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_flat_single_cream_spring_east",
+        "winter_sprite": "mushies_set_flat_single_cream_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_flat_single_cream_spring_west",
+        "winter_sprite": "mushies_set_flat_single_cream_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_flat_single_cream_spring_north",
+        "winter_sprite": "mushies_set_flat_single_cream_winter_north"
+      }
+    }
+  },
+  "mushies_set_trumpet_cluster_cream": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_trumpet_cluster_cream_spring_south",
+        "winter_sprite": "mushies_set_trumpet_cluster_cream_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_trumpet_cluster_cream_spring_east",
+        "winter_sprite": "mushies_set_trumpet_cluster_cream_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_trumpet_cluster_cream_spring_west",
+        "winter_sprite": "mushies_set_trumpet_cluster_cream_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_trumpet_cluster_cream_spring_north",
+        "winter_sprite": "mushies_set_trumpet_cluster_cream_winter_north"
+      }
+    }
+  },
+  "mushies_set_trumpet_single_cream": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_trumpet_single_cream_spring_south",
+        "winter_sprite": "mushies_set_trumpet_single_cream_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_trumpet_single_cream_spring_east",
+        "winter_sprite": "mushies_set_trumpet_single_cream_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_trumpet_single_cream_spring_west",
+        "winter_sprite": "mushies_set_trumpet_single_cream_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_trumpet_single_cream_spring_north",
+        "winter_sprite": "mushies_set_trumpet_single_cream_winter_north"
+      }
+    }
+  },
+  "mushies_set_button_cluster_white": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_button_cluster_white_spring_south",
+        "winter_sprite": "mushies_set_button_cluster_white_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_button_cluster_white_spring_east",
+        "winter_sprite": "mushies_set_button_cluster_white_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_button_cluster_white_spring_west",
+        "winter_sprite": "mushies_set_button_cluster_white_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_button_cluster_white_spring_north",
+        "winter_sprite": "mushies_set_button_cluster_white_winter_north"
+      }
+    }
+  },
+  "mushies_set_button_single_white": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_button_single_white_spring_south",
+        "winter_sprite": "mushies_set_button_single_white_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_button_single_white_spring_east",
+        "winter_sprite": "mushies_set_button_single_white_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_button_single_white_spring_west",
+        "winter_sprite": "mushies_set_button_single_white_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_button_single_white_spring_north",
+        "winter_sprite": "mushies_set_button_single_white_winter_north"
+      }
+    }
+  },
+  "mushies_set_chanterelle_cluster_white": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_chanterelle_cluster_white_spring_south",
+        "winter_sprite": "mushies_set_chanterelle_cluster_white_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_chanterelle_cluster_white_spring_east",
+        "winter_sprite": "mushies_set_chanterelle_cluster_white_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_chanterelle_cluster_white_spring_west",
+        "winter_sprite": "mushies_set_chanterelle_cluster_white_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_chanterelle_cluster_white_spring_north",
+        "winter_sprite": "mushies_set_chanterelle_cluster_white_winter_north"
+      }
+    }
+  },
+  "mushies_set_chanterelle_single_white": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_chanterelle_single_white_spring_south",
+        "winter_sprite": "mushies_set_chanterelle_single_white_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_chanterelle_single_white_spring_east",
+        "winter_sprite": "mushies_set_chanterelle_single_white_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_chanterelle_single_white_spring_west",
+        "winter_sprite": "mushies_set_chanterelle_single_white_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_chanterelle_single_white_spring_north",
+        "winter_sprite": "mushies_set_chanterelle_single_white_winter_north"
+      }
+    }
+  },
+  "mushies_set_flat_cluster_white": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_flat_cluster_white_spring_south",
+        "winter_sprite": "mushies_set_flat_cluster_white_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_flat_cluster_white_spring_east",
+        "winter_sprite": "mushies_set_flat_cluster_white_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_flat_cluster_white_spring_west",
+        "winter_sprite": "mushies_set_flat_cluster_white_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_flat_cluster_white_spring_north",
+        "winter_sprite": "mushies_set_flat_cluster_white_winter_north"
+      }
+    }
+  },
+  "mushies_set_flat_single_white": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_flat_single_white_spring_south",
+        "winter_sprite": "mushies_set_flat_single_white_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_flat_single_white_spring_east",
+        "winter_sprite": "mushies_set_flat_single_white_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_flat_single_white_spring_west",
+        "winter_sprite": "mushies_set_flat_single_white_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_flat_single_white_spring_north",
+        "winter_sprite": "mushies_set_flat_single_white_winter_north"
+      }
+    }
+  },
+  "mushies_set_trumpet_cluster_white": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_trumpet_cluster_white_spring_south",
+        "winter_sprite": "mushies_set_trumpet_cluster_white_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_trumpet_cluster_white_spring_east",
+        "winter_sprite": "mushies_set_trumpet_cluster_white_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_trumpet_cluster_white_spring_west",
+        "winter_sprite": "mushies_set_trumpet_cluster_white_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_trumpet_cluster_white_spring_north",
+        "winter_sprite": "mushies_set_trumpet_cluster_white_winter_north"
+      }
+    }
+  },
+  "mushies_set_trumpet_single_white": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "mushies_set_trumpet_single_white_spring_south",
+        "winter_sprite": "mushies_set_trumpet_single_white_winter_south"
+      },
+      "east": {
+        "sprite": "mushies_set_trumpet_single_white_spring_east",
+        "winter_sprite": "mushies_set_trumpet_single_white_winter_east"
+      },
+      "west": {
+        "sprite": "mushies_set_trumpet_single_white_spring_west",
+        "winter_sprite": "mushies_set_trumpet_single_white_winter_west"
+      },
+      "north": {
+        "sprite": "mushies_set_trumpet_single_white_spring_north",
+        "winter_sprite": "mushies_set_trumpet_single_white_winter_north"
+      }
+    }
+  }
+}

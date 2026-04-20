@@ -1,0 +1,2067 @@
+﻿{
+  "stitches_button_stool_ash": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "child_grid": "2",
+      "south": {
+        "sprite": "stitches_ash_button_stool_south",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -4
+        ]
+      },
+      "east": {
+        "sprite": "stitches_ash_button_stool_east",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -5
+        ]
+      },
+      "west": {
+        "sprite": "stitches_ash_button_stool_west",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -5
+        ]
+      },
+      "north": {
+        "sprite": "stitches_ash_button_stool_north",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -4
+        ]
+      }
+    }
+  },
+  "stitches_lace_couch_ash": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        8,
+        3
+      ],
+      "child_grid": false,
+      "south": {
+        "sprite": "stitches_ash_couch_south",
+          "size": [
+            8,
+            3
+          ],
+          "offset": [
+            8,
+            7
+          ]
+      },
+      "north": {
+        "sprite": "stitches_ash_couch_north",
+        "size": [
+          8,
+          3
+        ],
+        "offset": [
+          8,
+          7
+        ],
+        "top_sprite": "stitches_ash_couch_north_top",
+        "top_sprite_depth_offset": 10
+      },
+      "east": {
+        "sprite": "stitches_ash_couch_east",
+        "size": [
+          8,
+          3
+        ],
+        "offset": [
+          8,
+          7
+        ],
+        "top_sprite": "stitches_ash_couch_east_top",
+        "top_sprite_depth_offset": 10
+      },
+      "west": {
+        "sprite": "stitches_ash_couch_west",
+        "size": [
+          8,
+          3
+        ],
+        "offset": [
+          8,
+          7
+        ],
+        "top_sprite": "stitches_ash_couch_west_top",
+        "top_sprite_depth_offset": 10
+      }
+    }
+  },
+  "stitches_embroidery_hoop_ash": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "south": {
+        "sprite": "stitches_ash_embroidery_hoop_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_ash_embroidery_hoop_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_ash_embroidery_hoop_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_ash_embroidery_hoop_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_storage_wovenbasket_ash": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        2
+      ],
+      "south": {
+        "sprite": "stitches_ash_woven_storage_closed",
+        "offset": [
+          16,
+          0
+        ]
+      },
+      "interaction_chest": {
+        "open_sprite": "stitches_ash_woven_storage_opened",
+        "opening_sprite": "stitches_ash_woven_storage_opening",
+        "bounce_sprite": "stitches_ash_woven_storage_bounce",
+        "inventory_size": 54,
+        "bark_offset": [
+          0,
+          -41
+        ]
+      }
+    }
+  },
+  "stitches_knitting_needles_ash": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_ash_needles_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_ash_needles_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_ash_needles_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_ash_needles_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_sewing_bobbin_ash": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_ash_sewingbobbin_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_ash_sewingbobbin_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_ash_sewingbobbin_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_ash_sewingbobbin_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_thread_shelf_ash": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [  
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_ash_threadshelf_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_ash_threadshelf_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_ash_threadshelf_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_ash_threadshelf_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_spool_table_ash": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "child_grid": [
+        "11",
+        "11"
+      ],
+      "offset": [
+        8,
+        7
+      ],
+      "child_grid_offset": [
+        0,
+        -13
+      ],
+      "south": {
+        "sprite": "stitches_ash_spool_table_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_ash_spool_table_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_ash_spool_table_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_ash_spool_table_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_standing_thread_ash": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_ash_standing_threads_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_ash_standing_threads_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_ash_standing_threads_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_ash_standing_threads_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_long_table_ash": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        7,
+        2
+      ],
+      "collision_grid": "2",
+      "child_grid": [
+        "1111111",
+        "1111111"
+      ],
+      "mirror_west": false,
+      "south": {
+        "sprite": "stitches_ash_long_table_south",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      },
+      "east": {
+        "sprite": "stitches_ash_long_table_east",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_ash_long_table_west",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_ash_long_table_north",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      }
+    }
+  },
+  "stitches_wall_floral_embroidery_ash": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        7,
+        3
+      ],
+      "rule_grid": "W",
+      "east": {
+        "sprite": "stitches_ash_wall_embroidery_south"
+      },
+      "west": {
+        "sprite": "stitches_ash_wall_embroidery_west"
+      }        
+    }
+  },
+  "stitches_wall_bug_embroidery_ash": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        7,
+        3
+      ],
+      "rule_grid": "W",
+      "east": {
+        "sprite": "stitches_ash_wall_embroidery_north"
+      },
+      "west": {
+        "sprite": "stitches_ash_wall_embroidery_east"
+      }      
+    }
+  },
+  "stitches_button_stool_cherry": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "child_grid": "2",
+      "south": {
+        "sprite": "stitches_cherry_button_stool_south",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -4
+        ]
+      },
+      "east": {
+        "sprite": "stitches_cherry_button_stool_east",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -5
+        ]
+      },
+      "west": {
+        "sprite": "stitches_cherry_button_stool_west",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -5
+        ]
+      },
+      "north": {
+        "sprite": "stitches_cherry_button_stool_north",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -4
+        ]
+      }
+    }
+  },
+  "stitches_lace_couch_cherry": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        8,
+        3
+      ],
+      "child_grid": false,
+      "south": {
+        "sprite": "stitches_cherry_couch_south",
+          "size": [
+            8,
+            3
+          ],
+          "offset": [
+            8,
+            7
+          ]
+      },
+      "north": {
+        "sprite": "stitches_cherry_couch_north",
+        "size": [
+          8,
+          3
+        ],
+        "offset": [
+          8,
+          7
+        ],
+        "top_sprite": "stitches_cherry_couch_north_top",
+        "top_sprite_depth_offset": 10
+      },
+      "east": {
+        "sprite": "stitches_cherry_couch_east",
+        "size": [
+          8,
+          3
+        ],
+        "offset": [
+          8,
+          7
+        ],
+        "top_sprite": "stitches_cherry_couch_east_top",
+        "top_sprite_depth_offset": 10
+      },
+      "west": {
+        "sprite": "stitches_cherry_couch_west",
+        "size": [
+          8,
+          3
+        ],
+        "offset": [
+          8,
+          7
+        ],
+        "top_sprite": "stitches_cherry_couch_west_top",
+        "top_sprite_depth_offset": 10
+      }
+    }
+  },
+  "stitches_embroidery_hoop_cherry": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "south": {
+        "sprite": "stitches_cherry_embroidery_hoop_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_cherry_embroidery_hoop_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_cherry_embroidery_hoop_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_cherry_embroidery_hoop_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_storage_wovenbasket_cherry": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        2
+      ],
+      "south": {
+        "sprite": "stitches_cherry_woven_storage_closed",
+        "offset": [
+          16,
+          0
+        ]
+      },
+      "interaction_chest": {
+        "open_sprite": "stitches_cherry_woven_storage_opened",
+        "opening_sprite": "stitches_cherry_woven_storage_opening",
+        "bounce_sprite": "stitches_cherry_woven_storage_bounce",
+        "inventory_size": 54,
+        "bark_offset": [
+          0,
+          -41
+        ]
+      }
+    }
+  },
+  "stitches_knitting_needles_cherry": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_cherry_needles_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_cherry_needles_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_cherry_needles_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_cherry_needles_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_sewing_bobbin_cherry": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_cherry_sewingbobbin_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_cherry_sewingbobbin_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_cherry_sewingbobbin_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_cherry_sewingbobbin_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_thread_shelf_cherry": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [  
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_cherry_threadshelf_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_cherry_threadshelf_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_cherry_threadshelf_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_cherry_threadshelf_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_spool_table_cherry": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "child_grid": [
+        "11",
+        "11"
+      ],
+      "offset": [
+        8,
+        7
+      ],
+      "child_grid_offset": [
+        0,
+        -13
+      ],
+      "south": {
+        "sprite": "stitches_cherry_spool_table_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_cherry_spool_table_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_cherry_spool_table_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_cherry_spool_table_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_standing_thread_cherry": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_cherry_standing_threads_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_cherry_standing_threads_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_cherry_standing_threads_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_cherry_standing_threads_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_long_table_cherry": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        7,
+        2
+      ],
+      "collision_grid": "2",
+      "child_grid": [
+        "1111111",
+        "1111111"
+      ],
+      "mirror_west": false,
+      "south": {
+        "sprite": "stitches_cherry_long_table_south",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      },
+      "east": {
+        "sprite": "stitches_cherry_long_table_east",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_cherry_long_table_west",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_cherry_long_table_north",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      }
+    }
+  },
+  "stitches_wall_floral_embroidery_cherry": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        7,
+        3
+      ],
+      "rule_grid": "W",
+      "east": {
+        "sprite": "stitches_cherry_wall_embroidery_south"
+      },
+      "west": {
+        "sprite": "stitches_cherry_wall_embroidery_west"
+      }        
+    }
+  },
+  "stitches_wall_bug_embroidery_cherry": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        7,
+        3
+      ],
+      "rule_grid": "W",
+      "east": {
+        "sprite": "stitches_cherry_wall_embroidery_north"
+      },
+      "west": {
+        "sprite": "stitches_cherry_wall_embroidery_east"
+      }      
+    }
+  },
+  "stitches_button_stool_oak": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "child_grid": "2",
+      "south": {
+        "sprite": "stitches_oak_button_stool_south",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -4
+        ]
+      },
+      "east": {
+        "sprite": "stitches_oak_button_stool_east",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -5
+        ]
+      },
+      "west": {
+        "sprite": "stitches_oak_button_stool_west",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -5
+        ]
+      },
+      "north": {
+        "sprite": "stitches_oak_button_stool_north",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -4
+        ]
+      }
+    }
+  },
+  "stitches_lace_couch_oak": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        8,
+        3
+      ],
+      "child_grid": false,
+      "south": {
+        "sprite": "stitches_oak_couch_south",
+          "size": [
+            8,
+            3
+          ],
+          "offset": [
+            8,
+            7
+          ]
+      },
+      "north": {
+        "sprite": "stitches_oak_couch_north",
+        "size": [
+          8,
+          3
+        ],
+        "offset": [
+          8,
+          7
+        ],
+        "top_sprite": "stitches_oak_couch_north_top",
+        "top_sprite_depth_offset": 10
+      },
+      "east": {
+        "sprite": "stitches_oak_couch_east",
+        "size": [
+          8,
+          3
+        ],
+        "offset": [
+          8,
+          7
+        ],
+        "top_sprite": "stitches_oak_couch_east_top",
+        "top_sprite_depth_offset": 10
+      },
+      "west": {
+        "sprite": "stitches_oak_couch_west",
+        "size": [
+          8,
+          3
+        ],
+        "offset": [
+          8,
+          7
+        ],
+        "top_sprite": "stitches_oak_couch_west_top",
+        "top_sprite_depth_offset": 10
+      }
+    }
+  },
+  "stitches_embroidery_hoop_oak": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "south": {
+        "sprite": "stitches_oak_embroidery_hoop_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_oak_embroidery_hoop_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_oak_embroidery_hoop_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_oak_embroidery_hoop_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_storage_wovenbasket_oak": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        2
+      ],
+      "south": {
+        "sprite": "stitches_oak_woven_storage_closed",
+        "offset": [
+          16,
+          0
+        ]
+      },
+      "interaction_chest": {
+        "open_sprite": "stitches_oak_woven_storage_opened",
+        "opening_sprite": "stitches_oak_woven_storage_opening",
+        "bounce_sprite": "stitches_oak_woven_storage_bounce",
+        "inventory_size": 54,
+        "bark_offset": [
+          0,
+          -41
+        ]
+      }
+    }
+  },
+  "stitches_knitting_needles_oak": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_oak_needles_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_oak_needles_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_oak_needles_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_oak_needles_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_sewing_bobbin_oak": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_oak_sewingbobbin_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_oak_sewingbobbin_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_oak_sewingbobbin_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_oak_sewingbobbin_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_thread_shelf_oak": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [  
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_oak_threadshelf_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_oak_threadshelf_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_oak_threadshelf_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_oak_threadshelf_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_spool_table_oak": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "child_grid": [
+        "11",
+        "11"
+      ],
+      "offset": [
+        8,
+        7
+      ],
+      "child_grid_offset": [
+        0,
+        -13
+      ],
+      "south": {
+        "sprite": "stitches_oak_spool_table_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_oak_spool_table_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_oak_spool_table_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_oak_spool_table_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_standing_thread_oak": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_oak_standing_threads_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_oak_standing_threads_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_oak_standing_threads_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_oak_standing_threads_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_long_table_oak": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        7,
+        2
+      ],
+      "collision_grid": "2",
+      "child_grid": [
+        "1111111",
+        "1111111"
+      ],
+      "mirror_west": false,
+      "south": {
+        "sprite": "stitches_oak_long_table_south",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      },
+      "east": {
+        "sprite": "stitches_oak_long_table_east",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_oak_long_table_west",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_oak_long_table_north",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      }
+    }
+  },
+  "stitches_wall_floral_embroidery_oak": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        7,
+        3
+      ],
+      "rule_grid": "W",
+      "east": {
+        "sprite": "stitches_oak_wall_embroidery_south"
+      },
+      "west": {
+        "sprite": "stitches_oak_wall_embroidery_west"
+      }        
+    }
+  },
+  "stitches_wall_bug_embroidery_oak": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        7,
+        3
+      ],
+      "rule_grid": "W",
+      "east": {
+        "sprite": "stitches_oak_wall_embroidery_north"
+      },
+      "west": {
+        "sprite": "stitches_oak_wall_embroidery_east"
+      }      
+    }
+  },
+  "stitches_button_stool_walnut": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "child_grid": "2",
+      "south": {
+        "sprite": "stitches_walnut_button_stool_south",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -4
+        ]
+      },
+      "east": {
+        "sprite": "stitches_walnut_button_stool_east",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -5
+        ]
+      },
+      "west": {
+        "sprite": "stitches_walnut_button_stool_west",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -5
+        ]
+      },
+      "north": {
+        "sprite": "stitches_walnut_button_stool_north",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -4
+        ]
+      }
+    }
+  },
+  "stitches_lace_couch_walnut": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        8,
+        3
+      ],
+      "child_grid": false,
+      "south": {
+        "sprite": "stitches_walnut_couch_south",
+          "size": [
+            8,
+            3
+          ],
+          "offset": [
+            8,
+            7
+          ]
+      },
+      "north": {
+        "sprite": "stitches_walnut_couch_north",
+        "size": [
+          8,
+          3
+        ],
+        "offset": [
+          8,
+          7
+        ],
+        "top_sprite": "stitches_walnut_couch_north_top",
+        "top_sprite_depth_offset": 10
+      },
+      "east": {
+        "sprite": "stitches_walnut_couch_east",
+        "size": [
+          8,
+          3
+        ],
+        "offset": [
+          8,
+          7
+        ],
+        "top_sprite": "stitches_walnut_couch_east_top",
+        "top_sprite_depth_offset": 10
+      },
+      "west": {
+        "sprite": "stitches_walnut_couch_west",
+        "size": [
+          8,
+          3
+        ],
+        "offset": [
+          8,
+          7
+        ],
+        "top_sprite": "stitches_walnut_couch_west_top",
+        "top_sprite_depth_offset": 10
+      }
+    }
+  },
+  "stitches_embroidery_hoop_walnut": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "south": {
+        "sprite": "stitches_walnut_embroidery_hoop_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_walnut_embroidery_hoop_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_walnut_embroidery_hoop_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_walnut_embroidery_hoop_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_storage_wovenbasket_walnut": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        2
+      ],
+      "south": {
+        "sprite": "stitches_walnut_woven_storage_closed",
+        "offset": [
+          16,
+          0
+        ]
+      },
+      "interaction_chest": {
+        "open_sprite": "stitches_walnut_woven_storage_opened",
+        "opening_sprite": "stitches_walnut_woven_storage_opening",
+        "bounce_sprite": "stitches_walnut_woven_storage_bounce",
+        "inventory_size": 54,
+        "bark_offset": [
+          0,
+          -41
+        ]
+      }
+    }
+  },
+  "stitches_knitting_needles_walnut": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_walnut_needles_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_walnut_needles_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_walnut_needles_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_walnut_needles_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_sewing_bobbin_walnut": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_walnut_sewingbobbin_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_walnut_sewingbobbin_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_walnut_sewingbobbin_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_walnut_sewingbobbin_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_thread_shelf_walnut": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [  
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_walnut_threadshelf_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_walnut_threadshelf_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_walnut_threadshelf_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_walnut_threadshelf_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_spool_table_walnut": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "child_grid": [
+        "11",
+        "11"
+      ],
+      "offset": [
+        8,
+        7
+      ],
+      "child_grid_offset": [
+        0,
+        -13
+      ],
+      "south": {
+        "sprite": "stitches_walnut_spool_table_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_walnut_spool_table_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_walnut_spool_table_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_walnut_spool_table_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_standing_thread_walnut": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_walnut_standing_threads_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_walnut_standing_threads_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_walnut_standing_threads_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_walnut_standing_threads_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_long_table_walnut": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        7,
+        2
+      ],
+      "collision_grid": "2",
+      "child_grid": [
+        "1111111",
+        "1111111"
+      ],
+      "mirror_west": false,
+      "south": {
+        "sprite": "stitches_walnut_long_table_south",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      },
+      "east": {
+        "sprite": "stitches_walnut_long_table_east",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_walnut_long_table_west",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_walnut_long_table_north",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      }
+    }
+  },
+  "stitches_wall_floral_embroidery_walnut": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        7,
+        3
+      ],
+      "rule_grid": "W",
+      "east": {
+        "sprite": "stitches_walnut_wall_embroidery_south"
+      },
+      "west": {
+        "sprite": "stitches_walnut_wall_embroidery_west"
+      }        
+    }
+  },
+  "stitches_wall_bug_embroidery_walnut": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        7,
+        3
+      ],
+      "rule_grid": "W",
+      "east": {
+        "sprite": "stitches_walnut_wall_embroidery_north"
+      },
+      "west": {
+        "sprite": "stitches_walnut_wall_embroidery_east"
+      }      
+    }
+  },
+  "stitches_storage_cookie_tin": {
+    "category": "furniture",
+    "overwrites_other_mod": true,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "south": {
+        "sprite": "stitches_cookie_tin_storage_closed",
+        "offset": [
+          16,
+          0
+        ]
+      },
+      "interaction_chest": {
+        "open_sprite": "stitches_cookie_tin_storage_opened",
+        "opening_sprite": "stitches_cookie_tin_storage_opening",
+        "bounce_sprite": "stitches_cookie_tin_storage_bounce",
+        "inventory_size": 54,
+        "bark_offset": [
+          0,
+          -41
+        ]
+      }
+    }
+  },
+  "stitches_measuring_taped": {
+    "category": "furniture",
+    "overwrites_other_mod": true,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_measuring_tape_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_measuring_tape_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_measuring_tape_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_measuring_tape_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_scissorsors": {
+    "category": "furniture",
+    "overwrites_other_mod": true,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "south": {
+        "sprite": "stitches_scissorsors_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_scissorsors_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_scissorsors_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_scissorsors_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_modern_sewing_machine": {
+    "category": "furniture",
+    "overwrites_other_mod": true,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "south": {
+        "sprite": "stitches_sewingmachine_south",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "east": {
+        "sprite": "stitches_sewingmachine_east",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "west": {
+        "sprite": "stitches_sewingmachine_west",
+        "offset": [
+          8,
+          8
+        ]
+      },
+      "north": {
+        "sprite": "stitches_sewingmachine_north",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  },
+  "stitches_round_floral_rug": {
+    "category": "furniture",
+    "overwrites_other_mod": true,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "collision_grid": "0",
+      "depth_to_floor": true,
+      "rug": true,
+      "south": {
+        "sprite": "stitches_floral_rug"
+      }
+    }
+  }
+}

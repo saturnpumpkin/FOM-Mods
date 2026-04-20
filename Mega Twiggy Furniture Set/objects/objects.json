@@ -1,0 +1,1499 @@
+﻿{
+  "ash_twiggy_bed": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "is_bed": true,
+      "size": [
+        8,
+        5
+      ],
+      "can_be_child": false,
+      "collision_grid": [
+        "11111111",
+        "11111111",
+        "00000000",
+        "11111111",
+        "11111111"
+      ],
+      "south": {
+        "sprite": "ash_twiggy_bed",
+        "offset": [
+          32,
+          7
+        ],
+        "top_sprite": "ash_twiggy_bed_top",
+        "top_sprite_depth_offset": 32
+      }
+    }
+  },
+  "ash_twiggy_couch": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        6,
+        2
+      ],
+      "child_grid": [
+        "011110",
+        "011110"
+      ],
+      "south": {
+        "sprite": "ash_twiggy_couch_south",
+        "child_grid_offset": [
+          0,
+          -8
+        ]
+      },
+      "north": {
+        "sprite": "ash_twiggy_couch_north",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -8
+        ],
+        "top_sprite": "ash_twiggy_couch_north_top",
+        "top_sprite_depth_offset": 10
+      },
+      "east": {
+        "sprite": "ash_twiggy_couch_east",
+        "child_grid_offset": [
+          1,
+          -3
+        ],
+        "top_sprite": "ash_twiggy_couch_east_top",
+        "top_sprite_depth_offset": 10
+      },
+      "west": {
+        "sprite": "ash_twiggy_couch_west",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -3
+        ],
+        "top_sprite": "ash_twiggy_couch_west_top",
+        "top_sprite_depth_offset": 10
+      }
+    }
+  },
+  "ash_twiggy_shelf": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        6,
+        2
+      ],
+      "child_grid": [
+        "111111",
+        "111111"
+      ],
+      "south": {
+        "sprite": "ash_twiggy_shelf_south",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -15
+        ],
+        "top_sprite": "ash_twiggy_shelf_south_top",
+        "top_sprite_depth_offset": 10
+      },
+      "east": {
+        "sprite": "ash_twiggy_shelf_east",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          -1,
+          -14
+        ],
+        "top_sprite": "ash_twiggy_shelf_east_top",
+        "top_sprite_depth_offset": 10
+      },
+      "west": {
+        "sprite": "ash_twiggy_shelf_west",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          -1,
+          -14
+        ],
+        "top_sprite": "ash_twiggy_shelf_west_top",
+        "top_sprite_depth_offset": 10
+      },
+      "north": {
+        "sprite": "ash_twiggy_shelf_north",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -15
+        ],
+        "top_sprite": "ash_twiggy_shelf_north_top",
+        "top_sprite_depth_offset": 10
+      }
+    }
+  },
+  "ash_twiggy_stool": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "child_grid": "2",
+      "south": {
+        "sprite": "ash_twiggy_stool_south",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -7
+        ]
+      },
+      "east": {
+        "sprite": "ash_twiggy_stool_east",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -7
+        ]
+      },
+      "west": {
+        "sprite": "ash_twiggy_stool_west",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      },
+      "north": {
+        "sprite": "ash_twiggy_stool_north",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      }
+    }
+  },
+  "ash_twiggy_table": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        6,
+        6
+      ],
+      "collision_grid": [
+        "011110",
+        "111111",
+        "111111",
+        "111111",
+        "111111",
+        "011110"
+      ],
+      "child_grid": [
+        "000000",
+        "011110",
+        "111111",
+        "111111",
+        "111111",
+        "011110"
+      ],
+      "south": {
+        "sprite": "ash_twiggy_table_south",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -11
+        ]
+      },
+      "east": {
+        "sprite": "ash_twiggy_table_east",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          -3,
+          -12
+        ]
+      },
+      "west": {
+        "sprite": "ash_twiggy_table_west",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          5,
+          -11
+        ]
+      },
+      "north": {
+        "sprite": "ash_twiggy_table_north",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -2
+        ]
+      }
+    }
+  },
+  "ash_twiggy_lamp_west": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "interaction_turn_on": {
+        "light": "small",
+        "light_offset": [
+          -10,
+          -18
+        ]
+      },
+      "south": {
+        "sprite": "ash_twiggy_lamp_west",
+        "on_sprite": "ash_twiggy_lamp_west_on",
+        "offset": [
+          8,
+          0
+        ]
+      }
+    }
+  },
+  "ash_twiggy_lamp_east": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "interaction_turn_on": {
+        "light": "small",
+        "light_offset": [
+          10,
+          -18
+        ]
+      },
+      "south": {
+        "sprite": "ash_twiggy_lamp_east",
+        "on_sprite": "ash_twiggy_lamp_east_on",
+        "offset": [
+          8,
+          0
+        ]
+      }
+    }
+  },
+  "ash_twiggy_macareme_v1": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        7
+      ],
+      "rule_grid": "W",
+      "south": {
+        "sprite": "ash_twiggy_macareme_v1"
+      }
+    }
+  },
+  "ash_twiggy_macareme_v2": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        7
+      ],
+      "rule_grid": "W",
+      "south": {
+        "sprite": "ash_twiggy_macareme_v2"
+      }
+    }
+  },
+  "ash_twiggy_macareme_v3": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        7
+      ],
+      "rule_grid": "W",
+      "south": {
+        "sprite": "ash_twiggy_macareme_v3"
+      }
+    }
+  },
+  "cherry_twiggy_bed": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "is_bed": true,
+      "size": [
+        8,
+        5
+      ],
+      "can_be_child": false,
+      "collision_grid": [
+        "11111111",
+        "11111111",
+        "00000000",
+        "11111111",
+        "11111111"
+      ],
+      "south": {
+        "sprite": "cherry_twiggy_bed",
+        "offset": [
+          32,
+          7
+        ],
+        "top_sprite": "cherry_twiggy_bed_top",
+        "top_sprite_depth_offset": 32
+      }
+    }
+  },
+  "cherry_twiggy_couch": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        6,
+        2
+      ],
+      "child_grid": [
+        "011110",
+        "011110"
+      ],
+      "south": {
+        "sprite": "cherry_twiggy_couch_south",
+        "child_grid_offset": [
+          0,
+          -8
+        ]
+      },
+      "north": {
+        "sprite": "cherry_twiggy_couch_north",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -8
+        ],
+        "top_sprite": "cherry_twiggy_couch_north_top",
+        "top_sprite_depth_offset": 10
+      },
+      "east": {
+        "sprite": "cherry_twiggy_couch_east",
+        "child_grid_offset": [
+          1,
+          -3
+        ],
+        "top_sprite": "cherry_twiggy_couch_east_top",
+        "top_sprite_depth_offset": 10
+      },
+      "west": {
+        "sprite": "cherry_twiggy_couch_west",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -3
+        ],
+        "top_sprite": "cherry_twiggy_couch_west_top",
+        "top_sprite_depth_offset": 10
+      }
+    }
+  },
+  "cherry_twiggy_shelf": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        6,
+        2
+      ],
+      "child_grid": [
+        "111111",
+        "111111"
+      ],
+      "south": {
+        "sprite": "cherry_twiggy_shelf_south",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -15
+        ],
+        "top_sprite": "cherry_twiggy_shelf_south_top",
+        "top_sprite_depth_offset": 10
+      },
+      "east": {
+        "sprite": "cherry_twiggy_shelf_east",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          -1,
+          -14
+        ],
+        "top_sprite": "cherry_twiggy_shelf_east_top",
+        "top_sprite_depth_offset": 10
+      },
+      "west": {
+        "sprite": "cherry_twiggy_shelf_west",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          -1,
+          -14
+        ],
+        "top_sprite": "cherry_twiggy_shelf_west_top",
+        "top_sprite_depth_offset": 10
+      },
+      "north": {
+        "sprite": "cherry_twiggy_shelf_north",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -15
+        ],
+        "top_sprite": "cherry_twiggy_shelf_north_top",
+        "top_sprite_depth_offset": 10
+      }
+    }
+  },
+  "cherry_twiggy_stool": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "child_grid": "2",
+      "south": {
+        "sprite": "cherry_twiggy_stool_south",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -7
+        ]
+      },
+      "east": {
+        "sprite": "cherry_twiggy_stool_east",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -7
+        ]
+      },
+      "west": {
+        "sprite": "cherry_twiggy_stool_west",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      },
+      "north": {
+        "sprite": "cherry_twiggy_stool_north",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      }
+    }
+  },
+  "cherry_twiggy_table": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        6,
+        6
+      ],
+      "collision_grid": [
+        "011110",
+        "111111",
+        "111111",
+        "111111",
+        "111111",
+        "011110"
+      ],
+      "child_grid": [
+        "000000",
+        "011110",
+        "111111",
+        "111111",
+        "111111",
+        "011110"
+      ],
+      "south": {
+        "sprite": "cherry_twiggy_table_south",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -11
+        ]
+      },
+      "east": {
+        "sprite": "cherry_twiggy_table_east",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          -3,
+          -12
+        ]
+      },
+      "west": {
+        "sprite": "cherry_twiggy_table_west",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          5,
+          -11
+        ]
+      },
+      "north": {
+        "sprite": "cherry_twiggy_table_north",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -2
+        ]
+      }
+    }
+  },
+  "cherry_twiggy_lamp_west": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "interaction_turn_on": {
+        "light": "small",
+        "light_offset": [
+          -10,
+          -18
+        ]
+      },
+      "south": {
+        "sprite": "cherry_twiggy_lamp_west",
+        "on_sprite": "cherry_twiggy_lamp_west_on",
+        "offset": [
+          8,
+          0
+        ]
+      }
+    }
+  },
+  "cherry_twiggy_lamp_east": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "interaction_turn_on": {
+        "light": "small",
+        "light_offset": [
+          10,
+          -18
+        ]
+      },
+      "south": {
+        "sprite": "cherry_twiggy_lamp_east",
+        "on_sprite": "cherry_twiggy_lamp_east_on",
+        "offset": [
+          8,
+          0
+        ]
+      }
+    }
+  },
+  "cherry_twiggy_macareme_v1": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        7
+      ],
+      "rule_grid": "W",
+      "south": {
+        "sprite": "cherry_twiggy_macareme_v1"
+      }
+    }
+  },
+  "cherry_twiggy_macareme_v2": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        7
+      ],
+      "rule_grid": "W",
+      "south": {
+        "sprite": "cherry_twiggy_macareme_v2"
+      }
+    }
+  },
+  "cherry_twiggy_macareme_v3": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        7
+      ],
+      "rule_grid": "W",
+      "south": {
+        "sprite": "cherry_twiggy_macareme_v3"
+      }
+    }
+  },
+  "oak_twiggy_bed": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "is_bed": true,
+      "size": [
+        8,
+        5
+      ],
+      "can_be_child": false,
+      "collision_grid": [
+        "11111111",
+        "11111111",
+        "00000000",
+        "11111111",
+        "11111111"
+      ],
+      "south": {
+        "sprite": "oak_twiggy_bed",
+        "offset": [
+          32,
+          7
+        ],
+        "top_sprite": "oak_twiggy_bed_top",
+        "top_sprite_depth_offset": 32
+      }
+    }
+  },
+  "oak_twiggy_couch": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        6,
+        2
+      ],
+      "child_grid": [
+        "011110",
+        "011110"
+      ],
+      "south": {
+        "sprite": "oak_twiggy_couch_south",
+        "child_grid_offset": [
+          0,
+          -8
+        ]
+      },
+      "north": {
+        "sprite": "oak_twiggy_couch_north",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -6
+        ],
+        "top_sprite": "oak_twiggy_couch_north_top",
+        "top_sprite_depth_offset": 10
+      },
+      "east": {
+        "sprite": "oak_twiggy_couch_east",
+        "child_grid_offset": [
+          1,
+          -3
+        ],
+        "top_sprite": "oak_twiggy_couch_east_top",
+        "top_sprite_depth_offset": 10
+      },
+      "west": {
+        "sprite": "oak_twiggy_couch_west",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -3
+        ],
+        "top_sprite": "oak_twiggy_couch_west_top",
+        "top_sprite_depth_offset": 10
+      }
+    }
+  },
+  "oak_twiggy_shelf": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        6,
+        2
+      ],
+      "child_grid": [
+        "111111",
+        "111111"
+      ],
+      "south": {
+        "sprite": "oak_twiggy_shelf_south",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -15
+        ],
+        "top_sprite": "oak_twiggy_shelf_south_top",
+        "top_sprite_depth_offset": 10
+      },
+      "east": {
+        "sprite": "oak_twiggy_shelf_east",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          -1,
+          -14
+        ],
+        "top_sprite": "oak_twiggy_shelf_east_top",
+        "top_sprite_depth_offset": 10
+      },
+      "west": {
+        "sprite": "oak_twiggy_shelf_west",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          -1,
+          -14
+        ],
+        "top_sprite": "oak_twiggy_shelf_west_top",
+        "top_sprite_depth_offset": 10
+      },
+      "north": {
+        "sprite": "oak_twiggy_shelf_north",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -15
+        ],
+        "top_sprite": "oak_twiggy_shelf_north_top",
+        "top_sprite_depth_offset": 10
+      }
+    }
+  },
+  "oak_twiggy_stool": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "child_grid": "2",
+      "south": {
+        "sprite": "oak_twiggy_stool_south",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -7
+        ]
+      },
+      "east": {
+        "sprite": "oak_twiggy_stool_east",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -7
+        ]
+      },
+      "west": {
+        "sprite": "oak_twiggy_stool_west",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      },
+      "north": {
+        "sprite": "oak_twiggy_stool_north",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      }
+    }
+  },
+  "oak_twiggy_table": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        6,
+        6
+      ],
+      "collision_grid": [
+        "011110",
+        "111111",
+        "111111",
+        "111111",
+        "111111",
+        "011110"
+      ],
+      "child_grid": [
+        "000000",
+        "011110",
+        "111111",
+        "111111",
+        "111111",
+        "011110"
+      ],
+      "south": {
+        "sprite": "oak_twiggy_table_south",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -11
+        ]
+      },
+      "east": {
+        "sprite": "oak_twiggy_table_east",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          -3,
+          -12
+        ]
+      },
+      "west": {
+        "sprite": "oak_twiggy_table_west",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          5,
+          -11
+        ]
+      },
+      "north": {
+        "sprite": "oak_twiggy_table_north",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -2
+        ]
+      }
+    }
+  },
+  "oak_twiggy_lamp_west": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "interaction_turn_on": {
+        "light": "small",
+        "light_offset": [
+          -10,
+          -18
+        ]
+      },
+      "south": {
+        "sprite": "oak_twiggy_lamp_west",
+        "on_sprite": "oak_twiggy_lamp_west_on",
+        "offset": [
+          8,
+          0
+        ]
+      }
+    }
+  },
+  "oak_twiggy_lamp_east": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "interaction_turn_on": {
+        "light": "small",
+        "light_offset": [
+          10,
+          -18
+        ]
+      },
+      "south": {
+        "sprite": "oak_twiggy_lamp_east",
+        "on_sprite": "oak_twiggy_lamp_east_on",
+        "offset": [
+          8,
+          0
+        ]
+      }
+    }
+  },
+  "oak_twiggy_macareme_v1": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        7
+      ],
+      "rule_grid": "W",
+      "south": {
+        "sprite": "oak_twiggy_macareme_v1"
+      }
+    }
+  },
+  "oak_twiggy_macareme_v2": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        7
+      ],
+      "rule_grid": "W",
+      "south": {
+        "sprite": "oak_twiggy_macareme_v2"
+      }
+    }
+  },
+  "oak_twiggy_macareme_v3": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        7
+      ],
+      "rule_grid": "W",
+      "south": {
+        "sprite": "oak_twiggy_macareme_v3"
+      }
+    }
+  },
+  "walnut_twiggy_bed": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "is_bed": true,
+      "size": [
+        8,
+        5
+      ],
+      "can_be_child": false,
+      "collision_grid": [
+        "11111111",
+        "11111111",
+        "00000000",
+        "11111111",
+        "11111111"
+      ],
+      "south": {
+        "sprite": "walnut_twiggy_bed",
+        "offset": [
+          32,
+          7
+        ],
+        "top_sprite": "walnut_twiggy_bed_top",
+        "top_sprite_depth_offset": 32
+      }
+    }
+  },
+  "walnut_twiggy_couch": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        6,
+        2
+      ],
+      "child_grid": [
+        "011110",
+        "011110"
+      ],
+      "south": {
+        "sprite": "walnut_twiggy_couch_south",
+        "child_grid_offset": [
+          0,
+          -8
+        ]
+      },
+      "north": {
+        "sprite": "walnut_twiggy_couch_north",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -8
+        ],
+        "top_sprite": "walnut_twiggy_couch_north_top",
+        "top_sprite_depth_offset": 10
+      },
+      "east": {
+        "sprite": "walnut_twiggy_couch_east",
+        "child_grid_offset": [
+          1,
+          -3
+        ],
+        "top_sprite": "walnut_twiggy_couch_east_top",
+        "top_sprite_depth_offset": 10
+      },
+      "west": {
+        "sprite": "walnut_twiggy_couch_west",
+        "offset": [
+          24,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -3
+        ],
+        "top_sprite": "walnut_twiggy_couch_west_top",
+        "top_sprite_depth_offset": 10
+      }
+    }
+  },
+  "walnut_twiggy_shelf": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        6,
+        2
+      ],
+      "child_grid": [
+        "111111",
+        "111111"
+      ],
+      "south": {
+        "sprite": "walnut_twiggy_shelf_south",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -15
+        ],
+        "top_sprite": "walnut_twiggy_shelf_south_top",
+        "top_sprite_depth_offset": 10
+      },
+      "east": {
+        "sprite": "walnut_twiggy_shelf_east",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          -1,
+          -14
+        ],
+        "top_sprite": "walnut_twiggy_shelf_east_top",
+        "top_sprite_depth_offset": 10
+      },
+      "west": {
+        "sprite": "walnut_twiggy_shelf_west",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          -1,
+          -14
+        ],
+        "top_sprite": "walnut_twiggy_shelf_west_top",
+        "top_sprite_depth_offset": 10
+      },
+      "north": {
+        "sprite": "walnut_twiggy_shelf_north",
+        "offset": [
+          16,
+          0
+        ],
+        "child_grid_offset": [
+          0,
+          -15
+        ],
+        "top_sprite": "walnut_twiggy_shelf_north_top",
+        "top_sprite_depth_offset": 10
+      }
+    }
+  },
+  "walnut_twiggy_stool": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "child_grid": "2",
+      "south": {
+        "sprite": "walnut_twiggy_stool_south",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -7
+        ]
+      },
+      "east": {
+        "sprite": "walnut_twiggy_stool_east",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -7
+        ]
+      },
+      "west": {
+        "sprite": "walnut_twiggy_stool_west",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      },
+      "north": {
+        "sprite": "walnut_twiggy_stool_north",
+        "offset": [
+          8,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -12
+        ]
+      }
+    }
+  },
+  "walnut_twiggy_table": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        6,
+        6
+      ],
+      "collision_grid": [
+        "011110",
+        "111111",
+        "111111",
+        "111111",
+        "111111",
+        "011110"
+      ],
+      "child_grid": [
+        "000000",
+        "011110",
+        "111111",
+        "111111",
+        "111111",
+        "011110"
+      ],
+      "south": {
+        "sprite": "walnut_twiggy_table_south",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -11
+        ]
+      },
+      "east": {
+        "sprite": "walnut_twiggy_table_east",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          -3,
+          -12
+        ]
+      },
+      "west": {
+        "sprite": "walnut_twiggy_table_west",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          5,
+          -11
+        ]
+      },
+      "north": {
+        "sprite": "walnut_twiggy_table_north",
+        "offset": [
+          24,
+          8
+        ],
+        "child_grid_offset": [
+          0,
+          -2
+        ]
+      }
+    }
+  },
+  "walnut_twiggy_lamp_west": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "interaction_turn_on": {
+        "light": "small",
+        "light_offset": [
+          -10,
+          -18
+        ]
+      },
+      "south": {
+        "sprite": "walnut_twiggy_lamp_west",
+        "on_sprite": "walnut_twiggy_lamp_west_on",
+        "offset": [
+          8,
+          0
+        ]
+      }
+    }
+  },
+  "walnut_twiggy_lamp_east": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "interaction_turn_on": {
+        "light": "small",
+        "light_offset": [
+          10,
+          -18
+        ]
+      },
+      "south": {
+        "sprite": "walnut_twiggy_lamp_east",
+        "on_sprite": "walnut_twiggy_lamp_east_on",
+        "offset": [
+          8,
+          0
+        ]
+      }
+    }
+  },
+  "walnut_twiggy_macareme_v1": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        7
+      ],
+      "rule_grid": "W",
+      "south": {
+        "sprite": "walnut_twiggy_macareme_v1"
+      }
+    }
+  },
+  "walnut_twiggy_macareme_v2": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        7
+      ],
+      "rule_grid": "W",
+      "south": {
+        "sprite": "walnut_twiggy_macareme_v2"
+      }
+    }
+  },
+  "walnut_twiggy_macareme_v3": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        4,
+        7
+      ],
+      "rule_grid": "W",
+      "south": {
+        "sprite": "walnut_twiggy_macareme_v3"
+      }
+    }
+  },
+  "twiggy_rug": {
+    "category": "furniture",
+    "overwrites_other_mod": true,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "collision_grid": "0",
+      "depth_to_floor": true,
+      "rug": true,
+      "south": {
+        "sprite": "twiggy_rug_south",
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "east": {
+        "sprite": "twiggy_rug_east",
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "west": {
+        "sprite": "twiggy_rug_west",
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "north": {
+        "sprite": "twiggy_rug_north",
+        "offset": [
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "twiggy_rug_lace": {
+    "category": "furniture",
+    "overwrites_other_mod": true,
+    "data": {
+      "size": [
+        2,
+        2
+      ],
+      "collision_grid": "0",
+      "depth_to_floor": true,
+      "rug": true,
+      "south": {
+        "sprite": "twiggy_rug_lace_south",
+        "offset": [
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

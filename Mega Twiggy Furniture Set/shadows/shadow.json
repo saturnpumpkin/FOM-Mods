@@ -1,0 +1,386 @@
+{
+  "ash_twiggy_stool_south_shadow": {
+    "regular_sprite_name": "ash_twiggy_stool_south",
+    "sprite": "images/ash/alledged_stool/shadow.png"
+  },
+  "ash_twiggy_stool_west_shadow": {
+    "regular_sprite_name": "ash_twiggy_stool_west",
+    "sprite": "images/ash/alledged_stool/shadow.png"
+  },
+  "ash_twiggy_stool_east_shadow": {
+    "regular_sprite_name": "ash_twiggy_stool_east",
+    "sprite": "images/ash/alledged_stool/shadow.png"
+  },
+  "ash_twiggy_stool_north_shadow": {
+    "regular_sprite_name": "ash_twiggy_stool_north",
+    "sprite": "images/ash/alledged_stool/shadow.png"
+  },
+  "ash_twiggy_shelf_south_shadow": {
+    "regular_sprite_name": "ash_twiggy_shelf_south",
+    "sprite": "images/ash/shelf/shadow.png"
+  },
+  "ash_twiggy_shelf_west_shadow": {
+    "regular_sprite_name": "ash_twiggy_shelf_west",
+    "sprite": "images/ash/shelf/shadow.png"
+  },
+  "ash_twiggy_shelf_east_shadow": {
+    "regular_sprite_name": "ash_twiggy_shelf_east",
+    "sprite": "images/ash/shelf/shadow.png"
+  },
+  "ash_twiggy_shelf_north_shadow": {
+    "regular_sprite_name": "ash_twiggy_shelf_north",
+    "sprite": "images/ash/shelf/shadow.png"
+  },
+  "ash_twiggy_table_south_shadow": {
+    "regular_sprite_name": "ash_twiggy_table_south",
+    "sprite": "images/ash/table/shadow.png"
+  },
+  "ash_twiggy_table_west_shadow": {
+    "regular_sprite_name": "ash_twiggy_table_west",
+    "sprite": "images/ash/table/shadow.png"
+  },
+  "ash_twiggy_table_east_shadow": {
+    "regular_sprite_name": "ash_twiggy_table_east",
+    "sprite": "images/ash/table/shadow.png"
+  },
+  "ash_twiggy_table_north_shadow": {
+    "regular_sprite_name": "ash_twiggy_table_north",
+    "sprite": "images/ash/table/shadow.png"
+  },
+  "ash_twiggy_bed_shadow": {
+    "regular_sprite_name": "ash_twiggy_bed",
+    "sprite": "images/ash/bed/shadow.png"
+  },
+  "ash_twiggy_couch_south_shadow": {
+    "regular_sprite_name": "ash_twiggy_couch_south",
+    "sprite": "images/ash/couch/shadow.png"
+  },
+  "ash_twiggy_couch_west_shadow": {
+    "regular_sprite_name": "ash_twiggy_couch_west",
+    "sprite": "images/ash/couch/shadow2.png"
+  },
+  "ash_twiggy_couch_east_shadow": {
+    "regular_sprite_name": "ash_twiggy_couch_east",
+    "sprite": "images/ash/couch/shadow2.png"
+  },
+  "ash_twiggy_couch_north_shadow": {
+    "regular_sprite_name": "ash_twiggy_couch_north",
+    "sprite": "images/ash/couch/shadow.png"
+  },
+  "ash_twiggy_lamp_east_shadow": {
+    "regular_sprite_name": "ash_twiggy_lamp_east",
+    "sprite": "images/ash/lamp/east/shadow.png"
+  },
+  "ash_twiggy_lamp_east_on_shadow": {
+    "regular_sprite_name": "ash_twiggy_lamp_east_on",
+    "sprite": "images/ash/lamp/east/shadow.png"
+  },
+  "ash_twiggy_lamp_west_shadow": {
+    "regular_sprite_name": "ash_twiggy_lamp_west",
+    "sprite": "images/ash/lamp/west/shadow.png"
+  },
+  "ash_twiggy_lamp_west_on_shadow": {
+    "regular_sprite_name": "ash_twiggy_lamp_west_on",
+    "sprite": "images/ash/lamp/west/shadow.png"
+  },
+  "ash_twiggy_macareme_v1_shadow": {
+    "regular_sprite_name": "ash_twiggy_macareme_v1",
+    "sprite": "images/ash/wall_macareme/1/shadow.png"
+  },
+  "ash_twiggy_macareme_v2_shadow": {
+    "regular_sprite_name": "ash_twiggy_macareme_v2",
+    "sprite": "images/ash/wall_macareme/2/shadow.png"
+  },
+  "ash_twiggy_macareme_v3_shadow": {
+    "regular_sprite_name": "ash_twiggy_macareme_v3",
+    "sprite": "images/ash/wall_macareme/3/shadow.png"
+  },
+  "cherry_twiggy_stool_south_shadow": {
+    "regular_sprite_name": "cherry_twiggy_stool_south",
+    "sprite": "images/cherry/alledged_stool/shadow.png"
+  },
+  "cherry_twiggy_stool_west_shadow": {
+    "regular_sprite_name": "cherry_twiggy_stool_west",
+    "sprite": "images/cherry/alledged_stool/shadow.png"
+  },
+  "cherry_twiggy_stool_east_shadow": {
+    "regular_sprite_name": "cherry_twiggy_stool_east",
+    "sprite": "images/cherry/alledged_stool/shadow.png"
+  },
+  "cherry_twiggy_stool_north_shadow": {
+    "regular_sprite_name": "cherry_twiggy_stool_north",
+    "sprite": "images/cherry/alledged_stool/shadow.png"
+  },
+  "cherry_twiggy_shelf_south_shadow": {
+    "regular_sprite_name": "cherry_twiggy_shelf_south",
+    "sprite": "images/cherry/shelf/shadow.png"
+  },
+  "cherry_twiggy_shelf_west_shadow": {
+    "regular_sprite_name": "cherry_twiggy_shelf_west",
+    "sprite": "images/cherry/shelf/shadow.png"
+  },
+  "cherry_twiggy_shelf_east_shadow": {
+    "regular_sprite_name": "cherry_twiggy_shelf_east",
+    "sprite": "images/cherry/shelf/shadow.png"
+  },
+  "cherry_twiggy_shelf_north_shadow": {
+    "regular_sprite_name": "cherry_twiggy_shelf_north",
+    "sprite": "images/cherry/shelf/shadow.png"
+  },
+  "cherry_twiggy_table_south_shadow": {
+    "regular_sprite_name": "cherry_twiggy_table_south",
+    "sprite": "images/cherry/table/shadow.png"
+  },
+  "cherry_twiggy_table_west_shadow": {
+    "regular_sprite_name": "cherry_twiggy_table_west",
+    "sprite": "images/cherry/table/shadow.png"
+  },
+  "cherry_twiggy_table_east_shadow": {
+    "regular_sprite_name": "cherry_twiggy_table_east",
+    "sprite": "images/cherry/table/shadow.png"
+  },
+  "cherry_twiggy_table_north_shadow": {
+    "regular_sprite_name": "cherry_twiggy_table_north",
+    "sprite": "images/cherry/table/shadow.png"
+  },
+  "cherry_twiggy_bed_shadow": {
+    "regular_sprite_name": "cherry_twiggy_bed",
+    "sprite": "images/cherry/bed/shadow.png"
+  },
+  "cherry_twiggy_couch_south_shadow": {
+    "regular_sprite_name": "cherry_twiggy_couch_south",
+    "sprite": "images/cherry/couch/shadow.png"
+  },
+  "cherry_twiggy_couch_west_shadow": {
+    "regular_sprite_name": "cherry_twiggy_couch_west",
+    "sprite": "images/cherry/couch/shadow2.png"
+  },
+  "cherry_twiggy_couch_east_shadow": {
+    "regular_sprite_name": "cherry_twiggy_couch_east",
+    "sprite": "images/cherry/couch/shadow2.png"
+  },
+  "cherry_twiggy_couch_north_shadow": {
+    "regular_sprite_name": "cherry_twiggy_couch_north",
+    "sprite": "images/cherry/couch/shadow.png"
+  },
+  "cherry_twiggy_lamp_east_shadow": {
+    "regular_sprite_name": "cherry_twiggy_lamp_east",
+    "sprite": "images/cherry/lamp/east/shadow.png"
+  },
+  "cherry_twiggy_lamp_east_on_shadow": {
+    "regular_sprite_name": "cherry_twiggy_lamp_east_on",
+    "sprite": "images/cherry/lamp/east/shadow.png"
+  },
+  "cherry_twiggy_lamp_west_shadow": {
+    "regular_sprite_name": "cherry_twiggy_lamp_west",
+    "sprite": "images/cherry/lamp/west/shadow.png"
+  },
+  "cherry_twiggy_lamp_west_on_shadow": {
+    "regular_sprite_name": "cherry_twiggy_lamp_west_on",
+    "sprite": "images/cherry/lamp/west/shadow.png"
+  },
+  "cherry_twiggy_macareme_v1_shadow": {
+    "regular_sprite_name": "cherry_twiggy_macareme_v1",
+    "sprite": "images/cherry/wall_macareme/1/shadow.png"
+  },
+  "cherry_twiggy_macareme_v2_shadow": {
+    "regular_sprite_name": "cherry_twiggy_macareme_v2",
+    "sprite": "images/cherry/wall_macareme/2/shadow.png"
+  },
+  "cherry_twiggy_macareme_v3_shadow": {
+    "regular_sprite_name": "cherry_twiggy_macareme_v3",
+    "sprite": "images/cherry/wall_macareme/3/shadow.png"
+  },
+  "oak_twiggy_stool_south_shadow": {
+    "regular_sprite_name": "oak_twiggy_stool_south",
+    "sprite": "images/oak/alledged_stool/shadow.png"
+  },
+  "oak_twiggy_stool_west_shadow": {
+    "regular_sprite_name": "oak_twiggy_stool_west",
+    "sprite": "images/oak/alledged_stool/shadow.png"
+  },
+  "oak_twiggy_stool_east_shadow": {
+    "regular_sprite_name": "oak_twiggy_stool_east",
+    "sprite": "images/oak/alledged_stool/shadow.png"
+  },
+  "oak_twiggy_stool_north_shadow": {
+    "regular_sprite_name": "oak_twiggy_stool_north",
+    "sprite": "images/oak/alledged_stool/shadow.png"
+  },
+  "oak_twiggy_shelf_south_shadow": {
+    "regular_sprite_name": "oak_twiggy_shelf_south",
+    "sprite": "images/oak/shelf/shadow.png"
+  },
+  "oak_twiggy_shelf_west_shadow": {
+    "regular_sprite_name": "oak_twiggy_shelf_west",
+    "sprite": "images/oak/shelf/shadow.png"
+  },
+  "oak_twiggy_shelf_east_shadow": {
+    "regular_sprite_name": "oak_twiggy_shelf_east",
+    "sprite": "images/oak/shelf/shadow.png"
+  },
+  "oak_twiggy_shelf_north_shadow": {
+    "regular_sprite_name": "oak_twiggy_shelf_north",
+    "sprite": "images/oak/shelf/shadow.png"
+  },
+  "oak_twiggy_table_south_shadow": {
+    "regular_sprite_name": "oak_twiggy_table_south",
+    "sprite": "images/oak/table/shadow.png"
+  },
+  "oak_twiggy_table_west_shadow": {
+    "regular_sprite_name": "oak_twiggy_table_west",
+    "sprite": "images/oak/table/shadow.png"
+  },
+  "oak_twiggy_table_east_shadow": {
+    "regular_sprite_name": "oak_twiggy_table_east",
+    "sprite": "images/oak/table/shadow.png"
+  },
+  "oak_twiggy_table_north_shadow": {
+    "regular_sprite_name": "oak_twiggy_table_north",
+    "sprite": "images/oak/table/shadow.png"
+  },
+  "oak_twiggy_bed_shadow": {
+    "regular_sprite_name": "oak_twiggy_bed",
+    "sprite": "images/oak/bed/shadow.png"
+  },
+  "oak_twiggy_couch_south_shadow": {
+    "regular_sprite_name": "oak_twiggy_couch_south",
+    "sprite": "images/oak/couch/shadow.png"
+  },
+  "oak_twiggy_couch_west_shadow": {
+    "regular_sprite_name": "oak_twiggy_couch_west",
+    "sprite": "images/oak/couch/shadow2.png"
+  },
+  "oak_twiggy_couch_east_shadow": {
+    "regular_sprite_name": "oak_twiggy_couch_east",
+    "sprite": "images/oak/couch/shadow2.png"
+  },
+  "oak_twiggy_couch_north_shadow": {
+    "regular_sprite_name": "oak_twiggy_couch_north",
+    "sprite": "images/oak/couch/shadow.png"
+  },
+  "oak_twiggy_lamp_east_shadow": {
+    "regular_sprite_name": "oak_twiggy_lamp_east",
+    "sprite": "images/oak/lamp/east/shadow.png"
+  },
+  "oak_twiggy_lamp_east_on_shadow": {
+    "regular_sprite_name": "oak_twiggy_lamp_east_on",
+    "sprite": "images/oak/lamp/east/shadow.png"
+  },
+  "oak_twiggy_lamp_west_shadow": {
+    "regular_sprite_name": "oak_twiggy_lamp_west",
+    "sprite": "images/oak/lamp/west/shadow.png"
+  },
+  "oak_twiggy_lamp_west_on_shadow": {
+    "regular_sprite_name": "oak_twiggy_lamp_west_on",
+    "sprite": "images/oak/lamp/west/shadow.png"
+  },
+  "oak_twiggy_macareme_v1_shadow": {
+    "regular_sprite_name": "oak_twiggy_macareme_v1",
+    "sprite": "images/oak/wall_macareme/1/shadow.png"
+  },
+  "oak_twiggy_macareme_v2_shadow": {
+    "regular_sprite_name": "oak_twiggy_macareme_v2",
+    "sprite": "images/oak/wall_macareme/2/shadow.png"
+  },
+  "oak_twiggy_macareme_v3_shadow": {
+    "regular_sprite_name": "oak_twiggy_macareme_v3",
+    "sprite": "images/oak/wall_macareme/3/shadow.png"
+  },
+  "walnut_twiggy_stool_south_shadow": {
+    "regular_sprite_name": "walnut_twiggy_stool_south",
+    "sprite": "images/walnut/alledged_stool/shadow.png"
+  },
+  "walnut_twiggy_stool_west_shadow": {
+    "regular_sprite_name": "walnut_twiggy_stool_west",
+    "sprite": "images/walnut/alledged_stool/shadow.png"
+  },
+  "walnut_twiggy_stool_east_shadow": {
+    "regular_sprite_name": "walnut_twiggy_stool_east",
+    "sprite": "images/walnut/alledged_stool/shadow.png"
+  },
+  "walnut_twiggy_stool_north_shadow": {
+    "regular_sprite_name": "walnut_twiggy_stool_north",
+    "sprite": "images/walnut/alledged_stool/shadow.png"
+  },
+  "walnut_twiggy_shelf_south_shadow": {
+    "regular_sprite_name": "walnut_twiggy_shelf_south",
+    "sprite": "images/walnut/shelf/shadow.png"
+  },
+  "walnut_twiggy_shelf_west_shadow": {
+    "regular_sprite_name": "walnut_twiggy_shelf_west",
+    "sprite": "images/walnut/shelf/shadow.png"
+  },
+  "walnut_twiggy_shelf_east_shadow": {
+    "regular_sprite_name": "walnut_twiggy_shelf_east",
+    "sprite": "images/walnut/shelf/shadow.png"
+  },
+  "walnut_twiggy_shelf_north_shadow": {
+    "regular_sprite_name": "walnut_twiggy_shelf_north",
+    "sprite": "images/walnut/shelf/shadow.png"
+  },
+  "walnut_twiggy_table_south_shadow": {
+    "regular_sprite_name": "walnut_twiggy_table_south",
+    "sprite": "images/walnut/table/shadow.png"
+  },
+  "walnut_twiggy_table_west_shadow": {
+    "regular_sprite_name": "walnut_twiggy_table_west",
+    "sprite": "images/walnut/table/shadow.png"
+  },
+  "walnut_twiggy_table_east_shadow": {
+    "regular_sprite_name": "walnut_twiggy_table_east",
+    "sprite": "images/walnut/table/shadow.png"
+  },
+  "walnut_twiggy_table_north_shadow": {
+    "regular_sprite_name": "walnut_twiggy_table_north",
+    "sprite": "images/walnut/table/shadow.png"
+  },
+  "walnut_twiggy_bed_shadow": {
+    "regular_sprite_name": "walnut_twiggy_bed",
+    "sprite": "images/walnut/bed/shadow.png"
+  },
+  "walnut_twiggy_couch_south_shadow": {
+    "regular_sprite_name": "walnut_twiggy_couch_south",
+    "sprite": "images/walnut/couch/shadow.png"
+  },
+  "walnut_twiggy_couch_west_shadow": {
+    "regular_sprite_name": "walnut_twiggy_couch_west",
+    "sprite": "images/walnut/couch/shadow2.png"
+  },
+  "walnut_twiggy_couch_east_shadow": {
+    "regular_sprite_name": "walnut_twiggy_couch_east",
+    "sprite": "images/walnut/couch/shadow2.png"
+  },
+  "walnut_twiggy_couch_north_shadow": {
+    "regular_sprite_name": "walnut_twiggy_couch_north",
+    "sprite": "images/walnut/couch/shadow.png"
+  },
+  "walnut_twiggy_lamp_east_shadow": {
+    "regular_sprite_name": "walnut_twiggy_lamp_east",
+    "sprite": "images/walnut/lamp/east/shadow.png"
+  },
+  "walnut_twiggy_lamp_east_on_shadow": {
+    "regular_sprite_name": "walnut_twiggy_lamp_east_on",
+    "sprite": "images/walnut/lamp/east/shadow.png"
+  },
+  "walnut_twiggy_lamp_west_shadow": {
+    "regular_sprite_name": "walnut_twiggy_lamp_west",
+    "sprite": "images/walnut/lamp/west/shadow.png"
+  },
+  "walnut_twiggy_lamp_west_on_shadow": {
+    "regular_sprite_name": "walnut_twiggy_lamp_west_on",
+    "sprite": "images/walnut/lamp/west/shadow.png"
+  },
+  "walnut_twiggy_macareme_v1_shadow": {
+    "regular_sprite_name": "walnut_twiggy_macareme_v1",
+    "sprite": "images/walnut/wall_macareme/1/shadow.png"
+  },
+  "walnut_twiggy_macareme_v2_shadow": {
+    "regular_sprite_name": "walnut_twiggy_macareme_v2",
+    "sprite": "images/walnut/wall_macareme/2/shadow.png"
+  },
+  "walnut_twiggy_macareme_v3_shadow": {
+    "regular_sprite_name": "walnut_twiggy_macareme_v3",
+    "sprite": "images/walnut/wall_macareme/3/shadow.png"
+  }
+}

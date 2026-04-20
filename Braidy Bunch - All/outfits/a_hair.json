@@ -1,0 +1,170 @@
+{
+  "l_bun_bangs": {
+    "name": "Braided Bun Roll Hair w/ Bangs",
+    "description": "Hair Buns braided like a cinnamon roll",
+    "ui_slot": "hair",
+    "default_unlocked": true,
+    "ui_sub_category": "long_hair",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/l_bun_bangs_ui.png",
+    "outlineFile": "images/l_bun_bangs_outline.png",
+    "animationFiles": {
+      "hair_mid": "images/l_bun_bangs",
+      "hair_back": "images/l_buns_back"
+    }
+  },
+  "l_bun_forehead": {
+    "name": "Braided Bun Roll Hair",
+    "description": "Hair Buns braided like a cinnamon roll",
+    "ui_slot": "hair",
+    "default_unlocked": true,
+    "ui_sub_category": "long_hair",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/l_bun_forehead_ui.png",
+    "outlineFile": "images/l_bun_forehead_outline.png",
+    "animationFiles": {
+      "hair_mid": "images/l_bun_forehead",
+      "hair_back": "images/l_buns_back"
+    }
+  },
+  "l_top_bangs": {
+    "name": "Top Braid Hair w/ Bangs",
+    "description": "Hair Buns braided like a cinnamon roll",
+    "ui_slot": "hair",
+    "default_unlocked": true,
+    "ui_sub_category": "long_hair",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/l_top_bangs_ui.png",
+    "outlineFile": "images/l_top_bangs_outline.png",
+    "animationFiles": {
+      "hair_mid": "images/l_top_bangs",
+      "hair_back": "images/l_top_back"
+    }
+  },
+  "l_top_forehead": {
+    "name": "Top Braid Hair w/ Bangs",
+    "description": "Hair Buns braided like a cinnamon roll",
+    "ui_slot": "hair",
+    "default_unlocked": true,
+    "ui_sub_category": "long_hair",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/l_top_forehead_ui.png",
+    "outlineFile": "images/l_top_forehead_outline.png",
+    "animationFiles": {
+      "hair_mid": "images/l_top_forehead",
+      "hair_back": "images/l_top_back"
+    }
+  },
+  "m_bun_bangs": {
+    "name": "Medium Braided Bun Roll Hair w/ Bangs",
+    "description": "Hair Buns braided like a cinnamon roll",
+    "ui_slot": "hair",
+    "default_unlocked": true,
+    "ui_sub_category": "medium_hair",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/m_bun_bangs_ui.png",
+    "outlineFile": "images/m_bun_bangs_outline.png",
+    "animationFiles": {
+      "hair_mid": "images/m_bun_bangs",
+      "hair_back": "images/m_buns_back"
+    }
+  },
+  "m_bun_forehead": {
+    "name": "Medium Braided Bun Roll Hair",
+    "description": "Hair Buns braided like a cinnamon roll",
+    "ui_slot": "hair",
+    "default_unlocked": true,
+    "ui_sub_category": "medium_hair",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/m_bun_forehead_ui.png",
+    "outlineFile": "images/m_bun_forehead_outline.png",
+    "animationFiles": {
+      "hair_mid": "images/m_bun_forehead",
+      "hair_back": "images/m_buns_back"
+    }
+  },
+  "m_top_bangs": {
+    "name": "Medium Top Braid Hair w/ Bangs",
+    "description": "Hair Buns braided like a cinnamon roll",
+    "ui_slot": "hair",
+    "default_unlocked": true,
+    "ui_sub_category": "medium_hair",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/m_top_bangs_ui.png",
+    "outlineFile": "images/m_top_bangs_outline.png",
+    "animationFiles": {
+      "hair_mid": "images/m_top_bangs",
+      "hair_back": "images/m_top_back"
+    }
+  },
+  "m_top_forehead": {
+    "name": "Medium Top Braid Hair w/ Bangs",
+    "description": "Hair Buns braided like a cinnamon roll",
+    "ui_slot": "hair",
+    "default_unlocked": true,
+    "ui_sub_category": "medium_hair",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/m_top_forehead_ui.png",
+    "outlineFile": "images/m_top_forehead_outline.png",
+    "animationFiles": {
+      "hair_mid": "images/m_top_forehead",
+      "hair_back": "images/m_top_back"
+    }
+  },
+  "s_bun_bangs": {
+    "name": "Braided Bun Roll Hair w/ Bangs",
+    "description": "Hair Buns braided like a cinnamon roll",
+    "ui_slot": "hair",
+    "default_unlocked": true,
+    "ui_sub_category": "short_hair",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/s_bun_bangs_ui.png",
+    "outlineFile": "images/s_bun_bangs_outline.png",
+    "animationFiles": {
+      "hair_mid": "images/s_bun_bangs",
+      "hair_back": "images/s_bun_back"
+    }
+  },
+  "s_bun_forehead": {
+    "name": "Braided Bun Roll Hair",
+    "description": "Hair Buns braided like a cinnamon roll",
+    "ui_slot": "hair",
+    "default_unlocked": true,
+    "ui_sub_category": "short_hair",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/s_bun_forehead_ui.png",
+    "outlineFile": "images/s_bun_forehead_outline.png",
+    "animationFiles": {
+      "hair_mid": "images/s_bun_forehead",
+      "hair_back": "images/s_bun_back"
+    }
+  },
+  "s_top_bangs": {
+    "name": "Top Braid Hair w/ Bangs",
+    "description": "Hair Buns braided like a cinnamon roll",
+    "ui_slot": "hair",
+    "default_unlocked": true,
+    "ui_sub_category": "short_hair",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/s_top_bangs_ui.png",
+    "outlineFile": "images/s_top_bangs_outline.png",
+    "animationFiles": {
+      "hair_mid": "images/s_top_bangs",
+      "hair_back": "images/s_top_back"
+    }
+  },
+  "s_top_forehead": {
+    "name": "Top Braid Hair w/ Bangs",
+    "description": "Hair Buns braided like a cinnamon roll",
+    "ui_slot": "hair",
+    "default_unlocked": true,
+    "ui_sub_category": "short_hair",
+    "lutFile": "images/lut.png",
+    "uiItem": "images/s_top_forehead_ui.png",
+    "outlineFile": "images/s_top_forehead_outline.png",
+    "animationFiles": {
+      "hair_mid": "images/s_top_forehead",
+      "hair_back": "images/s_top_back"
+    }
+  }
+}

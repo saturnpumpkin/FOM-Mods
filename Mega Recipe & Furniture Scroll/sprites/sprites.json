@@ -1,0 +1,12 @@
+﻿{
+  "furniture_bundle_ui": {
+    "Location": "images/scroll_ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/scroll_outline.png"
+  },
+  "recipe_bundle_ui": {
+    "Location": "images/recipe_ui.png",
+    "IsUiSprite": true,
+    "OutlineLocation": "images/recipe_outline.png"
+  }
+}

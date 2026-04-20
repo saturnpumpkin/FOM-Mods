@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "item": "twiggy_furniture_bundle",
+      "store": "balor",
+      "category": "store_icon"
+    }
+  ],
+  "categories": [
+    {
+      "store": "balor",
+      "icon_name": "store_icon",
+      "sprite": "images/icon_modded.png"
+    }
+  ]
+}

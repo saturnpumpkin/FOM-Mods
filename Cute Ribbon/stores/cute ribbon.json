@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "item": { 
+        "cosmetic":  "cute_ribbon" 
+      },
+      "store": "general",
+      "category": "modded_icon"
+    }
+  ],
+  "categories": [
+    {
+      "store": "general",
+      "icon_name": "modded_icon",
+      "sprite": "images/icon_modded.png"
+    }
+  ]
+}

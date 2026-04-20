@@ -1,0 +1,47 @@
+{
+  "sf_crafting_stump_scroll": {
+    "overwrites_other_mod": false,
+    "name": "Crafting Stump",
+    "description": "A scroll with some tips and tricks on how to use a stump to craft things",
+    "icon_sprite": "crafting_stump_scroll",
+    "soulbound": true,
+    "set_unlock": "crafting_stump",
+    "tags": [
+      "scroll",
+      "stampingfeet"
+    ],
+    "value": {
+      "store": 1000
+    }
+  },
+  "sf_crafting_stump": {
+    "overwrites_other_mod": false,
+    "name": "Crafting Stump",
+    "description": "A creative stump to create all the things you love!",
+    "icon_sprite": "sf_crafting_stump_ui",
+    "crafting_preview_sprite": "sf_crafting_stump_preview",
+    "object": "sf_crafting_stump",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "misc_functional",
+      "crafting_stump",
+      "stampingfeet"
+    ],
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+          "count": 1,
+          "item": "basic_wood"
+      },
+      {
+          "hours": 0,
+          "minutes": 10
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 1
+    }
+  }
+}

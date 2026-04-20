@@ -1,0 +1,276 @@
+﻿{
+  "sf_farm_decor_clovers": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "depth_to_floor": true,
+      "collision_grid": "0",
+      "rug": true,
+      "footstep": "grass",
+      "south": {
+        "sprite": "farm_decor_clovers_spring_south",
+        "winter_sprite": "farm_decor_clovers_winter_south"
+      },
+      "east": {
+        "sprite": "farm_decor_clovers_spring_east",
+        "winter_sprite": "farm_decor_clovers_winter_east"
+      },
+      "west": {
+        "sprite": "farm_decor_clovers_spring_west",
+        "winter_sprite": "farm_decor_clovers_winter_west"
+      },
+      "north": {
+        "sprite": "farm_decor_clovers_spring_north",
+        "winter_sprite": "farm_decor_clovers_winter_north"
+      }
+    }
+  },
+  "sf_farm_decor_flower": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "depth_to_floor": true,
+      "collision_grid": "0",
+      "rug": true,
+      "footstep": "grass",
+      "south": {
+        "sprite": "farm_decor_flower_spring_south",
+        "winter_sprite": "farm_decor_flower_winter_south"
+      },
+      "east": {
+        "sprite": "farm_decor_flower_spring_east",
+        "winter_sprite": "farm_decor_flower_winter_east"
+      },
+      "west": {
+        "sprite": "farm_decor_flower_spring_west",
+        "winter_sprite": "farm_decor_flower_winter_west"
+      },
+      "north": {
+        "sprite": "farm_decor_flower_spring_north",
+        "winter_sprite": "farm_decor_flower_winter_north"
+      }
+    }
+  },
+  "sf_farm_decor_leafy": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "depth_to_floor": true,
+      "collision_grid": "0",
+      "rug": true,
+      "footstep": "grass",
+      "south": {
+        "sprite": "farm_decor_leafy_spring_south",
+        "winter_sprite": "farm_decor_leafy_winter_south"
+      },
+      "east": {
+        "sprite": "farm_decor_leafy_spring_east",
+        "winter_sprite": "farm_decor_leafy_winter_east"
+      },
+      "west": {
+        "sprite": "farm_decor_leafy_spring_west",
+        "winter_sprite": "farm_decor_leafy_winter_west"
+      },
+      "north": {
+        "sprite": "farm_decor_leafy_spring_north",
+        "winter_sprite": "farm_decor_leafy_winter_north"
+      }
+    }
+  },
+  "sf_farm_decor_log_ash": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "depth_to_floor": true,
+      "collision_grid": "0",
+      "rug": true,
+      "south": {
+        "sprite": "farm_decor_log_ash_south"
+      },
+      "east": {
+        "sprite": "farm_decor_log_ash_east"
+      },
+      "west": {
+        "sprite": "farm_decor_log_ash_west"
+      },
+      "north": {
+        "sprite": "farm_decor_log_ash_north"
+      }
+    }
+  },
+  "sf_farm_decor_log_cherry": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "depth_to_floor": true,
+      "collision_grid": "0",
+      "rug": true,
+      "south": {
+        "sprite": "farm_decor_log_cherry_south"
+      },
+      "east": {
+        "sprite": "farm_decor_log_cherry_east"
+      },
+      "west": {
+        "sprite": "farm_decor_log_cherry_west"
+      },
+      "north": {
+        "sprite": "farm_decor_log_cherry_north"
+      }
+    }
+  },
+  "sf_farm_decor_log_oak": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "depth_to_floor": true,
+      "collision_grid": "0",
+      "rug": true,
+      "south": {
+        "sprite": "farm_decor_log_oak_south"
+      },
+      "east": {
+        "sprite": "farm_decor_log_oak_east"
+      },
+      "west": {
+        "sprite": "farm_decor_log_oak_west"
+      },
+      "north": {
+        "sprite": "farm_decor_log_oak_north"
+      }
+    }
+  },
+  "sf_farm_decor_log_walnut": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        1,
+        1
+      ],
+      "depth_to_floor": true,
+      "collision_grid": "0",
+      "rug": true,
+      "south": {
+        "sprite": "farm_decor_log_walnut_south"
+      },
+      "east": {
+        "sprite": "farm_decor_log_walnut_east"
+      },
+      "west": {
+        "sprite": "farm_decor_log_walnut_west"
+      },
+      "north": {
+        "sprite": "farm_decor_log_walnut_north"
+      }
+    }
+  },
+  "sf_farm_decor_rocks": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        3,
+        3
+      ],
+      "collision_grid": "3",
+      "child_grid": [
+        "111",
+        "111",
+        "111"
+      ],
+      "south": {
+        "sprite": "farm_decor_rocks_spring_south",
+        "winter_sprite": "farm_decor_rocks_winter_south"
+      },
+      "east": {
+        "sprite": "farm_decor_rocks_spring_east",
+        "winter_sprite": "farm_decor_rocks_winter_east"
+      },
+      "west": {
+        "sprite": "farm_decor_rocks_spring_west",
+        "winter_sprite": "farm_decor_rocks_winter_west"
+      },
+      "north": {
+        "sprite": "farm_decor_rocks_spring_north",
+        "winter_sprite": "farm_decor_rocks_winter_north"
+      }
+    }
+  },
+  "sf_farm_decor_stump": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        3,
+        3
+      ],
+      "collision_grid": "3",
+      "child_grid": [
+        "111",
+        "111",
+        "111"
+      ],
+      "child_grid_offset": [
+        0,
+        -15
+      ],
+      "south": {
+        "sprite": "farm_decor_stump_spring_south",
+        "winter_sprite": "farm_decor_stump_winter_south",
+        "child_grid_offset": [
+          0,
+          -10
+        ]
+      },
+      "east": {
+        "sprite": "farm_decor_stump_spring_east",
+        "winter_sprite": "farm_decor_stump_winter_east",
+        "child_grid_offset": [
+          0,
+          -10
+        ]
+      },
+      "west": {
+        "sprite": "farm_decor_stump_spring_west",
+        "winter_sprite": "farm_decor_stump_winter_west",
+        "child_grid_offset": [
+          0,
+          -16
+        ]
+      },
+      "north": {
+        "sprite": "farm_decor_stump_spring_north",
+        "winter_sprite": "farm_decor_stump_winter_north",
+        "child_grid_offset": [
+          0,
+          -16
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "icon_modded": {
+    "Location": "images/icon_modded.png",
+    "IsUiSprite": true
+  },
+  "spr_player_angel_wingz_back_gear": {
+    "Location": "images/angel",
+    "IsAnimated": true,
+    "OriginX": 8,
+    "OriginY": 8
+  }
+}

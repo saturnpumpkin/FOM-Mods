@@ -1,0 +1,944 @@
+{
+  "sf_mushies_scroll_bundle": {
+    "overwrites_other_mod": true,
+    "name": "Mushroom Scroll",
+    "description": "A scroll that has the faint aroma of mushrooms...",
+    "icon_sprite": "mushies_scroll_ui",
+    "soulbound": true,
+    "set_unlock": "sf_mushies_set",
+    "tags": [
+      "scroll",
+      "blacklist_popup"
+    ],
+    "value": {
+      "store": 1000
+    }
+  },
+  "mushies_set_button_cluster_brown": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_button_cluster_brown_ui",
+    "name": "Cluster Button Mushrooms",
+    "description": "A cluster of brown button mushrooms for decoration",
+    "object": "mushies_set_button_cluster_brown",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_button_single_brown": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_button_single_brown_ui",
+    "name": "Single Button Mushrooms",
+    "description": "A group of single brown button mushrooms for decoration",
+    "object": "mushies_set_button_single_brown",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_chanterelle_cluster_brown": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_chanterelle_cluster_brown_ui",
+    "name": "Cluster Chanterelle Mushrooms",
+    "description": "A cluster of brown chanterelle mushrooms for decoration",
+    "object": "mushies_set_chanterelle_cluster_brown",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_chanterelle_single_brown": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_chanterelle_single_brown_ui",
+    "name": "Single Chanterelle Mushrooms",
+    "description": "A group of single brown chanterelle mushrooms for decoration",
+    "object": "mushies_set_chanterelle_single_brown",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_flat_cluster_brown": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_flat_cluster_brown_ui",
+    "name": "Cluster Flat Mushrooms",
+    "description": "A cluster of brown flat mushrooms for decoration",
+    "object": "mushies_set_flat_cluster_brown",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_flat_single_brown": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_flat_single_brown_ui",
+    "name": "Single Flat Mushrooms",
+    "description": "A group of single brown flat mushrooms for decoration",
+    "object": "mushies_set_flat_single_brown",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_trumpet_cluster_brown": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_trumpet_cluster_brown_ui",
+    "name": "Cluster Trumpet Mushrooms",
+    "description": "A cluster of brown trumpet mushrooms for decoration",
+    "object": "mushies_set_trumpet_cluster_brown",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_trumpet_single_brown": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_trumpet_single_brown_ui",
+    "name": "Single Trumpet Mushrooms",
+    "description": "A group of single brown trumpet mushrooms for decoration",
+    "object": "mushies_set_trumpet_single_brown",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_button_cluster_red": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_button_cluster_red_ui",
+    "name": "Cluster Button Mushrooms",
+    "description": "A cluster of red button mushrooms for decoration",
+    "object": "mushies_set_button_cluster_red",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_button_single_red": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_button_single_red_ui",
+    "name": "Single Button Mushrooms",
+    "description": "A group of single red button mushrooms for decoration",
+    "object": "mushies_set_button_single_red",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_chanterelle_cluster_red": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_chanterelle_cluster_red_ui",
+    "name": "Cluster Chanterelle Mushrooms",
+    "description": "A cluster of red chanterelle mushrooms for decoration",
+    "object": "mushies_set_chanterelle_cluster_red",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_chanterelle_single_red": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_chanterelle_single_red_ui",
+    "name": "Single Chanterelle Mushrooms",
+    "description": "A group of single red chanterelle mushrooms for decoration",
+    "object": "mushies_set_chanterelle_single_red",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_flat_cluster_red": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_flat_cluster_red_ui",
+    "name": "Cluster Flat Mushrooms",
+    "description": "A cluster of red flat mushrooms for decoration",
+    "object": "mushies_set_flat_cluster_red",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_flat_single_red": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_flat_single_red_ui",
+    "name": "Single Flat Mushrooms",
+    "description": "A group of single red flat mushrooms for decoration",
+    "object": "mushies_set_flat_single_red",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_trumpet_cluster_red": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_trumpet_cluster_red_ui",
+    "name": "Cluster Trumpet Mushrooms",
+    "description": "A cluster of red trumpet mushrooms for decoration",
+    "object": "mushies_set_trumpet_cluster_red",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_trumpet_single_red": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_trumpet_single_red_ui",
+    "name": "Single Trumpet Mushrooms",
+    "description": "A group of single red trumpet mushrooms for decoration",
+    "object": "mushies_set_trumpet_single_red",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_button_cluster_cream": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_button_cluster_cream_ui",
+    "name": "Cluster Button Mushrooms",
+    "description": "A cluster of cream button mushrooms for decoration",
+    "object": "mushies_set_button_cluster_cream",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_button_single_cream": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_button_single_cream_ui",
+    "name": "Single Button Mushrooms",
+    "description": "A group of single cream button mushrooms for decoration",
+    "object": "mushies_set_button_single_cream",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_chanterelle_cluster_cream": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_chanterelle_cluster_cream_ui",
+    "name": "Cluster Chanterelle Mushrooms",
+    "description": "A cluster of cream chanterelle mushrooms for decoration",
+    "object": "mushies_set_chanterelle_cluster_cream",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_chanterelle_single_cream": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_chanterelle_single_cream_ui",
+    "name": "Single Chanterelle Mushrooms",
+    "description": "A group of single cream chanterelle mushrooms for decoration",
+    "object": "mushies_set_chanterelle_single_cream",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_flat_cluster_cream": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_flat_cluster_cream_ui",
+    "name": "Cluster Flat Mushrooms",
+    "description": "A cluster of cream flat mushrooms for decoration",
+    "object": "mushies_set_flat_cluster_cream",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_flat_single_cream": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_flat_single_cream_ui",
+    "name": "Single Flat Mushrooms",
+    "description": "A group of single cream flat mushrooms for decoration",
+    "object": "mushies_set_flat_single_cream",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_trumpet_cluster_cream": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_trumpet_cluster_cream_ui",
+    "name": "Cluster Trumpet Mushrooms",
+    "description": "A cluster of cream trumpet mushrooms for decoration",
+    "object": "mushies_set_trumpet_cluster_cream",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_trumpet_single_cream": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_trumpet_single_cream_ui",
+    "name": "Single Trumpet Mushrooms",
+    "description": "A group of single cream trumpet mushrooms for decoration",
+    "object": "mushies_set_trumpet_single_cream",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_button_cluster_white": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_button_cluster_white_ui",
+    "name": "Cluster Button Mushrooms",
+    "description": "A cluster of white button mushrooms for decoration",
+    "object": "mushies_set_button_cluster_white",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_button_single_white": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_button_single_white_ui",
+    "name": "Single Button Mushrooms",
+    "description": "A group of single white button mushrooms for decoration",
+    "object": "mushies_set_button_single_white",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_chanterelle_cluster_white": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_chanterelle_cluster_white_ui",
+    "name": "Cluster Chanterelle Mushrooms",
+    "description": "A cluster of white chanterelle mushrooms for decoration",
+    "object": "mushies_set_chanterelle_cluster_white",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_chanterelle_single_white": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_chanterelle_single_white_ui",
+    "name": "Single Chanterelle Mushrooms",
+    "description": "A group of single white chanterelle mushrooms for decoration",
+    "object": "mushies_set_chanterelle_single_white",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_flat_cluster_white": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_flat_cluster_white_ui",
+    "name": "Cluster Flat Mushrooms",
+    "description": "A cluster of white flat mushrooms for decoration",
+    "object": "mushies_set_flat_cluster_white",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_flat_single_white": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_flat_single_white_ui",
+    "name": "Single Flat Mushrooms",
+    "description": "A group of single white flat mushrooms for decoration",
+    "object": "mushies_set_flat_single_white",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_trumpet_cluster_white": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_trumpet_cluster_white_ui",
+    "name": "Cluster Trumpet Mushrooms",
+    "description": "A cluster of white trumpet mushrooms for decoration",
+    "object": "mushies_set_trumpet_cluster_white",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  },
+  "mushies_set_trumpet_single_white": {
+    "overwrites_other_mod": false,
+    "icon_sprite": "mushies_set_trumpet_single_white_ui",
+    "name": "Single Trumpet Mushrooms",
+    "description": "A group of single white trumpet mushrooms for decoration",
+    "object": "mushies_set_trumpet_single_white",
+    "recipe_is_default": true,
+    "tags": [
+      "furniture",
+      "sf_mushies_set",
+      "stampingfeet",
+      "misc_decor"
+    ],
+    "recipe_key": "sf_mushrooms",
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+        "count": 1,
+        "item": "ore_stone"
+      },
+      {
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    }
+  }
+}

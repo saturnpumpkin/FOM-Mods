@@ -1,0 +1,386 @@
+{
+  "farm_decor_clovers_spring_south_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_spring_south",
+    "sprite": "images/clovers/shadow/south.png"
+  },
+  "farm_decor_clovers_spring_east_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_spring_east",
+    "sprite": "images/clovers/shadow/east.png"
+  },
+  "farm_decor_clovers_spring_west_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_spring_west",
+    "sprite": "images/clovers/shadow/west.png"
+  },
+  "farm_decor_clovers_spring_north_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_spring_north",
+    "sprite": "images/clovers/shadow/north.png"
+  },
+  "farm_decor_clovers_summer_south_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_summer_south",
+    "sprite": "images/clovers/shadow/south.png"
+  },
+  "farm_decor_clovers_summer_east_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_summer_east",
+    "sprite": "images/clovers/shadow/east.png"
+  },
+  "farm_decor_clovers_summer_west_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_summer_west",
+    "sprite": "images/clovers/shadow/west.png"
+  },
+  "farm_decor_clovers_summer_north_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_summer_north",
+    "sprite": "images/clovers/shadow/north.png"
+  },
+  "farm_decor_clovers_autumn_south_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_autumn_south",
+    "sprite": "images/clovers/shadow/south.png"
+  },
+  "farm_decor_clovers_autumn_east_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_autumn_east",
+    "sprite": "images/clovers/shadow/east.png"
+  },
+  "farm_decor_clovers_autumn_west_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_autumn_west",
+    "sprite": "images/clovers/shadow/west.png"
+  },
+  "farm_decor_clovers_autumn_north_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_autumn_north",
+    "sprite": "images/clovers/shadow/north.png"
+  },
+  "farm_decor_clovers_winter_south_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_winter_south",
+    "sprite": "images/clovers/shadow/south.png"
+  },
+  "farm_decor_clovers_winter_east_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_winter_east",
+    "sprite": "images/clovers/shadow/east.png"
+  },
+  "farm_decor_clovers_winter_west_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_winter_west",
+    "sprite": "images/clovers/shadow/west.png"
+  },
+  "farm_decor_clovers_winter_north_shadow": {
+    "regular_sprite_name": "farm_decor_clovers_winter_north",
+    "sprite": "images/clovers/shadow/north.png"
+  },
+  "farm_decor_flower_spring_south_shadow": {
+    "regular_sprite_name": "farm_decor_flower_spring_south",
+    "sprite": "images/flower/shadow/south.png"
+  },
+  "farm_decor_flower_spring_east_shadow": {
+    "regular_sprite_name": "farm_decor_flower_spring_east",
+    "sprite": "images/flower/shadow/east.png"
+  },
+  "farm_decor_flower_spring_west_shadow": {
+    "regular_sprite_name": "farm_decor_flower_spring_west",
+    "sprite": "images/flower/shadow/west.png"
+  },
+  "farm_decor_flower_spring_north_shadow": {
+    "regular_sprite_name": "farm_decor_flower_spring_north",
+    "sprite": "images/flower/shadow/north.png"
+  },
+  "farm_decor_flower_summer_south_shadow": {
+    "regular_sprite_name": "farm_decor_flower_summer_south",
+    "sprite": "images/flower/shadow/south.png"
+  },
+  "farm_decor_flower_summer_east_shadow": {
+    "regular_sprite_name": "farm_decor_flower_summer_east",
+    "sprite": "images/flower/shadow/east.png"
+  },
+  "farm_decor_flower_summer_west_shadow": {
+    "regular_sprite_name": "farm_decor_flower_summer_west",
+    "sprite": "images/flower/shadow/west.png"
+  },
+  "farm_decor_flower_summer_north_shadow": {
+    "regular_sprite_name": "farm_decor_flower_summer_north",
+    "sprite": "images/flower/shadow/north.png"
+  },
+  "farm_decor_flower_autumn_south_shadow": {
+    "regular_sprite_name": "farm_decor_flower_autumn_south",
+    "sprite": "images/flower/shadow/south.png"
+  },
+  "farm_decor_flower_autumn_east_shadow": {
+    "regular_sprite_name": "farm_decor_flower_autumn_east",
+    "sprite": "images/flower/shadow/east.png"
+  },
+  "farm_decor_flower_autumn_west_shadow": {
+    "regular_sprite_name": "farm_decor_flower_autumn_west",
+    "sprite": "images/flower/shadow/west.png"
+  },
+  "farm_decor_flower_autumn_north_shadow": {
+    "regular_sprite_name": "farm_decor_flower_autumn_north",
+    "sprite": "images/flower/shadow/north.png"
+  },
+  "farm_decor_flower_winter_south_shadow": {
+    "regular_sprite_name": "farm_decor_flower_winter_south",
+    "sprite": "images/flower/shadow/south.png"
+  },
+  "farm_decor_flower_winter_east_shadow": {
+    "regular_sprite_name": "farm_decor_flower_winter_east",
+    "sprite": "images/flower/shadow/east.png"
+  },
+  "farm_decor_flower_winter_west_shadow": {
+    "regular_sprite_name": "farm_decor_flower_winter_west",
+    "sprite": "images/flower/shadow/west.png"
+  },
+  "farm_decor_flower_winter_north_shadow": {
+    "regular_sprite_name": "farm_decor_flower_winter_north",
+    "sprite": "images/flower/shadow/north.png"
+  },
+  "farm_decor_leafy_spring_south_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_spring_south",
+    "sprite": "images/leafy/shadow/south.png"
+  },
+  "farm_decor_leafy_spring_east_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_spring_east",
+    "sprite": "images/leafy/shadow/east.png"
+  },
+  "farm_decor_leafy_spring_west_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_spring_west",
+    "sprite": "images/leafy/shadow/west.png"
+  },
+  "farm_decor_leafy_spring_north_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_spring_north",
+    "sprite": "images/leafy/shadow/north.png"
+  },
+  "farm_decor_leafy_summer_south_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_summer_south",
+    "sprite": "images/leafy/shadow/south.png"
+  },
+  "farm_decor_leafy_summer_east_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_summer_east",
+    "sprite": "images/leafy/shadow/east.png"
+  },
+  "farm_decor_leafy_summer_west_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_summer_west",
+    "sprite": "images/leafy/shadow/west.png"
+  },
+  "farm_decor_leafy_summer_north_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_summer_north",
+    "sprite": "images/leafy/shadow/north.png"
+  },
+  "farm_decor_leafy_autumn_south_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_autumn_south",
+    "sprite": "images/leafy/shadow/south.png"
+  },
+  "farm_decor_leafy_autumn_east_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_autumn_east",
+    "sprite": "images/leafy/shadow/east.png"
+  },
+  "farm_decor_leafy_autumn_west_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_autumn_west",
+    "sprite": "images/leafy/shadow/west.png"
+  },
+  "farm_decor_leafy_autumn_north_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_autumn_north",
+    "sprite": "images/leafy/shadow/north.png"
+  },
+  "farm_decor_leafy_winter_south_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_winter_south",
+    "sprite": "images/leafy/shadow/south.png"
+  },
+  "farm_decor_leafy_winter_east_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_winter_east",
+    "sprite": "images/leafy/shadow/east.png"
+  },
+  "farm_decor_leafy_winter_west_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_winter_west",
+    "sprite": "images/leafy/shadow/west.png"
+  },
+  "farm_decor_leafy_winter_north_shadow": {
+    "regular_sprite_name": "farm_decor_leafy_winter_north",
+    "sprite": "images/leafy/shadow/north.png"
+  },
+  "farm_decor_log_ash_south_shadow": {
+    "regular_sprite_name": "farm_decor_log_ash_south",
+    "sprite": "images/log/shadow/south.png"
+  },
+  "farm_decor_log_ash_east_shadow": {
+    "regular_sprite_name": "farm_decor_log_ash_east",
+    "sprite": "images/log/shadow/east.png"
+  },
+  "farm_decor_log_ash_west_shadow": {
+    "regular_sprite_name": "farm_decor_log_ash_west",
+    "sprite": "images/log/shadow/west.png"
+  },
+  "farm_decor_log_ash_north_shadow": {
+    "regular_sprite_name": "farm_decor_log_ash_north",
+    "sprite": "images/log/shadow/north.png"
+  },
+  "farm_decor_log_cherry_south_shadow": {
+    "regular_sprite_name": "farm_decor_log_cherry_south",
+    "sprite": "images/log/shadow/south.png"
+  },
+  "farm_decor_log_cherry_east_shadow": {
+    "regular_sprite_name": "farm_decor_log_cherry_east",
+    "sprite": "images/log/shadow/east.png"
+  },
+  "farm_decor_log_cherry_west_shadow": {
+    "regular_sprite_name": "farm_decor_log_cherry_west",
+    "sprite": "images/log/shadow/west.png"
+  },
+  "farm_decor_log_cherry_north_shadow": {
+    "regular_sprite_name": "farm_decor_log_cherry_north",
+    "sprite": "images/log/shadow/north.png"
+  },
+  "farm_decor_log_oak_south_shadow": {
+    "regular_sprite_name": "farm_decor_log_oak_south",
+    "sprite": "images/log/shadow/south.png"
+  },
+  "farm_decor_log_oak_east_shadow": {
+    "regular_sprite_name": "farm_decor_log_oak_east",
+    "sprite": "images/log/shadow/east.png"
+  },
+  "farm_decor_log_oak_west_shadow": {
+    "regular_sprite_name": "farm_decor_log_oak_west",
+    "sprite": "images/log/shadow/west.png"
+  },
+  "farm_decor_log_oak_north_shadow": {
+    "regular_sprite_name": "farm_decor_log_oak_north",
+    "sprite": "images/log/shadow/north.png"
+  },
+  "farm_decor_log_walnut_south_shadow": {
+    "regular_sprite_name": "farm_decor_log_walnut_south",
+    "sprite": "images/log/shadow/south.png"
+  },
+  "farm_decor_log_walnut_east_shadow": {
+    "regular_sprite_name": "farm_decor_log_walnut_east",
+    "sprite": "images/log/shadow/east.png"
+  },
+  "farm_decor_log_walnut_west_shadow": {
+    "regular_sprite_name": "farm_decor_log_walnut_west",
+    "sprite": "images/log/shadow/west.png"
+  },
+  "farm_decor_log_walnut_north_shadow": {
+    "regular_sprite_name": "farm_decor_log_walnut_north",
+    "sprite": "images/log/shadow/north.png"
+  },
+  "farm_decor_rocks_spring_south_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_spring_south",
+    "sprite": "images/rocks/shadow/south.png"
+  },
+  "farm_decor_rocks_spring_east_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_spring_east",
+    "sprite": "images/rocks/shadow/east.png"
+  },
+  "farm_decor_rocks_spring_west_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_spring_west",
+    "sprite": "images/rocks/shadow/west.png"
+  },
+  "farm_decor_rocks_spring_north_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_spring_north",
+    "sprite": "images/rocks/shadow/north.png"
+  },
+  "farm_decor_rocks_summer_south_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_summer_south",
+    "sprite": "images/rocks/shadow/south.png"
+  },
+  "farm_decor_rocks_summer_east_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_summer_east",
+    "sprite": "images/rocks/shadow/east.png"
+  },
+  "farm_decor_rocks_summer_west_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_summer_west",
+    "sprite": "images/rocks/shadow/west.png"
+  },
+  "farm_decor_rocks_summer_north_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_summer_north",
+    "sprite": "images/rocks/shadow/north.png"
+  },
+  "farm_decor_rocks_autumn_south_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_autumn_south",
+    "sprite": "images/rocks/shadow/south.png"
+  },
+  "farm_decor_rocks_autumn_east_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_autumn_east",
+    "sprite": "images/rocks/shadow/east.png"
+  },
+  "farm_decor_rocks_autumn_west_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_autumn_west",
+    "sprite": "images/rocks/shadow/west.png"
+  },
+  "farm_decor_rocks_autumn_north_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_autumn_north",
+    "sprite": "images/rocks/shadow/north.png"
+  },
+  "farm_decor_rocks_winter_south_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_winter_south",
+    "sprite": "images/rocks/shadow/south.png"
+  },
+  "farm_decor_rocks_winter_east_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_winter_east",
+    "sprite": "images/rocks/shadow/east.png"
+  },
+  "farm_decor_rocks_winter_west_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_winter_west",
+    "sprite": "images/rocks/shadow/west.png"
+  },
+  "farm_decor_rocks_winter_north_shadow": {
+    "regular_sprite_name": "farm_decor_rocks_winter_north",
+    "sprite": "images/rocks/shadow/north.png"
+  },
+  "farm_decor_stump_spring_south_shadow": {
+    "regular_sprite_name": "farm_decor_stump_spring_south",
+    "sprite": "images/stump/shadow/south.png"
+  },
+  "farm_decor_stump_spring_east_shadow": {
+    "regular_sprite_name": "farm_decor_stump_spring_east",
+    "sprite": "images/stump/shadow/east.png"
+  },
+  "farm_decor_stump_spring_west_shadow": {
+    "regular_sprite_name": "farm_decor_stump_spring_west",
+    "sprite": "images/stump/shadow/west.png"
+  },
+  "farm_decor_stump_spring_north_shadow": {
+    "regular_sprite_name": "farm_decor_stump_spring_north",
+    "sprite": "images/stump/shadow/north.png"
+  },
+  "farm_decor_stump_summer_south_shadow": {
+    "regular_sprite_name": "farm_decor_stump_summer_south",
+    "sprite": "images/stump/shadow/south.png"
+  },
+  "farm_decor_stump_summer_east_shadow": {
+    "regular_sprite_name": "farm_decor_stump_summer_east",
+    "sprite": "images/stump/shadow/east.png"
+  },
+  "farm_decor_stump_summer_west_shadow": {
+    "regular_sprite_name": "farm_decor_stump_summer_west",
+    "sprite": "images/stump/shadow/west.png"
+  },
+  "farm_decor_stump_summer_north_shadow": {
+    "regular_sprite_name": "farm_decor_stump_summer_north",
+    "sprite": "images/stump/shadow/north.png"
+  },
+  "farm_decor_stump_autumn_south_shadow": {
+    "regular_sprite_name": "farm_decor_stump_autumn_south",
+    "sprite": "images/stump/shadow/south.png"
+  },
+  "farm_decor_stump_autumn_east_shadow": {
+    "regular_sprite_name": "farm_decor_stump_autumn_east",
+    "sprite": "images/stump/shadow/east.png"
+  },
+  "farm_decor_stump_autumn_west_shadow": {
+    "regular_sprite_name": "farm_decor_stump_autumn_west",
+    "sprite": "images/stump/shadow/west.png"
+  },
+  "farm_decor_stump_autumn_north_shadow": {
+    "regular_sprite_name": "farm_decor_stump_autumn_north",
+    "sprite": "images/stump/shadow/north.png"
+  },
+  "farm_decor_stump_winter_south_shadow": {
+    "regular_sprite_name": "farm_decor_stump_winter_south",
+    "sprite": "images/stump/shadow/south.png"
+  },
+  "farm_decor_stump_winter_east_shadow": {
+    "regular_sprite_name": "farm_decor_stump_winter_east",
+    "sprite": "images/stump/shadow/east.png"
+  },
+  "farm_decor_stump_winter_west_shadow": {
+    "regular_sprite_name": "farm_decor_stump_winter_west",
+    "sprite": "images/stump/shadow/west.png"
+  },
+  "farm_decor_stump_winter_north_shadow": {
+    "regular_sprite_name": "farm_decor_stump_winter_north",
+    "sprite": "images/stump/shadow/north.png"
+  }
+}

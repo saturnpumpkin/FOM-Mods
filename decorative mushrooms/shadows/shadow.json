@@ -1,0 +1,514 @@
+{
+  "mushies_set_button_cluster_brown_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_brown_spring_south",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_cluster_brown_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_brown_spring_east",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_cluster_brown_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_brown_spring_west",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_cluster_brown_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_brown_spring_north",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_single_brown_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_brown_spring_south",
+    "sprite": "images/button/single/shadow.png"
+  },
+  "mushies_set_button_single_brown_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_brown_spring_east",
+    "sprite": "images/button/single/shadow.png"
+  },
+  "mushies_set_button_single_brown_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_brown_spring_west",
+    "sprite": "images/button/single/shadow2.png"
+  },
+  "mushies_set_button_single_brown_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_brown_spring_north",
+    "sprite": "images/button/single/shadow2.png"
+  },
+  "mushies_set_chanterelle_cluster_brown_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_brown_spring_south",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_cluster_brown_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_brown_spring_east",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_cluster_brown_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_brown_spring_west",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_cluster_brown_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_brown_spring_north",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_single_brown_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_brown_spring_south",
+    "sprite": "images/chanterelle/single/shadow.png"
+  },
+  "mushies_set_chanterelle_single_brown_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_brown_spring_east",
+    "sprite": "images/chanterelle/single/shadow.png"
+  },
+  "mushies_set_chanterelle_single_brown_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_brown_spring_west",
+    "sprite": "images/chanterelle/single/shadow2.png"
+  },
+  "mushies_set_chanterelle_single_brown_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_brown_spring_north",
+    "sprite": "images/chanterelle/single/shadow2.png"
+  },
+  "mushies_set_flat_cluster_brown_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_brown_spring_south",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_cluster_brown_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_brown_spring_east",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_cluster_brown_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_brown_spring_west",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_cluster_brown_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_brown_spring_north",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_single_brown_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_brown_spring_south",
+    "sprite": "images/flat/single/shadow.png"
+  },
+  "mushies_set_flat_single_brown_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_brown_spring_east",
+    "sprite": "images/flat/single/shadow.png"
+  },
+  "mushies_set_flat_single_brown_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_brown_spring_west",
+    "sprite": "images/flat/single/shadow2.png"
+  },
+  "mushies_set_flat_single_brown_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_brown_spring_north",
+    "sprite": "images/flat/single/shadow2.png"
+  },
+  "mushies_set_trumpet_cluster_brown_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_brown_spring_south",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_cluster_brown_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_brown_spring_east",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_cluster_brown_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_brown_spring_west",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_cluster_brown_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_brown_spring_north",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_single_brown_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_brown_spring_south",
+    "sprite": "images/trumpet/single/shadow.png"
+  },
+  "mushies_set_trumpet_single_brown_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_brown_spring_east",
+    "sprite": "images/trumpet/single/shadow.png"
+  },
+  "mushies_set_trumpet_single_brown_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_brown_spring_west",
+    "sprite": "images/trumpet/single/shadow2.png"
+  },
+  "mushies_set_trumpet_single_brown_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_brown_spring_north",
+    "sprite": "images/trumpet/single/shadow2.png"
+  },
+  "mushies_set_button_cluster_red_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_red_spring_south",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_cluster_red_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_red_spring_east",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_cluster_red_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_red_spring_west",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_cluster_red_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_red_spring_north",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_single_red_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_red_spring_south",
+    "sprite": "images/button/single/shadow.png"
+  },
+  "mushies_set_button_single_red_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_red_spring_east",
+    "sprite": "images/button/single/shadow.png"
+  },
+  "mushies_set_button_single_red_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_red_spring_west",
+    "sprite": "images/button/single/shadow2.png"
+  },
+  "mushies_set_button_single_red_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_red_spring_north",
+    "sprite": "images/button/single/shadow2.png"
+  },
+  "mushies_set_chanterelle_cluster_red_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_red_spring_south",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_cluster_red_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_red_spring_east",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_cluster_red_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_red_spring_west",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_cluster_red_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_red_spring_north",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_single_red_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_red_spring_south",
+    "sprite": "images/chanterelle/single/shadow.png"
+  },
+  "mushies_set_chanterelle_single_red_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_red_spring_east",
+    "sprite": "images/chanterelle/single/shadow.png"
+  },
+  "mushies_set_chanterelle_single_red_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_red_spring_west",
+    "sprite": "images/chanterelle/single/shadow2.png"
+  },
+  "mushies_set_chanterelle_single_red_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_red_spring_north",
+    "sprite": "images/chanterelle/single/shadow2.png"
+  },
+  "mushies_set_flat_cluster_red_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_red_spring_south",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_cluster_red_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_red_spring_east",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_cluster_red_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_red_spring_west",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_cluster_red_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_red_spring_north",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_single_red_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_red_spring_south",
+    "sprite": "images/flat/single/shadow.png"
+  },
+  "mushies_set_flat_single_red_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_red_spring_east",
+    "sprite": "images/flat/single/shadow.png"
+  },
+  "mushies_set_flat_single_red_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_red_spring_west",
+    "sprite": "images/flat/single/shadow2.png"
+  },
+  "mushies_set_flat_single_red_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_red_spring_north",
+    "sprite": "images/flat/single/shadow2.png"
+  },
+  "mushies_set_trumpet_cluster_red_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_red_spring_south",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_cluster_red_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_red_spring_east",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_cluster_red_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_red_spring_west",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_cluster_red_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_red_spring_north",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_single_red_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_red_spring_south",
+    "sprite": "images/trumpet/single/shadow.png"
+  },
+  "mushies_set_trumpet_single_red_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_red_spring_east",
+    "sprite": "images/trumpet/single/shadow.png"
+  },
+  "mushies_set_trumpet_single_red_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_red_spring_west",
+    "sprite": "images/trumpet/single/shadow2.png"
+  },
+  "mushies_set_trumpet_single_red_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_red_spring_north",
+    "sprite": "images/trumpet/single/shadow2.png"
+  },
+  "mushies_set_button_cluster_cream_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_cream_spring_south",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_cluster_cream_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_cream_spring_east",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_cluster_cream_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_cream_spring_west",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_cluster_cream_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_cream_spring_north",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_single_cream_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_cream_spring_south",
+    "sprite": "images/button/single/shadow.png"
+  },
+  "mushies_set_button_single_cream_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_cream_spring_east",
+    "sprite": "images/button/single/shadow.png"
+  },
+  "mushies_set_button_single_cream_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_cream_spring_west",
+    "sprite": "images/button/single/shadow2.png"
+  },
+  "mushies_set_button_single_cream_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_cream_spring_north",
+    "sprite": "images/button/single/shadow2.png"
+  },
+  "mushies_set_chanterelle_cluster_cream_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_cream_spring_south",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_cluster_cream_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_cream_spring_east",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_cluster_cream_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_cream_spring_west",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_cluster_cream_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_cream_spring_north",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_single_cream_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_cream_spring_south",
+    "sprite": "images/chanterelle/single/shadow.png"
+  },
+  "mushies_set_chanterelle_single_cream_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_cream_spring_east",
+    "sprite": "images/chanterelle/single/shadow.png"
+  },
+  "mushies_set_chanterelle_single_cream_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_cream_spring_west",
+    "sprite": "images/chanterelle/single/shadow2.png"
+  },
+  "mushies_set_chanterelle_single_cream_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_cream_spring_north",
+    "sprite": "images/chanterelle/single/shadow2.png"
+  },
+  "mushies_set_flat_cluster_cream_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_cream_spring_south",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_cluster_cream_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_cream_spring_east",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_cluster_cream_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_cream_spring_west",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_cluster_cream_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_cream_spring_north",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_single_cream_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_cream_spring_south",
+    "sprite": "images/flat/single/shadow.png"
+  },
+  "mushies_set_flat_single_cream_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_cream_spring_east",
+    "sprite": "images/flat/single/shadow.png"
+  },
+  "mushies_set_flat_single_cream_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_cream_spring_west",
+    "sprite": "images/flat/single/shadow2.png"
+  },
+  "mushies_set_flat_single_cream_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_cream_spring_north",
+    "sprite": "images/flat/single/shadow2.png"
+  },
+  "mushies_set_trumpet_cluster_cream_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_cream_spring_south",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_cluster_cream_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_cream_spring_east",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_cluster_cream_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_cream_spring_west",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_cluster_cream_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_cream_spring_north",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_single_cream_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_cream_spring_south",
+    "sprite": "images/trumpet/single/shadow.png"
+  },
+  "mushies_set_trumpet_single_cream_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_cream_spring_east",
+    "sprite": "images/trumpet/single/shadow.png"
+  },
+  "mushies_set_trumpet_single_cream_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_cream_spring_west",
+    "sprite": "images/trumpet/single/shadow2.png"
+  },
+  "mushies_set_trumpet_single_cream_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_cream_spring_north",
+    "sprite": "images/trumpet/single/shadow2.png"
+  },
+  "mushies_set_button_cluster_white_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_white_spring_south",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_cluster_white_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_white_spring_east",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_cluster_white_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_white_spring_west",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_cluster_white_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_button_cluster_white_spring_north",
+    "sprite": "images/button/cluster/shadow.png"
+  },
+  "mushies_set_button_single_white_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_white_spring_south",
+    "sprite": "images/button/single/shadow.png"
+  },
+  "mushies_set_button_single_white_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_white_spring_east",
+    "sprite": "images/button/single/shadow.png"
+  },
+  "mushies_set_button_single_white_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_white_spring_west",
+    "sprite": "images/button/single/shadow2.png"
+  },
+  "mushies_set_button_single_white_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_button_single_white_spring_north",
+    "sprite": "images/button/single/shadow2.png"
+  },
+  "mushies_set_chanterelle_cluster_white_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_white_spring_south",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_cluster_white_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_white_spring_east",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_cluster_white_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_white_spring_west",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_cluster_white_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_cluster_white_spring_north",
+    "sprite": "images/chanterelle/cluster/shadow.png"
+  },
+  "mushies_set_chanterelle_single_white_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_white_spring_south",
+    "sprite": "images/chanterelle/single/shadow.png"
+  },
+  "mushies_set_chanterelle_single_white_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_white_spring_east",
+    "sprite": "images/chanterelle/single/shadow.png"
+  },
+  "mushies_set_chanterelle_single_white_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_white_spring_west",
+    "sprite": "images/chanterelle/single/shadow2.png"
+  },
+  "mushies_set_chanterelle_single_white_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_chanterelle_single_white_spring_north",
+    "sprite": "images/chanterelle/single/shadow2.png"
+  },
+  "mushies_set_flat_cluster_white_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_white_spring_south",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_cluster_white_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_white_spring_east",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_cluster_white_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_white_spring_west",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_cluster_white_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_flat_cluster_white_spring_north",
+    "sprite": "images/flat/cluster/shadow.png"
+  },
+  "mushies_set_flat_single_white_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_white_spring_south",
+    "sprite": "images/flat/single/shadow.png"
+  },
+  "mushies_set_flat_single_white_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_white_spring_east",
+    "sprite": "images/flat/single/shadow.png"
+  },
+  "mushies_set_flat_single_white_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_white_spring_west",
+    "sprite": "images/flat/single/shadow2.png"
+  },
+  "mushies_set_flat_single_white_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_flat_single_white_spring_north",
+    "sprite": "images/flat/single/shadow2.png"
+  },
+  "mushies_set_trumpet_cluster_white_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_white_spring_south",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_cluster_white_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_white_spring_east",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_cluster_white_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_white_spring_west",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_cluster_white_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_cluster_white_spring_north",
+    "sprite": "images/trumpet/cluster/shadow.png"
+  },
+  "mushies_set_trumpet_single_white_spring_south_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_white_spring_south",
+    "sprite": "images/trumpet/single/shadow.png"
+  },
+  "mushies_set_trumpet_single_white_spring_east_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_white_spring_east",
+    "sprite": "images/trumpet/single/shadow.png"
+  },
+  "mushies_set_trumpet_single_white_spring_west_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_white_spring_west",
+    "sprite": "images/trumpet/single/shadow2.png"
+  },
+  "mushies_set_trumpet_single_white_spring_north_shadow": {
+    "regular_sprite_name": "mushies_set_trumpet_single_white_spring_north",
+    "sprite": "images/trumpet/single/shadow2.png"
+  }
+}

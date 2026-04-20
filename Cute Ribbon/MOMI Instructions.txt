@@ -1,0 +1,13 @@
+MOMI(ModsOfMistriaInstaller) Instructions:
+https://github.com/Garethp/Mods-of-Mistria-Installer/releases
+
+1. Download the installer relevant to your device here.
+2. Move the installer into "C:\Program Files (x86)\Steam\steamapps\common\Fields of Mistria" 
+3. Create a "mods" folder in "C:\Program Files (x86)\Steam\steamapps\common\Fields of Mistria"
+4. Extract or move your recently downloaded "Mimic Chest" folder into "C:\Program Files (x86)\Steam\steamapps\common\Fields of Mistria\mods"
+5. Run "ModsOfMistriaInstaller", it should detect the "cute ribbon by stampingfeet" mod
+6. Click Install
+7. DONE!!
+
+NOTE: If anything goes wrong, please use the file you copy and pasted from step 1 back in the original location. 
+NOTE2: This uses a general location of the file, if this does not match yours please find the data file where you have your steam files in the Fields of Mistria folder

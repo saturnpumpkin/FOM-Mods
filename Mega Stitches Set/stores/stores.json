@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "item": "stitches_mega_bundle",
+      "store": "general",
+      "category": "modded_icon",
+      "include_recipe": true
+    }
+  ],
+  "categories": [
+    {
+      "store": "general",
+      "icon_name": "modded_icon",
+      "sprite": "images/icon_modded.png"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "sf_apron_dress_long": {
+    "name": "Apron Dress - Long",
+    "description": "A long dress adorned with frills at the base, with an apron.",
+    "ui_slot": "top",
+    "default_unlocked": true,
+    "ui_sub_category": "dress",
+    "lutFile": "images/apron_dress_long/lut.png",
+    "uiItem": "images/apron_dress_long/ui.png",
+    "outlineFile": "images/apron_dress_long/outline.png",
+    "animationFiles": {
+      "sleeve_right": "images/apron_dress_long/right",
+      "sleeve_left": "images/apron_dress_long/left",
+      "torso": "images/apron_dress_long/torso",
+      "waist": "images/apron_dress_long/waist"
+    }
+  },
+  "sf_apron_dress_short": {
+    "name": "Apron Dress - Shorter",
+    "description": "A shorter dress adorned with frills at the base, with an apron. For those that want to show off their ankles! ",
+    "ui_slot": "top",
+    "default_unlocked": true,
+    "ui_sub_category": "dress",
+    "lutFile": "images/apron_dress_short/lut.png",
+    "uiItem": "images/apron_dress_short/ui.png",
+    "outlineFile": "images/apron_dress_short/outline.png",
+    "animationFiles": {
+      "sleeve_right": "images/apron_dress_short/right",
+      "sleeve_left": "images/apron_dress_short/left",
+      "torso": "images/apron_dress_short/torso",
+      "waist": "images/apron_dress_short/waist"
+    }
+  },
+  "sf_cardigan_dress_long": {
+    "name": "Cardigan with Long Dress",
+    "description": "A long dress with a cardigan worn over it",
+    "ui_slot": "top",
+    "default_unlocked": true,
+    "ui_sub_category": "dress",
+    "lutFile": "images/cardigan_dress_long/lut.png",
+    "uiItem": "images/cardigan_dress_long/ui.png",
+    "outlineFile": "images/cardigan_dress_long/outline.png",
+    "animationFiles": {
+      "sleeve_right": "images/cardigan_dress_long/right",
+      "sleeve_left": "images/cardigan_dress_long/left",
+      "torso": "images/cardigan_dress_long/torso",
+      "waist": "images/cardigan_dress_long/waist"
+    }
+  },
+  "sf_cardigan_dress_short": {
+    "name": "Cardigan with Short Dress",
+    "description": "A short dress with a cardigan worn over it",
+    "ui_slot": "top",
+    "default_unlocked": true,
+    "ui_sub_category": "dress",
+    "lutFile": "images/cardigan_dress_short/lut.png",
+    "uiItem": "images/cardigan_dress_short/ui.png",
+    "outlineFile": "images/cardigan_dress_short/outline.png",
+    "animationFiles": {
+      "sleeve_right": "images/cardigan_dress_short/right",
+      "sleeve_left": "images/cardigan_dress_short/left",
+      "torso": "images/cardigan_dress_short/torso",
+      "waist": "images/cardigan_dress_short/waist"
+    }
+  },
+  "sf_off_sleeve_dress_long": {
+    "name": "Bubble Sleeve Dress - Long",
+    "description": "A long dress with adorable bubble sleeves",
+    "ui_slot": "top",
+    "default_unlocked": true,
+    "ui_sub_category": "dress",
+    "lutFile": "images/off_sleeve_dress_long/lut.png",
+    "uiItem": "images/off_sleeve_dress_long/ui.png",
+    "outlineFile": "images/off_sleeve_dress_long/outline.png",
+    "animationFiles": {
+      "sleeve_right": "images/off_sleeve_dress_long/right",
+      "sleeve_left": "images/off_sleeve_dress_long/left",
+      "torso": "images/off_sleeve_dress_long/torso",
+      "waist": "images/off_sleeve_dress_long/waist"
+    }
+  },
+  "sf_off_sleeve_dress_short": {
+    "name": "Bubble Sleeve Dress - Mini",
+    "description": "A mini dress with adorable bubble sleeves",
+    "ui_slot": "top",
+    "default_unlocked": true,
+    "ui_sub_category": "dress",
+    "lutFile": "images/off_sleeve_dress_short/lut.png",
+    "uiItem": "images/off_sleeve_dress_short/ui.png",
+    "outlineFile": "images/off_sleeve_dress_short/outline.png",
+    "animationFiles": {
+      "sleeve_right": "images/off_sleeve_dress_short/right",
+      "sleeve_left": "images/off_sleeve_dress_short/left",
+      "torso": "images/off_sleeve_dress_short/torso",
+      "waist": "images/off_sleeve_dress_short/waist"
+    }
+  },
+  "sf_puffysleeve_overall_dress_long": {
+    "name": "Puffy Overall Sleeve Dress",
+    "description": "A long version of the overall dress, except with puffy sleeves!",
+    "ui_slot": "top",
+    "default_unlocked": true,
+    "ui_sub_category": "dress",
+    "lutFile": "images/puffysleeve_overall_dress_long/lut.png",
+    "uiItem": "images/puffysleeve_overall_dress_long/ui.png",
+    "outlineFile": "images/puffysleeve_overall_dress_long/outline.png",
+    "animationFiles": {
+      "sleeve_right": "images/puffysleeve_overall_dress_long/right",
+      "sleeve_left": "images/puffysleeve_overall_dress_long/left",
+      "torso": "images/puffysleeve_overall_dress_long/torso",
+      "waist": "images/puffysleeve_overall_dress_long/waist"
+    }
+  },
+  "sf_puffysleeve_overall_dress_short": {
+    "name": "Puffy Overall Sleeve Dress",
+    "description": "The overall dress, except with puffy sleeves!",
+    "ui_slot": "top",
+    "default_unlocked": true,
+    "ui_sub_category": "dress",
+    "lutFile": "images/puffysleeve_overall_dress_short/lut.png",
+    "uiItem": "images/puffysleeve_overall_dress_short/ui.png",
+    "outlineFile": "images/puffysleeve_overall_dress_short/outline.png",
+    "animationFiles": {
+      "sleeve_right": "images/puffysleeve_overall_dress_short/right",
+      "sleeve_left": "images/puffysleeve_overall_dress_short/left",
+      "torso": "images/puffysleeve_overall_dress_short/torso",
+      "waist": "images/puffysleeve_overall_dress_short/waist"
+    }
+  }
+}

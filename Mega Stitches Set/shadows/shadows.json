@@ -1,0 +1,772 @@
+{
+  "stitches_ash_button_stool_west_shadow": {
+    "regular_sprite_name": "stitches_ash_button_stool_west",
+    "sprite": "images/ash/buttonchair/shadow.png"
+  },
+  "stitches_ash_button_stool_east_shadow": {
+    "regular_sprite_name": "stitches_ash_button_stool_east",
+    "sprite": "images/ash/buttonchair/shadow.png"
+  },
+  "stitches_ash_button_stool_north_shadow": {
+    "regular_sprite_name": "stitches_ash_button_stool_north",
+    "sprite": "images/ash/buttonchair/shadow.png"
+  },
+  "stitches_ash_button_stool_south_shadow": {
+    "regular_sprite_name": "stitches_ash_button_stool_south",
+    "sprite": "images/ash/buttonchair/shadow.png"
+  },
+  "stitches_ash_couch_west_shadow": {
+    "regular_sprite_name": "stitches_ash_couch_west",
+    "sprite": "images/ash/couch/hshadow.png"
+  },
+  "stitches_ash_couch_east_shadow": {
+    "regular_sprite_name": "stitches_ash_couch_east",
+    "sprite": "images/ash/buttonchair/shadow.png"
+  },
+  "stitches_ash_couch_north_shadow": {
+    "regular_sprite_name": "stitches_ash_couch_north",
+    "sprite": "images/ash/couch/vshadow.png"
+  },
+  "stitches_ash_couch_south_shadow": {
+    "regular_sprite_name": "stitches_ash_couch_south",
+    "sprite": "images/ash/couch/vshadow.png"
+  },
+  "stitches_ash_embroidery_hoop_west_shadow": {
+    "regular_sprite_name": "stitches_ash_embroidery_hoop_west",
+    "sprite": "images/ash/embroideryhoop/shadow.png"
+  },
+  "stitches_ash_embroidery_hoop_east_shadow": {
+    "regular_sprite_name": "stitches_ash_embroidery_hoop_east",
+    "sprite": "images/ash/embroideryhoop/shadow.png"
+  },
+  "stitches_ash_embroidery_hoop_north_shadow": {
+    "regular_sprite_name": "stitches_ash_embroidery_hoop_north",
+    "sprite": "images/ash/embroideryhoop/shadow.png"
+  },
+  "stitches_ash_embroidery_hoop_south_shadow": {
+    "regular_sprite_name": "stitches_ash_embroidery_hoop_south",
+    "sprite": "images/ash/embroideryhoop/shadow.png"
+  },
+  "stitches_ash_woven_storage_opened_shadow": {
+    "regular_sprite_name": "stitches_ash_woven_storage_opened",
+    "sprite": "images/ash/knitstorage/closed.png"
+  },
+  "stitches_ash_woven_storage_closed_shadow": {
+    "regular_sprite_name": "stitches_ash_woven_storage_closed",
+    "sprite": "images/ash/knitstorage/closed.png"
+  },
+  "stitches_ash_woven_storage_bounce_shadow": {
+    "regular_sprite_name": "stitches_ash_woven_storage_bounce",
+    "sprite": "images/ash/knitstorage/closed.png"
+  },
+  "stitches_ash_woven_storage_opening_shadow": {
+    "regular_sprite_name": "stitches_ash_woven_storage_opening",
+    "sprite": "images/ash/knitstorage/closed.png"
+  },
+  "stitches_ash_needles_west_shadow": {
+    "regular_sprite_name": "stitches_ash_needles_west",
+    "sprite": "images/ash/knittingneedles/westshadow.png"
+  },
+  "stitches_ash_needles_east_shadow": {
+    "regular_sprite_name": "stitches_ash_needles_east",
+    "sprite": "images/ash/knittingneedles/eastshadow.png"
+  },
+  "stitches_ash_needles_north_shadow": {
+    "regular_sprite_name": "stitches_ash_needles_north",
+    "sprite": "images/ash/knittingneedles/northshadow.png"
+  },
+  "stitches_ash_needles_south_shadow": {
+    "regular_sprite_name": "stitches_ash_needles_south",
+    "sprite": "images/ash/knittingneedles/southshadow.png"
+  },
+  "stitches_ash_sewingbobbin_west_shadow": {
+    "regular_sprite_name": "stitches_ash_sewingbobbin_west",
+    "sprite": "images/ash/sewingbobbin/shadow.png"
+  },
+  "stitches_ash_sewingbobbin_east_shadow": {
+    "regular_sprite_name": "stitches_ash_sewingbobbin_east",
+    "sprite": "images/ash/sewingbobbin/shadow.png"
+  },
+  "stitches_ash_sewingbobbin_north_shadow": {
+    "regular_sprite_name": "stitches_ash_sewingbobbin_north",
+    "sprite": "images/ash/sewingbobbin/shadow.png"
+  },
+  "stitches_ash_sewingbobbin_south_shadow": {
+    "regular_sprite_name": "stitches_ash_sewingbobbin_south",
+    "sprite": "images/ash/sewingbobbin/shadow.png"
+  },
+  "stitches_ash_threadshelf_west_shadow": {
+    "regular_sprite_name": "stitches_ash_threadshelf_west",
+    "sprite": "images/ash/sewingcupboard/shadow.png"
+  },
+  "stitches_ash_threadshelf_east_shadow": {
+    "regular_sprite_name": "stitches_ash_threadshelf_east",
+    "sprite": "images/ash/sewingcupboard/shadow.png"
+  },
+  "stitches_ash_threadshelf_north_shadow": {
+    "regular_sprite_name": "stitches_ash_threadshelf_north",
+    "sprite": "images/ash/sewingcupboard/shadow.png"
+  },
+  "stitches_ash_threadshelf_south_shadow": {
+    "regular_sprite_name": "stitches_ash_threadshelf_south",
+    "sprite": "images/ash/sewingcupboard/shadow.png"
+  },
+  "stitches_ash_spool_table_west_shadow": {
+    "regular_sprite_name": "stitches_ash_spool_table_west",
+    "sprite": "images/ash/spool/shadow.png"
+  },
+  "stitches_ash_spool_table_east_shadow": {
+    "regular_sprite_name": "stitches_ash_spool_table_east",
+    "sprite": "images/ash/spool/shadow.png"
+  },
+  "stitches_ash_spool_table_north_shadow": {
+    "regular_sprite_name": "stitches_ash_spool_table_north",
+    "sprite": "images/ash/spool/shadow.png"
+  },
+  "stitches_ash_spool_table_south_shadow": {
+    "regular_sprite_name": "stitches_ash_spool_table_south",
+    "sprite": "images/ash/spool/shadow.png"
+  },
+  "stitches_ash_standing_threads_west_shadow": {
+    "regular_sprite_name": "stitches_ash_standing_threads_west",
+    "sprite": "images/ash/standing_thread/shadow2.png"
+  },
+  "stitches_ash_standing_threads_east_shadow": {
+    "regular_sprite_name": "stitches_ash_standing_threads_east",
+    "sprite": "images/ash/standing_thread/shadow.png"
+  },
+  "stitches_ash_standing_threads_north_shadow": {
+    "regular_sprite_name": "stitches_ash_standing_threads_north",
+    "sprite": "images/ash/standing_thread/shadow2.png"
+  },
+  "stitches_ash_standing_threads_south_shadow": {
+    "regular_sprite_name": "stitches_ash_standing_threads_south",
+    "sprite": "images/ash/standing_thread/shadow.png"
+  },
+  "stitches_ash_long_table_west_shadow": {
+    "regular_sprite_name": "stitches_ash_long_table_west",
+    "sprite": "images/ash/table/shadow.png"
+  },
+  "stitches_ash_long_table_east_shadow": {
+    "regular_sprite_name": "stitches_ash_long_table_east",
+    "sprite": "images/ash/table/shadow.png"
+  },
+  "stitches_ash_long_table_north_shadow": {
+    "regular_sprite_name": "stitches_ash_long_table_north",
+    "sprite": "images/ash/table/shadow2.png"
+  },
+  "stitches_ash_long_table_south_shadow": {
+    "regular_sprite_name": "stitches_ash_long_table_south",
+    "sprite": "images/ash/table/shadow2.png"
+  },
+  "stitches_ash_wall_embroidery_west_shadow": {
+    "regular_sprite_name": "stitches_ash_wall_embroidery_west",
+    "sprite": "images/ash/wallhoop/floral/westshadow.png"
+  },
+  "stitches_ash_wall_embroidery_east_shadow": {
+    "regular_sprite_name": "stitches_ash_wall_embroidery_east",
+    "sprite": "images/ash/wallhoop/bug/eastshadow.png"
+  },
+  "stitches_ash_wall_embroidery_north_shadow": {
+    "regular_sprite_name": "stitches_ash_wall_embroidery_north",
+    "sprite": "images/ash/wallhoop/bug/northshadow.png"
+  },
+  "stitches_ash_wall_embroidery_south_shadow": {
+    "regular_sprite_name": "stitches_ash_wall_embroidery_south",
+    "sprite": "images/ash/wallhoop/floral/southshadow.png"
+  },
+  "stitches_cherry_button_stool_west_shadow": {
+    "regular_sprite_name": "stitches_cherry_button_stool_west",
+    "sprite": "images/cherry/buttonchair/shadow.png"
+  },
+  "stitches_cherry_button_stool_east_shadow": {
+    "regular_sprite_name": "stitches_cherry_button_stool_east",
+    "sprite": "images/cherry/buttonchair/shadow.png"
+  },
+  "stitches_cherry_button_stool_north_shadow": {
+    "regular_sprite_name": "stitches_cherry_button_stool_north",
+    "sprite": "images/cherry/buttonchair/shadow.png"
+  },
+  "stitches_cherry_button_stool_south_shadow": {
+    "regular_sprite_name": "stitches_cherry_button_stool_south",
+    "sprite": "images/cherry/buttonchair/shadow.png"
+  },
+  "stitches_cherry_couch_west_shadow": {
+    "regular_sprite_name": "stitches_cherry_couch_west",
+    "sprite": "images/cherry/couch/hshadow.png"
+  },
+  "stitches_cherry_couch_east_shadow": {
+    "regular_sprite_name": "stitches_cherry_couch_east",
+    "sprite": "images/cherry/buttonchair/shadow.png"
+  },
+  "stitches_cherry_couch_north_shadow": {
+    "regular_sprite_name": "stitches_cherry_couch_north",
+    "sprite": "images/cherry/couch/vshadow.png"
+  },
+  "stitches_cherry_couch_south_shadow": {
+    "regular_sprite_name": "stitches_cherry_couch_south",
+    "sprite": "images/cherry/couch/vshadow.png"
+  },
+  "stitches_cherry_embroidery_hoop_west_shadow": {
+    "regular_sprite_name": "stitches_cherry_embroidery_hoop_west",
+    "sprite": "images/cherry/embroideryhoop/shadow.png"
+  },
+  "stitches_cherry_embroidery_hoop_east_shadow": {
+    "regular_sprite_name": "stitches_cherry_embroidery_hoop_east",
+    "sprite": "images/cherry/embroideryhoop/shadow.png"
+  },
+  "stitches_cherry_embroidery_hoop_north_shadow": {
+    "regular_sprite_name": "stitches_cherry_embroidery_hoop_north",
+    "sprite": "images/cherry/embroideryhoop/shadow.png"
+  },
+  "stitches_cherry_embroidery_hoop_south_shadow": {
+    "regular_sprite_name": "stitches_cherry_embroidery_hoop_south",
+    "sprite": "images/cherry/embroideryhoop/shadow.png"
+  },
+  "stitches_cherry_woven_storage_opened_shadow": {
+    "regular_sprite_name": "stitches_cherry_woven_storage_opened",
+    "sprite": "images/cherry/knitstorage/closed.png"
+  },
+  "stitches_cherry_woven_storage_closed_shadow": {
+    "regular_sprite_name": "stitches_cherry_woven_storage_closed",
+    "sprite": "images/cherry/knitstorage/closed.png"
+  },
+  "stitches_cherry_woven_storage_bounce_shadow": {
+    "regular_sprite_name": "stitches_cherry_woven_storage_bounce",
+    "sprite": "images/cherry/knitstorage/closed.png"
+  },
+  "stitches_cherry_woven_storage_opening_shadow": {
+    "regular_sprite_name": "stitches_cherry_woven_storage_opening",
+    "sprite": "images/cherry/knitstorage/closed.png"
+  },
+  "stitches_cherry_needles_west_shadow": {
+    "regular_sprite_name": "stitches_cherry_needles_west",
+    "sprite": "images/cherry/knittingneedles/westshadow.png"
+  },
+  "stitches_cherry_needles_east_shadow": {
+    "regular_sprite_name": "stitches_cherry_needles_east",
+    "sprite": "images/cherry/knittingneedles/eastshadow.png"
+  },
+  "stitches_cherry_needles_north_shadow": {
+    "regular_sprite_name": "stitches_cherry_needles_north",
+    "sprite": "images/cherry/knittingneedles/northshadow.png"
+  },
+  "stitches_cherry_needles_south_shadow": {
+    "regular_sprite_name": "stitches_cherry_needles_south",
+    "sprite": "images/cherry/knittingneedles/southshadow.png"
+  },
+  "stitches_cherry_sewingbobbin_west_shadow": {
+    "regular_sprite_name": "stitches_cherry_sewingbobbin_west",
+    "sprite": "images/cherry/sewingbobbin/shadow.png"
+  },
+  "stitches_cherry_sewingbobbin_east_shadow": {
+    "regular_sprite_name": "stitches_cherry_sewingbobbin_east",
+    "sprite": "images/cherry/sewingbobbin/shadow.png"
+  },
+  "stitches_cherry_sewingbobbin_north_shadow": {
+    "regular_sprite_name": "stitches_cherry_sewingbobbin_north",
+    "sprite": "images/cherry/sewingbobbin/shadow.png"
+  },
+  "stitches_cherry_sewingbobbin_south_shadow": {
+    "regular_sprite_name": "stitches_cherry_sewingbobbin_south",
+    "sprite": "images/cherry/sewingbobbin/shadow.png"
+  },
+  "stitches_cherry_threadshelf_west_shadow": {
+    "regular_sprite_name": "stitches_cherry_threadshelf_west",
+    "sprite": "images/cherry/sewingcupboard/shadow.png"
+  },
+  "stitches_cherry_threadshelf_east_shadow": {
+    "regular_sprite_name": "stitches_cherry_threadshelf_east",
+    "sprite": "images/cherry/sewingcupboard/shadow.png"
+  },
+  "stitches_cherry_threadshelf_north_shadow": {
+    "regular_sprite_name": "stitches_cherry_threadshelf_north",
+    "sprite": "images/cherry/sewingcupboard/shadow.png"
+  },
+  "stitches_cherry_threadshelf_south_shadow": {
+    "regular_sprite_name": "stitches_cherry_threadshelf_south",
+    "sprite": "images/cherry/sewingcupboard/shadow.png"
+  },
+  "stitches_cherry_spool_table_west_shadow": {
+    "regular_sprite_name": "stitches_cherry_spool_table_west",
+    "sprite": "images/cherry/spool/shadow.png"
+  },
+  "stitches_cherry_spool_table_east_shadow": {
+    "regular_sprite_name": "stitches_cherry_spool_table_east",
+    "sprite": "images/cherry/spool/shadow.png"
+  },
+  "stitches_cherry_spool_table_north_shadow": {
+    "regular_sprite_name": "stitches_cherry_spool_table_north",
+    "sprite": "images/cherry/spool/shadow.png"
+  },
+  "stitches_cherry_spool_table_south_shadow": {
+    "regular_sprite_name": "stitches_cherry_spool_table_south",
+    "sprite": "images/cherry/spool/shadow.png"
+  },
+  "stitches_cherry_standing_threads_west_shadow": {
+    "regular_sprite_name": "stitches_cherry_standing_threads_west",
+    "sprite": "images/cherry/standing_thread/shadow2.png"
+  },
+  "stitches_cherry_standing_threads_east_shadow": {
+    "regular_sprite_name": "stitches_cherry_standing_threads_east",
+    "sprite": "images/cherry/standing_thread/shadow.png"
+  },
+  "stitches_cherry_standing_threads_north_shadow": {
+    "regular_sprite_name": "stitches_cherry_standing_threads_north",
+    "sprite": "images/cherry/standing_thread/shadow2.png"
+  },
+  "stitches_cherry_standing_threads_south_shadow": {
+    "regular_sprite_name": "stitches_cherry_standing_threads_south",
+    "sprite": "images/cherry/standing_thread/shadow.png"
+  },
+  "stitches_cherry_long_table_west_shadow": {
+    "regular_sprite_name": "stitches_cherry_long_table_west",
+    "sprite": "images/cherry/table/shadow.png"
+  },
+  "stitches_cherry_long_table_east_shadow": {
+    "regular_sprite_name": "stitches_cherry_long_table_east",
+    "sprite": "images/cherry/table/shadow.png"
+  },
+  "stitches_cherry_long_table_north_shadow": {
+    "regular_sprite_name": "stitches_cherry_long_table_north",
+    "sprite": "images/cherry/table/shadow2.png"
+  },
+  "stitches_cherry_long_table_south_shadow": {
+    "regular_sprite_name": "stitches_cherry_long_table_south",
+    "sprite": "images/cherry/table/shadow2.png"
+  },
+  "stitches_cherry_wall_embroidery_west_shadow": {
+    "regular_sprite_name": "stitches_cherry_wall_embroidery_west",
+    "sprite": "images/cherry/wallhoop/floral/westshadow.png"
+  },
+  "stitches_cherry_wall_embroidery_east_shadow": {
+    "regular_sprite_name": "stitches_cherry_wall_embroidery_east",
+    "sprite": "images/cherry/wallhoop/bug/eastshadow.png"
+  },
+  "stitches_cherry_wall_embroidery_north_shadow": {
+    "regular_sprite_name": "stitches_cherry_wall_embroidery_north",
+    "sprite": "images/cherry/wallhoop/bug/northshadow.png"
+  },
+  "stitches_cherry_wall_embroidery_south_shadow": {
+    "regular_sprite_name": "stitches_cherry_wall_embroidery_south",
+    "sprite": "images/cherry/wallhoop/floral/southshadow.png"
+  },
+  "stitches_oak_button_stool_west_shadow": {
+    "regular_sprite_name": "stitches_oak_button_stool_west",
+    "sprite": "images/oak/buttonchair/shadow.png"
+  },
+  "stitches_oak_button_stool_east_shadow": {
+    "regular_sprite_name": "stitches_oak_button_stool_east",
+    "sprite": "images/oak/buttonchair/shadow.png"
+  },
+  "stitches_oak_button_stool_north_shadow": {
+    "regular_sprite_name": "stitches_oak_button_stool_north",
+    "sprite": "images/oak/buttonchair/shadow.png"
+  },
+  "stitches_oak_button_stool_south_shadow": {
+    "regular_sprite_name": "stitches_oak_button_stool_south",
+    "sprite": "images/oak/buttonchair/shadow.png"
+  },
+  "stitches_oak_couch_west_shadow": {
+    "regular_sprite_name": "stitches_oak_couch_west",
+    "sprite": "images/oak/couch/hshadow.png"
+  },
+  "stitches_oak_couch_east_shadow": {
+    "regular_sprite_name": "stitches_oak_couch_east",
+    "sprite": "images/oak/buttonchair/shadow.png"
+  },
+  "stitches_oak_couch_north_shadow": {
+    "regular_sprite_name": "stitches_oak_couch_north",
+    "sprite": "images/oak/couch/vshadow.png"
+  },
+  "stitches_oak_couch_south_shadow": {
+    "regular_sprite_name": "stitches_oak_couch_south",
+    "sprite": "images/oak/couch/vshadow.png"
+  },
+  "stitches_oak_embroidery_hoop_west_shadow": {
+    "regular_sprite_name": "stitches_oak_embroidery_hoop_west",
+    "sprite": "images/oak/embroideryhoop/shadow.png"
+  },
+  "stitches_oak_embroidery_hoop_east_shadow": {
+    "regular_sprite_name": "stitches_oak_embroidery_hoop_east",
+    "sprite": "images/oak/embroideryhoop/shadow.png"
+  },
+  "stitches_oak_embroidery_hoop_north_shadow": {
+    "regular_sprite_name": "stitches_oak_embroidery_hoop_north",
+    "sprite": "images/oak/embroideryhoop/shadow.png"
+  },
+  "stitches_oak_embroidery_hoop_south_shadow": {
+    "regular_sprite_name": "stitches_oak_embroidery_hoop_south",
+    "sprite": "images/oak/embroideryhoop/shadow.png"
+  },
+  "stitches_oak_woven_storage_opened_shadow": {
+    "regular_sprite_name": "stitches_oak_woven_storage_opened",
+    "sprite": "images/oak/knitstorage/closed.png"
+  },
+  "stitches_oak_woven_storage_closed_shadow": {
+    "regular_sprite_name": "stitches_oak_woven_storage_closed",
+    "sprite": "images/oak/knitstorage/closed.png"
+  },
+  "stitches_oak_woven_storage_bounce_shadow": {
+    "regular_sprite_name": "stitches_oak_woven_storage_bounce",
+    "sprite": "images/oak/knitstorage/closed.png"
+  },
+  "stitches_oak_woven_storage_opening_shadow": {
+    "regular_sprite_name": "stitches_oak_woven_storage_opening",
+    "sprite": "images/oak/knitstorage/closed.png"
+  },
+  "stitches_oak_needles_west_shadow": {
+    "regular_sprite_name": "stitches_oak_needles_west",
+    "sprite": "images/oak/knittingneedles/westshadow.png"
+  },
+  "stitches_oak_needles_east_shadow": {
+    "regular_sprite_name": "stitches_oak_needles_east",
+    "sprite": "images/oak/knittingneedles/eastshadow.png"
+  },
+  "stitches_oak_needles_north_shadow": {
+    "regular_sprite_name": "stitches_oak_needles_north",
+    "sprite": "images/oak/knittingneedles/northshadow.png"
+  },
+  "stitches_oak_needles_south_shadow": {
+    "regular_sprite_name": "stitches_oak_needles_south",
+    "sprite": "images/oak/knittingneedles/southshadow.png"
+  },
+  "stitches_oak_sewingbobbin_west_shadow": {
+    "regular_sprite_name": "stitches_oak_sewingbobbin_west",
+    "sprite": "images/oak/sewingbobbin/shadow.png"
+  },
+  "stitches_oak_sewingbobbin_east_shadow": {
+    "regular_sprite_name": "stitches_oak_sewingbobbin_east",
+    "sprite": "images/oak/sewingbobbin/shadow.png"
+  },
+  "stitches_oak_sewingbobbin_north_shadow": {
+    "regular_sprite_name": "stitches_oak_sewingbobbin_north",
+    "sprite": "images/oak/sewingbobbin/shadow.png"
+  },
+  "stitches_oak_sewingbobbin_south_shadow": {
+    "regular_sprite_name": "stitches_oak_sewingbobbin_south",
+    "sprite": "images/oak/sewingbobbin/shadow.png"
+  },
+  "stitches_oak_threadshelf_west_shadow": {
+    "regular_sprite_name": "stitches_oak_threadshelf_west",
+    "sprite": "images/oak/sewingcupboard/shadow.png"
+  },
+  "stitches_oak_threadshelf_east_shadow": {
+    "regular_sprite_name": "stitches_oak_threadshelf_east",
+    "sprite": "images/oak/sewingcupboard/shadow.png"
+  },
+  "stitches_oak_threadshelf_north_shadow": {
+    "regular_sprite_name": "stitches_oak_threadshelf_north",
+    "sprite": "images/oak/sewingcupboard/shadow.png"
+  },
+  "stitches_oak_threadshelf_south_shadow": {
+    "regular_sprite_name": "stitches_oak_threadshelf_south",
+    "sprite": "images/oak/sewingcupboard/shadow.png"
+  },
+  "stitches_oak_spool_table_west_shadow": {
+    "regular_sprite_name": "stitches_oak_spool_table_west",
+    "sprite": "images/oak/spool/shadow.png"
+  },
+  "stitches_oak_spool_table_east_shadow": {
+    "regular_sprite_name": "stitches_oak_spool_table_east",
+    "sprite": "images/oak/spool/shadow.png"
+  },
+  "stitches_oak_spool_table_north_shadow": {
+    "regular_sprite_name": "stitches_oak_spool_table_north",
+    "sprite": "images/oak/spool/shadow.png"
+  },
+  "stitches_oak_spool_table_south_shadow": {
+    "regular_sprite_name": "stitches_oak_spool_table_south",
+    "sprite": "images/oak/spool/shadow.png"
+  },
+  "stitches_oak_standing_threads_west_shadow": {
+    "regular_sprite_name": "stitches_oak_standing_threads_west",
+    "sprite": "images/oak/standing_thread/shadow2.png"
+  },
+  "stitches_oak_standing_threads_east_shadow": {
+    "regular_sprite_name": "stitches_oak_standing_threads_east",
+    "sprite": "images/oak/standing_thread/shadow.png"
+  },
+  "stitches_oak_standing_threads_north_shadow": {
+    "regular_sprite_name": "stitches_oak_standing_threads_north",
+    "sprite": "images/oak/standing_thread/shadow2.png"
+  },
+  "stitches_oak_standing_threads_south_shadow": {
+    "regular_sprite_name": "stitches_oak_standing_threads_south",
+    "sprite": "images/oak/standing_thread/shadow.png"
+  },
+  "stitches_oak_long_table_west_shadow": {
+    "regular_sprite_name": "stitches_oak_long_table_west",
+    "sprite": "images/oak/table/shadow.png"
+  },
+  "stitches_oak_long_table_east_shadow": {
+    "regular_sprite_name": "stitches_oak_long_table_east",
+    "sprite": "images/oak/table/shadow.png"
+  },
+  "stitches_oak_long_table_north_shadow": {
+    "regular_sprite_name": "stitches_oak_long_table_north",
+    "sprite": "images/oak/table/shadow2.png"
+  },
+  "stitches_oak_long_table_south_shadow": {
+    "regular_sprite_name": "stitches_oak_long_table_south",
+    "sprite": "images/oak/table/shadow2.png"
+  },
+  "stitches_oak_wall_embroidery_west_shadow": {
+    "regular_sprite_name": "stitches_oak_wall_embroidery_west",
+    "sprite": "images/oak/wallhoop/floral/westshadow.png"
+  },
+  "stitches_oak_wall_embroidery_east_shadow": {
+    "regular_sprite_name": "stitches_oak_wall_embroidery_east",
+    "sprite": "images/oak/wallhoop/bug/eastshadow.png"
+  },
+  "stitches_oak_wall_embroidery_north_shadow": {
+    "regular_sprite_name": "stitches_oak_wall_embroidery_north",
+    "sprite": "images/oak/wallhoop/bug/northshadow.png"
+  },
+  "stitches_oak_wall_embroidery_south_shadow": {
+    "regular_sprite_name": "stitches_oak_wall_embroidery_south",
+    "sprite": "images/oak/wallhoop/floral/southshadow.png"
+  },
+  "stitches_walnut_button_stool_west_shadow": {
+    "regular_sprite_name": "stitches_walnut_button_stool_west",
+    "sprite": "images/walnut/buttonchair/shadow.png"
+  },
+  "stitches_walnut_button_stool_east_shadow": {
+    "regular_sprite_name": "stitches_walnut_button_stool_east",
+    "sprite": "images/walnut/buttonchair/shadow.png"
+  },
+  "stitches_walnut_button_stool_north_shadow": {
+    "regular_sprite_name": "stitches_walnut_button_stool_north",
+    "sprite": "images/walnut/buttonchair/shadow.png"
+  },
+  "stitches_walnut_button_stool_south_shadow": {
+    "regular_sprite_name": "stitches_walnut_button_stool_south",
+    "sprite": "images/walnut/buttonchair/shadow.png"
+  },
+  "stitches_walnut_couch_west_shadow": {
+    "regular_sprite_name": "stitches_walnut_couch_west",
+    "sprite": "images/walnut/couch/hshadow.png"
+  },
+  "stitches_walnut_couch_east_shadow": {
+    "regular_sprite_name": "stitches_walnut_couch_east",
+    "sprite": "images/walnut/buttonchair/shadow.png"
+  },
+  "stitches_walnut_couch_north_shadow": {
+    "regular_sprite_name": "stitches_walnut_couch_north",
+    "sprite": "images/walnut/couch/vshadow.png"
+  },
+  "stitches_walnut_couch_south_shadow": {
+    "regular_sprite_name": "stitches_walnut_couch_south",
+    "sprite": "images/walnut/couch/vshadow.png"
+  },
+  "stitches_walnut_embroidery_hoop_west_shadow": {
+    "regular_sprite_name": "stitches_walnut_embroidery_hoop_west",
+    "sprite": "images/walnut/embroideryhoop/shadow.png"
+  },
+  "stitches_walnut_embroidery_hoop_east_shadow": {
+    "regular_sprite_name": "stitches_walnut_embroidery_hoop_east",
+    "sprite": "images/walnut/embroideryhoop/shadow.png"
+  },
+  "stitches_walnut_embroidery_hoop_north_shadow": {
+    "regular_sprite_name": "stitches_walnut_embroidery_hoop_north",
+    "sprite": "images/walnut/embroideryhoop/shadow.png"
+  },
+  "stitches_walnut_embroidery_hoop_south_shadow": {
+    "regular_sprite_name": "stitches_walnut_embroidery_hoop_south",
+    "sprite": "images/walnut/embroideryhoop/shadow.png"
+  },
+  "stitches_walnut_woven_storage_opened_shadow": {
+    "regular_sprite_name": "stitches_walnut_woven_storage_opened",
+    "sprite": "images/walnut/knitstorage/closed.png"
+  },
+  "stitches_walnut_woven_storage_closed_shadow": {
+    "regular_sprite_name": "stitches_walnut_woven_storage_closed",
+    "sprite": "images/walnut/knitstorage/closed.png"
+  },
+  "stitches_walnut_woven_storage_bounce_shadow": {
+    "regular_sprite_name": "stitches_walnut_woven_storage_bounce",
+    "sprite": "images/walnut/knitstorage/closed.png"
+  },
+  "stitches_walnut_woven_storage_opening_shadow": {
+    "regular_sprite_name": "stitches_walnut_woven_storage_opening",
+    "sprite": "images/walnut/knitstorage/closed.png"
+  },
+  "stitches_walnut_needles_west_shadow": {
+    "regular_sprite_name": "stitches_walnut_needles_west",
+    "sprite": "images/walnut/knittingneedles/westshadow.png"
+  },
+  "stitches_walnut_needles_east_shadow": {
+    "regular_sprite_name": "stitches_walnut_needles_east",
+    "sprite": "images/walnut/knittingneedles/eastshadow.png"
+  },
+  "stitches_walnut_needles_north_shadow": {
+    "regular_sprite_name": "stitches_walnut_needles_north",
+    "sprite": "images/walnut/knittingneedles/northshadow.png"
+  },
+  "stitches_walnut_needles_south_shadow": {
+    "regular_sprite_name": "stitches_walnut_needles_south",
+    "sprite": "images/walnut/knittingneedles/southshadow.png"
+  },
+  "stitches_walnut_sewingbobbin_west_shadow": {
+    "regular_sprite_name": "stitches_walnut_sewingbobbin_west",
+    "sprite": "images/walnut/sewingbobbin/shadow.png"
+  },
+  "stitches_walnut_sewingbobbin_east_shadow": {
+    "regular_sprite_name": "stitches_walnut_sewingbobbin_east",
+    "sprite": "images/walnut/sewingbobbin/shadow.png"
+  },
+  "stitches_walnut_sewingbobbin_north_shadow": {
+    "regular_sprite_name": "stitches_walnut_sewingbobbin_north",
+    "sprite": "images/walnut/sewingbobbin/shadow.png"
+  },
+  "stitches_walnut_sewingbobbin_south_shadow": {
+    "regular_sprite_name": "stitches_walnut_sewingbobbin_south",
+    "sprite": "images/walnut/sewingbobbin/shadow.png"
+  },
+  "stitches_walnut_threadshelf_west_shadow": {
+    "regular_sprite_name": "stitches_walnut_threadshelf_west",
+    "sprite": "images/walnut/sewingcupboard/shadow.png"
+  },
+  "stitches_walnut_threadshelf_east_shadow": {
+    "regular_sprite_name": "stitches_walnut_threadshelf_east",
+    "sprite": "images/walnut/sewingcupboard/shadow.png"
+  },
+  "stitches_walnut_threadshelf_north_shadow": {
+    "regular_sprite_name": "stitches_walnut_threadshelf_north",
+    "sprite": "images/walnut/sewingcupboard/shadow.png"
+  },
+  "stitches_walnut_threadshelf_south_shadow": {
+    "regular_sprite_name": "stitches_walnut_threadshelf_south",
+    "sprite": "images/walnut/sewingcupboard/shadow.png"
+  },
+  "stitches_walnut_spool_table_west_shadow": {
+    "regular_sprite_name": "stitches_walnut_spool_table_west",
+    "sprite": "images/walnut/spool/shadow.png"
+  },
+  "stitches_walnut_spool_table_east_shadow": {
+    "regular_sprite_name": "stitches_walnut_spool_table_east",
+    "sprite": "images/walnut/spool/shadow.png"
+  },
+  "stitches_walnut_spool_table_north_shadow": {
+    "regular_sprite_name": "stitches_walnut_spool_table_north",
+    "sprite": "images/walnut/spool/shadow.png"
+  },
+  "stitches_walnut_spool_table_south_shadow": {
+    "regular_sprite_name": "stitches_walnut_spool_table_south",
+    "sprite": "images/walnut/spool/shadow.png"
+  },
+  "stitches_walnut_standing_threads_west_shadow": {
+    "regular_sprite_name": "stitches_walnut_standing_threads_west",
+    "sprite": "images/walnut/standing_thread/shadow2.png"
+  },
+  "stitches_walnut_standing_threads_east_shadow": {
+    "regular_sprite_name": "stitches_walnut_standing_threads_east",
+    "sprite": "images/walnut/standing_thread/shadow.png"
+  },
+  "stitches_walnut_standing_threads_north_shadow": {
+    "regular_sprite_name": "stitches_walnut_standing_threads_north",
+    "sprite": "images/walnut/standing_thread/shadow2.png"
+  },
+  "stitches_walnut_standing_threads_south_shadow": {
+    "regular_sprite_name": "stitches_walnut_standing_threads_south",
+    "sprite": "images/walnut/standing_thread/shadow.png"
+  },
+  "stitches_walnut_long_table_west_shadow": {
+    "regular_sprite_name": "stitches_walnut_long_table_west",
+    "sprite": "images/walnut/table/shadow.png"
+  },
+  "stitches_walnut_long_table_east_shadow": {
+    "regular_sprite_name": "stitches_walnut_long_table_east",
+    "sprite": "images/walnut/table/shadow.png"
+  },
+  "stitches_walnut_long_table_north_shadow": {
+    "regular_sprite_name": "stitches_walnut_long_table_north",
+    "sprite": "images/walnut/table/shadow2.png"
+  },
+  "stitches_walnut_long_table_south_shadow": {
+    "regular_sprite_name": "stitches_walnut_long_table_south",
+    "sprite": "images/walnut/table/shadow2.png"
+  },
+  "stitches_walnut_wall_embroidery_west_shadow": {
+    "regular_sprite_name": "stitches_walnut_wall_embroidery_west",
+    "sprite": "images/walnut/wallhoop/floral/westshadow.png"
+  },
+  "stitches_walnut_wall_embroidery_east_shadow": {
+    "regular_sprite_name": "stitches_walnut_wall_embroidery_east",
+    "sprite": "images/walnut/wallhoop/bug/eastshadow.png"
+  },
+  "stitches_walnut_wall_embroidery_north_shadow": {
+    "regular_sprite_name": "stitches_walnut_wall_embroidery_north",
+    "sprite": "images/walnut/wallhoop/bug/northshadow.png"
+  },
+  "stitches_walnut_wall_embroidery_south_shadow": {
+    "regular_sprite_name": "stitches_walnut_wall_embroidery_south",
+    "sprite": "images/walnut/wallhoop/floral/southshadow.png"
+  },
+  "stitches_cookie_tin_storage_opened_shadow": {
+    "regular_sprite_name": "stitches_cookie_tin_storage_opened",
+    "sprite": "images/definitely_a_cookie_tin/closed.png"
+  },
+  "stitches_cookie_tin_storage_closed_shadow": {
+    "regular_sprite_name": "stitches_cookie_tin_storage_closed",
+    "sprite": "images/definitely_a_cookie_tin/closed.png"
+  },
+  "stitches_cookie_tin_storage_bounce_shadow": {
+    "regular_sprite_name": "stitches_cookie_tin_storage_bounce",
+    "sprite": "images/definitely_a_cookie_tin/bounceshadow",
+    "is_animated": true
+  },
+  "stitches_cookie_tin_storage_opening_shadow": {
+    "regular_sprite_name": "stitches_cookie_tin_storage_opening",
+    "sprite": "images/definitely_a_cookie_tin/openingshadow",
+    "is_animated": true
+  },
+  "stitches_measuring_tape_west_shadow": {
+    "regular_sprite_name": "stitches_measuring_tape_west",
+    "sprite": "images/measuringtape/shadow2.png"
+  },
+  "stitches_measuring_tape_east_shadow": {
+    "regular_sprite_name": "stitches_measuring_tape_east",
+    "sprite": "images/measuringtape/shadow.png"
+  },
+  "stitches_measuring_tape_north_shadow": {
+    "regular_sprite_name": "stitches_measuring_tape_north",
+    "sprite": "images/measuringtape/shadow2.png"
+  },
+  "stitches_measuring_tape_south_shadow": {
+    "regular_sprite_name": "stitches_measuring_tape_south",
+    "sprite": "images/measuringtape/shadow.png"
+  },
+  "stitches_scissorsors_west_shadow": {
+    "regular_sprite_name": "stitches_scissorsors_west",
+    "sprite": "images/scissors/westshadow.png"
+  },
+  "stitches_scissorsors_east_shadow": {
+    "regular_sprite_name": "stitches_scissorsors_east",
+    "sprite": "images/scissors/eastshadow.png"
+  },
+  "stitches_scissorsors_north_shadow": {
+    "regular_sprite_name": "stitches_scissorsors_north",
+    "sprite": "images/scissors/northshadow.png"
+  },
+  "stitches_scissorsors_south_shadow": {
+    "regular_sprite_name": "stitches_scissorsors_south",
+    "sprite": "images/scissors/southshadow.png"
+  },
+  "stitches_sewingmachine_west_shadow": {
+    "regular_sprite_name": "stitches_sewingmachine_west",
+    "sprite": "images/sewingmachine/shadow.png"
+  },
+  "stitches_sewingmachine_east_shadow": {
+    "regular_sprite_name": "stitches_sewingmachine_east",
+    "sprite": "images/sewingmachine/shadow.png"
+  },
+  "stitches_sewingmachine_north_shadow": {
+    "regular_sprite_name": "stitches_sewingmachine_north",
+    "sprite": "images/sewingmachine/shadow.png"
+  },
+  "stitches_sewingmachine_south_shadow": {
+    "regular_sprite_name": "stitches_sewingmachine_south",
+    "sprite": "images/sewingmachine/shadow.png"
+  }
+}
