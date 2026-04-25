@@ -1155,7 +1155,7 @@
     "OriginY": "77"
   },
   "mushroom_tree_pine1_spring_stage1_shadow": {
-    "Location": "images/shadow/mushroom_1.png",
+    "Location": "images/shadow/mushroom_2.png",
     "OriginX": "32",
     "OriginY": "77"
   },
@@ -1215,7 +1215,7 @@
     "OriginY": "77"
   },
   "mushroom_tree_pine1_winter_stage1_shadow": {
-    "Location": "images/shadow/mushroom_1.png",
+    "Location": "images/shadow/mushroom_2.png",
     "OriginX": "32",
     "OriginY": "77"
   },
@@ -1280,7 +1280,7 @@
     "OriginY": "77"
   },
   "mushroom_tree_pine2_spring_stage1_shadow": {
-    "Location": "images/shadow/mushroom_1.png",
+    "Location": "images/shadow/mushroom_2.png",
     "OriginX": "32",
     "OriginY": "77"
   },
@@ -1340,7 +1340,7 @@
     "OriginY": "77"
   },
   "mushroom_tree_pine2_winter_stage1_shadow": {
-    "Location": "images/shadow/mushroom_1.png",
+    "Location": "images/shadow/mushroom_2.png",
     "OriginX": "32",
     "OriginY": "77"
   },
@@ -1405,7 +1405,7 @@
     "OriginY": "77"
   },
   "mushroom_tree_pine3_spring_stage1_shadow": {
-    "Location": "images/shadow/mushroom_1.png",
+    "Location": "images/shadow/mushroom_2.png",
     "OriginX": "32",
     "OriginY": "77"
   },
@@ -1465,7 +1465,7 @@
     "OriginY": "77"
   },
   "mushroom_tree_pine3_winter_stage1_shadow": {
-    "Location": "images/shadow/mushroom_1.png",
+    "Location": "images/shadow/mushroom_2.png",
     "OriginX": "32",
     "OriginY": "77"
   },

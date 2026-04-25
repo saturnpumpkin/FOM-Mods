@@ -75,7 +75,7 @@
   },
   "sf_earth_mushroom_sapling": {
     "overwrites_other_mod": false,
-    "name": "Earth Mushroom Tree Sapling V1",
+    "name": "Earthshroom Tree Sapling",
     "description": "A genetically modified earth mushroom that loves the light I wonder how big it could grow?",
     "icon_sprite": "earth_mushroom_sapling_ui",
     "mini_sprite": "earth_mushroom_sapling_ui",
@@ -215,8 +215,8 @@
   },
   "sf_pine_mushroom_sapling1": {
     "overwrites_other_mod": false,
-    "name": "Pine Mushroom Tree Sapling V1",
-    "description": "A genetically modified pine mushroom that loves the light I wonder how big it could grow?",
+    "name": "Pineshroom Tree Sapling V1",
+    "description": "A genetically modified pineshroom that loves the light I wonder how big it could grow?",
     "icon_sprite": "pine_mushroom_sapling_ui1",
     "mini_sprite": "pine_mushroom_sapling_ui1",
     "sapling": "pine_mushroom_tree1",
@@ -243,8 +243,8 @@
   },
   "sf_pine_mushroom_sapling2": {
     "overwrites_other_mod": false,
-    "name": "Pine Mushroom Tree Sapling V2",
-    "description": "A genetically modified pine mushroom that loves the light I wonder how big it could grow?",
+    "name": "Pineshroom Tree Sapling V2",
+    "description": "A genetically modified pineshroom that loves the light I wonder how big it could grow?",
     "icon_sprite": "pine_mushroom_sapling_ui2",
     "mini_sprite": "pine_mushroom_sapling_ui2",
     "sapling": "pine_mushroom_tree2",
@@ -271,8 +271,8 @@
   },
   "sf_pine_mushroom_sapling3": {
     "overwrites_other_mod": false,
-    "name": "Pine Mushroom Tree Sapling V3",
-    "description": "A genetically modified pine mushroom that loves the light I wonder how big it could grow?",
+    "name": "Pineshroom Tree Sapling V3",
+    "description": "A genetically modified pineshroom that loves the light I wonder how big it could grow?",
     "icon_sprite": "pine_mushroom_sapling_ui3",
     "mini_sprite": "pine_mushroom_sapling_ui3",
     "sapling": "pine_mushroom_tree3",
@@ -328,7 +328,7 @@
   "sf_red_mushroom_sapling": {
     "overwrites_other_mod": false,
     "name": "Red Toadstool Sapling",
-    "description": "A genetically modified red toadstool tree",
+    "description": "A genetically modified red toadstool that loves the light I wonder how big it could grow?",
     "icon_sprite": "red_mushroom_sapling_ui",
     "mini_sprite": "red_mushroom_sapling_ui",
     "sapling": "red_mushroom_tree",
@@ -356,7 +356,7 @@
   "sf_spirit_mushroom_sapling": {
     "overwrites_other_mod": false,
     "name": "Spirit Mushroom Tree Sapling",
-    "description": "A spirit mushroom tree",
+    "description": "A genetically modified spirit mushroom that loves the light I wonder how big it could grow?",
     "icon_sprite": "spirit_mushroom_sapling_ui",
     "mini_sprite": "spirit_mushroom_sapling_ui",
     "sapling": "spirit_mushroom_tree",

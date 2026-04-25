@@ -413,7 +413,7 @@
   },
   "mushroom_tree_pine1_spring_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_pine1_spring_stage1",
-    "sprite": "images/shadow/mushroom_1.png"
+    "sprite": "images/shadow/mushroom_2.png"
   },
   "mushroom_tree_pine1_spring_stage2_shadow": {
     "regular_sprite_name": "mushroom_tree_pine1_spring_stage2",
@@ -433,7 +433,7 @@
   },
   "mushroom_tree_pine1_winter_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_pine1_winter_stage1",
-    "sprite": "images/shadow/mushroom_1.png"
+    "sprite": "images/shadow/mushroom_2.png"
   },
   "mushroom_tree_pine1_winter_stage2_shadow": {
     "regular_sprite_name": "mushroom_tree_pine1_winter_stage2",
@@ -453,7 +453,7 @@
   },
   "mushroom_tree_pine2_spring_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_pine2_spring_stage1",
-    "sprite": "images/shadow/mushroom_1.png"
+    "sprite": "images/shadow/mushroom_2.png"
   },
   "mushroom_tree_pine2_spring_stage2_shadow": {
     "regular_sprite_name": "mushroom_tree_pine2_spring_stage2",
@@ -473,7 +473,7 @@
   },
   "mushroom_tree_pine2_winter_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_pine2_winter_stage1",
-    "sprite": "images/shadow/mushroom_1.png"
+    "sprite": "images/shadow/mushroom_2.png"
   },
   "mushroom_tree_pine2_winter_stage2_shadow": {
     "regular_sprite_name": "mushroom_tree_pine2_winter_stage2",
@@ -493,7 +493,7 @@
   },
   "mushroom_tree_pine3_spring_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_pine3_spring_stage1",
-    "sprite": "images/shadow/mushroom_1.png"
+    "sprite": "images/shadow/mushroom_2.png"
   },
   "mushroom_tree_pine3_spring_stage2_shadow": {
     "regular_sprite_name": "mushroom_tree_pine3_spring_stage2",
@@ -513,7 +513,7 @@
   },
   "mushroom_tree_pine3_winter_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_pine3_winter_stage1",
-    "sprite": "images/shadow/mushroom_1.png"
+    "sprite": "images/shadow/mushroom_2.png"
   },
   "mushroom_tree_pine3_winter_stage2_shadow": {
     "regular_sprite_name": "mushroom_tree_pine3_winter_stage2",
