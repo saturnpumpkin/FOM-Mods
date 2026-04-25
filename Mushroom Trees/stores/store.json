@@ -11,12 +11,7 @@
       "category": "mushroomoom"
     },
     {
-      "item": "sf_earth_mushroom_sapling1",
-      "store": "general",
-      "category": "mushroomoom"
-    },
-    {
-      "item": "sf_earth_mushroom_sapling2",
+      "item": "sf_earth_mushroom_sapling",
       "store": "general",
       "category": "mushroomoom"
     },

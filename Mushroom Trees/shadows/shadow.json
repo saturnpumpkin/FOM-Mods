@@ -79,9 +79,9 @@
     "regular_sprite_name": "mushroom_tree_cave_winter_stage5",
     "sprite": "images/shadow/mushroom_5.png"
   },
-  "mushroom_stump_earth1_spring_stage0_shadow": {
-    "regular_sprite_name": "mushroom_stump_earth1_spring_stage0",
-    "sprite": "images/shadow/mushroom_0.png"
+  "mushroom_stump_earth_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stump_earth_spring_stage0",
+    "sprite": "images/shadow/mushroom_2.png"
   },
   "mushroom_tree_earth1_spring_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_earth1_spring_stage1",
@@ -90,6 +90,10 @@
   "mushroom_tree_earth1_spring_stage2_shadow": {
     "regular_sprite_name": "mushroom_tree_earth1_spring_stage2",
     "sprite": "images/shadow/mushroom_2.png"
+  },
+  "mushroom_tree_earth1_spring_stage3_shadow": {
+    "regular_sprite_name": "mushroom_tree_earth1_spring_stage3",
+    "sprite": "images/shadow/mushroom_3.png"
   },
   "mushroom_tree_earth1_spring_stage4_shadow": {
     "regular_sprite_name": "mushroom_tree_earth1_spring_stage4",
@@ -111,6 +115,10 @@
     "regular_sprite_name": "mushroom_tree_earth1_winter_stage2",
     "sprite": "images/shadow/mushroom_2.png"
   },
+  "mushroom_tree_earth1_winter_stage3_shadow": {
+    "regular_sprite_name": "mushroom_tree_earth1_winter_stage3",
+    "sprite": "images/shadow/mushroom_3.png"
+  },
   "mushroom_tree_earth1_winter_stage4_shadow": {
     "regular_sprite_name": "mushroom_tree_earth1_winter_stage4",
     "sprite": "images/shadow/mushroom_4.png"
@@ -118,10 +126,6 @@
   "mushroom_tree_earth1_winter_stage5_shadow": {
     "regular_sprite_name": "mushroom_tree_earth1_winter_stage5",
     "sprite": "images/shadow/mushroom_5.png"
-  },
-  "mushroom_stump_earth2_spring_stage0_shadow": {
-    "regular_sprite_name": "mushroom_stump_earth2_spring_stage0",
-    "sprite": "images/shadow/mushroom_0.png"
   },
   "mushroom_tree_earth2_spring_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_earth2_spring_stage1",
@@ -150,6 +154,10 @@
   "mushroom_tree_earth2_winter_stage2_shadow": {
     "regular_sprite_name": "mushroom_tree_earth2_winter_stage2",
     "sprite": "images/shadow/mushroom_2.png"
+  },
+  "mushroom_tree_earth2_spring_stage3_shadow": {
+    "regular_sprite_name": "mushroom_tree_earth2_spring_stage3",
+    "sprite": "images/shadow/mushroom_3.png"
   },
   "mushroom_tree_earth2_winter_stage4_shadow": {
     "regular_sprite_name": "mushroom_tree_earth2_winter_stage4",
@@ -239,9 +247,9 @@
     "regular_sprite_name": "mushroom_tree_mines_winter_stage5",
     "sprite": "images/shadow/mushroom_5.png"
   },
-  "mushroom_stump_morel1_spring_stage0_shadow": {
-    "regular_sprite_name": "mushroom_stump_morel1_spring_stage0",
-    "sprite": "images/shadow/mushroom_0.png"
+  "mushroom_stump_morel_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stump_morel_spring_stage0",
+    "sprite": "images/shadow/mushroom_2.png"
   },
   "mushroom_tree_morel1_spring_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_morel1_spring_stage1",
@@ -259,8 +267,8 @@
     "regular_sprite_name": "mushroom_tree_morel1_spring_stage5",
     "sprite": "images/shadow/mushroom_5.png"
   },
-  "mushroom_stump_morel1_winter_stage0_shadow": {
-    "regular_sprite_name": "mushroom_stump_morel1_winter_stage0",
+  "mushroom_stump_morel_winter_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stump_morel_winter_stage0",
     "sprite": "images/shadow/mushroom_0.png"
   },
   "mushroom_tree_morel1_winter_stage1_shadow": {
@@ -319,8 +327,8 @@
     "regular_sprite_name": "mushroom_tree_morel2_winter_stage5",
     "sprite": "images/shadow/mushroom_5.png"
   },
-  "mushroom_stump_oyster1_spring_stage0_shadow": {
-    "regular_sprite_name": "mushroom_stump_oyster1_spring_stage0",
+  "mushroom_stump_oyster_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stump_oyster_spring_stage0",
     "sprite": "images/shadow/mushroom_0.png"
   },
   "mushroom_tree_oyster1_spring_stage1_shadow": {
@@ -401,7 +409,7 @@
   },
   "mushroom_stump_pine1_spring_stage0_shadow": {
     "regular_sprite_name": "mushroom_stump_pine1_spring_stage0",
-    "sprite": "images/shadow/mushroom_0.png"
+    "sprite": "images/shadow/mushroom_2.png"
   },
   "mushroom_tree_pine1_spring_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_pine1_spring_stage1",
@@ -441,7 +449,7 @@
   },
   "mushroom_stump_pine2_spring_stage0_shadow": {
     "regular_sprite_name": "mushroom_stump_pine2_spring_stage0",
-    "sprite": "images/shadow/mushroom_0.png"
+    "sprite": "images/shadow/mushroom_2.png"
   },
   "mushroom_tree_pine2_spring_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_pine2_spring_stage1",
@@ -481,7 +489,7 @@
   },
   "mushroom_stump_pine3_spring_stage0_shadow": {
     "regular_sprite_name": "mushroom_stump_pine3_spring_stage0",
-    "sprite": "images/shadow/mushroom_0.png"
+    "sprite": "images/shadow/mushroom_2.png"
   },
   "mushroom_tree_pine3_spring_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_pine3_spring_stage1",
@@ -519,9 +527,9 @@
     "regular_sprite_name": "mushroom_tree_pine3_winter_stage5",
     "sprite": "images/shadow/mushroom_5.png"
   },
-  "mushroom_stump_purple1_spring_stage0_shadow": {
-    "regular_sprite_name": "mushroom_stump_purple1_spring_stage0",
-    "sprite": "images/shadow/mushroom_0.png"
+  "mushroom_stump_purple_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stump_purple_spring_stage0",
+    "sprite": "images/shadow/mushroom_2.png"
   },
   "mushroom_tree_purple1_spring_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_purple1_spring_stage1",
@@ -599,9 +607,9 @@
     "regular_sprite_name": "mushroom_tree_purple2_winter_stage5",
     "sprite": "images/shadow/mushroom_5.png"
   },
-  "mushroom_stump_red1_spring_stage0_shadow": {
-    "regular_sprite_name": "mushroom_stump_red1_spring_stage0",
-    "sprite": "images/shadow/mushroom_0.png"
+  "mushroom_stump_red_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stump_red_spring_stage0",
+    "sprite": "images/shadow/mushroom_2.png"
   },
   "mushroom_tree_red1_spring_stage1_shadow": {
     "regular_sprite_name": "mushroom_tree_red1_spring_stage1",

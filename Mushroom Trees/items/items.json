@@ -73,41 +73,13 @@
       "bin": 10
     }
   },
-  "sf_earth_mushroom_sapling1": {
+  "sf_earth_mushroom_sapling": {
     "overwrites_other_mod": false,
     "name": "Earth Mushroom Tree Sapling V1",
     "description": "A genetically modified earth mushroom that loves the light I wonder how big it could grow?",
-    "icon_sprite": "earth_mushroom_sapling_ui1",
-    "mini_sprite": "earth_mushroom_sapling_ui1",
-    "sapling": "earth_mushroom_tree1",
-    "tags": [
-      "seed",
-      "stampingfeet",
-      "mushies",
-      "crop"
-    ],
-    "recipe_is_default": true,
-    "recipe": [
-      {
-        "item": "earthshroom",
-        "count": 1
-      },
-      {
-        "hours": 0,
-        "minutes": 0
-      }
-    ],
-    "value": {
-      "bin": 10
-    }
-  },
-  "sf_earth_mushroom_sapling2": {
-    "overwrites_other_mod": false,
-    "name": "Earth Mushroom Tree Sapling V2",
-    "description": "A genetically modified earth mushroom that loves the light I wonder how big it could grow?",
-    "icon_sprite": "earth_mushroom_sapling_ui2",
-    "mini_sprite": "earth_mushroom_sapling_ui2",
-    "sapling": "earth_mushroom_tree2",
+    "icon_sprite": "earth_mushroom_sapling_ui",
+    "mini_sprite": "earth_mushroom_sapling_ui",
+    "sapling": "earth_mushroom_tree",
     "tags": [
       "seed",
       "stampingfeet",
