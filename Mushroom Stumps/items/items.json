@@ -1,0 +1,190 @@
+﻿
+{
+  "sf_ash_mushroom_trunkling": {
+    "overwrites_other_mod": false,
+    "name": "Ash Mushroom Trunk",
+    "description": "A cut tree trunk that will grow Ash Mushrooms",
+    "crop_object": "ash_mushroom",
+    "mini_sprite": "ash_mushroom_trunkling_ui",
+    "icon_sprite": "ash_mushroom_trunkling_ui",
+    "sow_sprite": "ash_mushroom_trunkling_ui",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mush_trunk"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_cave_mushroom_trunkling": {
+    "overwrites_other_mod": false,
+    "name": "Cave Mushroom Trunk",
+    "description": "A cut tree trunk that will grow Cave Mushrooms",
+    "crop_object": "cave_mushroom",
+    "mini_sprite": "cave_mushroom_trunkling_ui",
+    "icon_sprite": "cave_mushroom_trunkling_ui",
+    "sow_sprite": "cave_mushroom_trunkling_ui",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mush_trunk"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_earth_mushroom_trunkling": {
+    "overwrites_other_mod": false,
+    "name": "Earthshroom Trunk",
+    "description": "A cut tree trunk that will grow Earthshrooms",
+    "crop_object": "earth_mushroom",
+    "mini_sprite": "earth_mushroom_trunkling_ui",
+    "icon_sprite": "earth_mushroom_trunkling_ui",
+    "sow_sprite": "earth_mushroom_trunkling_ui",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mush_trunk"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_glowing_mushroom_trunkling": {
+    "overwrites_other_mod": false,
+    "name": "Glowing Mushroom Trunk",
+    "description": "A cut tree trunk that will grow Glowing Mushrooms",
+    "crop_object": "glowing_mushroom",
+    "mini_sprite": "glowing_mushroom_trunkling_ui",
+    "icon_sprite": "glowing_mushroom_trunkling_ui",
+    "sow_sprite": "glowing_mushroom_trunkling_ui",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mush_trunk"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_mines_mushroom_trunkling": {
+    "overwrites_other_mod": false,
+    "name": "Cave Mushroom Trunk",
+    "description": "A cut tree trunk that will grow Cave Mushrooms",
+    "crop_object": "mines_mushroom",
+    "mini_sprite": "mines_mushroom_trunkling_ui",
+    "icon_sprite": "mines_mushroom_trunkling_ui",
+    "sow_sprite": "mines_mushroom_trunkling_ui",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mush_trunk"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_morel_mushroom_trunkling": {
+    "overwrites_other_mod": false,
+    "name": "Cave Mushroom Trunk",
+    "description": "A cut tree trunk that will grow Cave Mushrooms",
+    "crop_object": "morel_mushroom",
+    "mini_sprite": "morel_mushroom_trunkling_ui",
+    "icon_sprite": "morel_mushroom_trunkling_ui",
+    "sow_sprite": "morel_mushroom_trunkling_ui",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mush_trunk"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_oyster_mushroom_trunkling": {
+    "overwrites_other_mod": false,
+    "name": "Oyster Mushroom Trunk",
+    "description": "A cut tree trunk that will grow Oyster Mushrooms",
+    "crop_object": "oyster_mushroom",
+    "mini_sprite": "oyster_mushroom_trunkling_ui",
+    "icon_sprite": "oyster_mushroom_trunkling_ui",
+    "sow_sprite": "oyster_mushroom_trunkling_ui",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mush_trunk"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_pine_mushroom_trunkling": {
+    "overwrites_other_mod": false,
+    "name": "Cave Mushroom Trunk",
+    "description": "A cut tree trunk that will grow Cave Mushrooms",
+    "crop_object": "pine_mushroom",
+    "mini_sprite": "pine_mushroom_trunkling_ui",
+    "icon_sprite": "pine_mushroom_trunkling_ui",
+    "sow_sprite": "pine_mushroom_trunkling_ui",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mush_trunk"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_purple_mushroom_trunkling": {
+    "overwrites_other_mod": false,
+    "name": "Cave Mushroom Trunk",
+    "description": "A cut tree trunk that will grow Cave Mushrooms",
+    "crop_object": "purple_mushroom",
+    "mini_sprite": "purple_mushroom_trunkling_ui",
+    "icon_sprite": "purple_mushroom_trunkling_ui",
+    "sow_sprite": "purple_mushroom_trunkling_ui",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mush_trunk"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_red_mushroom_trunkling": {
+    "overwrites_other_mod": false,
+    "name": "Cave Mushroom Trunk",
+    "description": "A cut tree trunk that will grow Cave Mushrooms",
+    "crop_object": "red_mushroom",
+    "mini_sprite": "red_mushroom_trunkling_ui",
+    "icon_sprite": "red_mushroom_trunkling_ui",
+    "sow_sprite": "red_mushroom_trunkling_ui",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mush_trunk"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "sf_spirit_mushroom_trunkling": {
+    "overwrites_other_mod": false,
+    "name": "Spirit Mushroom Trunk",
+    "description": "A cut tree trunk that will grow Spirit Mushrooms",
+    "crop_object": "spirit_mushroom",
+    "mini_sprite": "spirit_mushroom_trunkling_ui",
+    "icon_sprite": "spirit_mushroom_trunkling_ui",
+    "sow_sprite": "spirit_mushroom_trunkling_ui",
+    "tags": [
+      "seed",
+      "stampingfeet",
+      "mush_trunk"
+    ],
+    "value": {
+      "bin": 10
+    }
+  }
+}

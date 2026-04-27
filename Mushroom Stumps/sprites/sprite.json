@@ -1,0 +1,501 @@
+{
+  "mushroom_stumpling_ash_spring_stage0": {
+    "Location": "images/ash_mushroom/1/stage_0.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_ash_spring_stage0_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_ash_spring_stage1": {
+    "Location": "images/ash_mushroom/1/stage_1.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_ash_spring_stage1_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_ash_spring_stage2": {
+    "Location": "images/ash_mushroom/1/stage_2.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_ash_spring_stage2_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_ash_spring_stage3": {
+    "Location": "images/ash_mushroom/1/stage_3.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_ash_spring_stage3_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "ash_mushroom_trunkling_ui": {
+    "Location": "images/ash_mushroom/ui.png",
+    "OutlineLocation": "images/ash_mushroom/outline.png",
+    "IsUiSprite": true
+  },
+  "mushroom_stumpling_cave_spring_stage0": {
+    "Location": "images/cave_mushroom/1/stage_0.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_cave_spring_stage0_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_cave_spring_stage1": {
+    "Location": "images/cave_mushroom/1/stage_1.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_cave_spring_stage1_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_cave_spring_stage2": {
+    "Location": "images/cave_mushroom/1/stage_2.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_cave_spring_stage2_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_cave_spring_stage3": {
+    "Location": "images/cave_mushroom/1/stage_3.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_cave_spring_stage3_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "cave_mushroom_trunkling_ui": {
+    "Location": "images/cave_mushroom/ui.png",
+    "OutlineLocation": "images/cave_mushroom/outline.png",
+    "IsUiSprite": true
+  },
+  "mushroom_stumpling_earth_spring_stage0": {
+    "Location": "images/earth_mushroom/1/stage_0.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_earth_spring_stage0_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_earth_spring_stage1": {
+    "Location": "images/earth_mushroom/1/stage_1.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_earth_spring_stage1_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_earth_spring_stage2": {
+    "Location": "images/earth_mushroom/1/stage_2.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_earth_spring_stage2_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_earth_spring_stage3": {
+    "Location": "images/earth_mushroom/1/stage_3.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_earth_spring_stage3_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "earth_mushroom_trunkling_ui": {
+    "Location": "images/earth_mushroom/ui.png",
+    "OutlineLocation": "images/earth_mushroom/outline.png",
+    "IsUiSprite": true
+  },
+  "mushroom_stumpling_glowing_spring_stage0": {
+    "Location": "images/glowing_mushroom/1/stage_0.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_glowing_spring_stage0_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_glowing_spring_stage1": {
+    "Location": "images/glowing_mushroom/1/stage_1.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_glowing_spring_stage1_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_glowing_spring_stage2": {
+    "Location": "images/glowing_mushroom/1/stage_2.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_glowing_spring_stage2_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_glowing_spring_stage3": {
+    "Location": "images/glowing_mushroom/1/stage_3.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_glowing_spring_stage3_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "glowing_mushroom_trunkling_ui": {
+    "Location": "images/glowing_mushroom/ui.png",
+    "OutlineLocation": "images/glowing_mushroom/outline.png",
+    "IsUiSprite": true
+  },
+  "mushroom_stumpling_mines_spring_stage0": {
+    "Location": "images/mines_mushroom/1/stage_0.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_mines_spring_stage0_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_mines_spring_stage1": {
+    "Location": "images/mines_mushroom/1/stage_1.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_mines_spring_stage1_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_mines_spring_stage2": {
+    "Location": "images/mines_mushroom/1/stage_2.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_mines_spring_stage2_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_mines_spring_stage3": {
+    "Location": "images/mines_mushroom/1/stage_3.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_mines_spring_stage3_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mines_mushroom_trunkling_ui": {
+    "Location": "images/mines_mushroom/ui.png",
+    "OutlineLocation": "images/mines_mushroom/outline.png",
+    "IsUiSprite": true
+  },
+  "mushroom_stumpling_morel_spring_stage0": {
+    "Location": "images/morel_mushroom/1/stage_0.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_morel_spring_stage0_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_morel_spring_stage1": {
+    "Location": "images/morel_mushroom/1/stage_1.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_morel_spring_stage1_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_morel_spring_stage2": {
+    "Location": "images/morel_mushroom/1/stage_2.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_morel_spring_stage2_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_morel_spring_stage3": {
+    "Location": "images/morel_mushroom/1/stage_3.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_morel_spring_stage3_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "morel_mushroom_trunkling_ui": {
+    "Location": "images/morel_mushroom/ui.png",
+    "OutlineLocation": "images/morel_mushroom/outline.png",
+    "IsUiSprite": true
+  },
+  "mushroom_stumpling_oyster_spring_stage0": {
+    "Location": "images/oyster_mushroom/1/stage_0.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_oyster_spring_stage0_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_oyster_spring_stage1": {
+    "Location": "images/oyster_mushroom/1/stage_1.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_oyster_spring_stage1_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_oyster_spring_stage2": {
+    "Location": "images/oyster_mushroom/1/stage_2.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_oyster_spring_stage2_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_oyster_spring_stage3": {
+    "Location": "images/oyster_mushroom/1/stage_3.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_oyster_spring_stage3_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "oyster_mushroom_trunkling_ui": {
+    "Location": "images/oyster_mushroom/ui.png",
+    "OutlineLocation": "images/oyster_mushroom/outline.png",
+    "IsUiSprite": true
+  },
+  "mushroom_stumpling_pine_spring_stage0": {
+    "Location": "images/pine_mushroom/1/stage_0.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_pine_spring_stage0_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_pine_spring_stage1": {
+    "Location": "images/pine_mushroom/1/stage_1.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_pine_spring_stage1_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_pine_spring_stage2": {
+    "Location": "images/pine_mushroom/1/stage_2.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_pine_spring_stage2_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_pine_spring_stage3": {
+    "Location": "images/pine_mushroom/1/stage_3.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_pine_spring_stage3_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "pine_mushroom_trunkling_ui": {
+    "Location": "images/pine_mushroom/ui.png",
+    "OutlineLocation": "images/pine_mushroom/outline.png",
+    "IsUiSprite": true
+  },
+  "mushroom_stumpling_purple_spring_stage0": {
+    "Location": "images/purple_mushroom/1/stage_0.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_purple_spring_stage0_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_purple_spring_stage1": {
+    "Location": "images/purple_mushroom/1/stage_1.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_purple_spring_stage1_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_purple_spring_stage2": {
+    "Location": "images/purple_mushroom/1/stage_2.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_purple_spring_stage2_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_purple_spring_stage3": {
+    "Location": "images/purple_mushroom/1/stage_3.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_purple_spring_stage3_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "purple_mushroom_trunkling_ui": {
+    "Location": "images/purple_mushroom/ui.png",
+    "OutlineLocation": "images/purple_mushroom/outline.png",
+    "IsUiSprite": true
+  },
+  "mushroom_stumpling_red_spring_stage0": {
+    "Location": "images/red_mushroom/1/stage_0.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_red_spring_stage0_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_red_spring_stage1": {
+    "Location": "images/red_mushroom/1/stage_1.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_red_spring_stage1_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_red_spring_stage2": {
+    "Location": "images/red_mushroom/1/stage_2.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_red_spring_stage2_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_red_spring_stage3": {
+    "Location": "images/red_mushroom/1/stage_3.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_red_spring_stage3_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "red_mushroom_trunkling_ui": {
+    "Location": "images/red_mushroom/ui.png",
+    "OutlineLocation": "images/red_mushroom/outline.png",
+    "IsUiSprite": true
+  },
+  "mushroom_stumpling_spirit_spring_stage0": {
+    "Location": "images/spirit_mushroom/1/stage_0.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_spirit_spring_stage0_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_spirit_spring_stage1": {
+    "Location": "images/spirit_mushroom/1/stage_1.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_spirit_spring_stage1_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_spirit_spring_stage2": {
+    "Location": "images/spirit_mushroom/1/stage_2.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_spirit_spring_stage2_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_spirit_spring_stage3": {
+    "Location": "images/spirit_mushroom/1/stage_3.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "mushroom_stumpling_spirit_spring_stage3_shadow": {
+    "Location": "images/shadow.png",
+    "OriginX": "16",
+    "OriginY": "30"
+  },
+  "spirit_mushroom_trunkling_ui": {
+    "Location": "images/spirit_mushroom/ui.png",
+    "OutlineLocation": "images/spirit_mushroom/outline.png",
+    "IsUiSprite": true
+  },
+  "trunkoom": {
+    "Location": "images/trunk.png",
+    "IsUiSprite": true
+  }
+}

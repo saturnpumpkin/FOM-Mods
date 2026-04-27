@@ -1,0 +1,178 @@
+{
+  "mushroom_stumpling_ash_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_ash_spring_stage0",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_ash_spring_stage1_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_ash_spring_stage1",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_ash_spring_stage2_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_ash_spring_stage2",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_ash_spring_stage3_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_ash_spring_stage3",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_cave_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_cave_spring_stage0",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_cave_spring_stage1_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_cave_spring_stage1",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_cave_spring_stage2_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_cave_spring_stage2",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_cave_spring_stage3_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_cave_spring_stage3",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_earth_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_earth_spring_stage0",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_earth_spring_stage1_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_earth_spring_stage1",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_earth_spring_stage2_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_earth_spring_stage2",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_earth_spring_stage3_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_earth_spring_stage3",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_glowing_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_glowing_spring_stage0",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_glowing_spring_stage1_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_glowing_spring_stage1",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_glowing_spring_stage2_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_glowing_spring_stage2",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_glowing_spring_stage3_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_glowing_spring_stage3",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_mines_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_mines_spring_stage0",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_mines_spring_stage1_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_mines_spring_stage1",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_mines_spring_stage2_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_mines_spring_stage2",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_mines_spring_stage3_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_mines_spring_stage3",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_morel_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_morel_spring_stage0",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_morel_spring_stage1_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_morel_spring_stage1",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_morel_spring_stage2_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_morel_spring_stage2",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_morel_spring_stage3_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_morel_spring_stage3",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_oyster_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_oyster_spring_stage0",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_oyster_spring_stage1_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_oyster_spring_stage1",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_oyster_spring_stage2_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_oyster_spring_stage2",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_oyster_spring_stage3_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_oyster_spring_stage3",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_pine_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_pine_spring_stage0",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_pine_spring_stage1_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_pine_spring_stage1",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_pine_spring_stage2_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_pine_spring_stage2",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_pine_spring_stage3_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_pine_spring_stage3",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_purple_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_purple_spring_stage0",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_purple_spring_stage1_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_purple_spring_stage1",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_purple_spring_stage2_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_purple_spring_stage2",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_purple_spring_stage3_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_purple_spring_stage3",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_red_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_red_spring_stage0",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_red_spring_stage1_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_red_spring_stage1",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_red_spring_stage2_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_red_spring_stage2",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_red_spring_stage3_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_red_spring_stage3",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_spirit_spring_stage0_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_spirit_spring_stage0",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_spirit_spring_stage1_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_spirit_spring_stage1",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_spirit_spring_stage2_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_spirit_spring_stage2",
+    "sprite": "images/shadow.png"
+  },
+  "mushroom_stumpling_spirit_spring_stage3_shadow": {
+    "regular_sprite_name": "mushroom_stumpling_spirit_spring_stage3",
+    "sprite": "images/shadow.png"
+  }
+}

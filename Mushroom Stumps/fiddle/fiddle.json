@@ -1,0 +1,729 @@
+{
+  "full_start": {
+    "crops": {
+      "spring": [
+        "daffodil",
+        "tulip",
+        "snowdrop_anemone",
+        "lilac",
+        "potato",
+        "turnip",
+        "cabbage",
+        "strawberry",
+        "carrot",
+        "peas",
+        "chickpea",
+        "temple_flower",
+        "mystery_bag",
+        "ash_mushroom",
+        "spirit_mushroom",
+        "oyster_mushroom",
+        "pineshroom",
+        "cave_mushroom",
+        "earthshroom",
+        "mines_mushroom",
+        "morel_mushroom",
+        "purple_mushroom",
+        "red_toadstool"
+      ],
+      "summer": [
+        "basil",
+        "catmint",
+        "chili_pepper",
+        "corn",
+        "cosmos",
+        "cucumber",
+        "daisy",
+        "dill",
+        "iris",
+        "marigold",
+        "mystery_bag",
+        "night_queen",
+        "oregano",
+        "sage",
+        "sugar_cane",
+        "sunflower",
+        "tea",
+        "temple_flower",
+        "thyme",
+        "tomato",
+        "watermelon",
+        "ash_mushroom",
+        "spirit_mushroom",
+        "oyster_mushroom",
+        "pineshroom",
+        "cave_mushroom",
+        "earthshroom",
+        "mines_mushroom",
+        "morel_mushroom",
+        "purple_mushroom",
+        "red_toadstool"
+      ],
+      "fall": [
+        "broccoli",
+        "celosia",
+        "chrysanthemum",
+        "cranberry",
+        "garlic",
+        "heather",
+        "moon_fruit",
+        "mystery_bag",
+        "onion",
+        "pumpkin",
+        "rice",
+        "rosemary",
+        "sweet_potato",
+        "temple_flower",
+        "viola",
+        "wheat",
+        "ash_mushroom",
+        "spirit_mushroom",
+        "oyster_mushroom",
+        "pineshroom",
+        "cave_mushroom",
+        "earthshroom",
+        "mines_mushroom",
+        "morel_mushroom",
+        "purple_mushroom",
+        "red_toadstool"
+      ],
+      "winter": [
+        "beet",
+        "burdock_root",
+        "cauliflower",
+        "daikon_radish",
+        "frost_lily",
+        "jasmine",
+        "mystery_bag",
+        "poinsettia",
+        "snapdragon",
+        "snow_peas",
+        "temple_flower",
+        "ash_mushroom",
+        "spirit_mushroom",
+        "oyster_mushroom",
+        "pineshroom",
+        "cave_mushroom",
+        "earthshroom",
+        "mines_mushroom",
+        "morel_mushroom",
+        "purple_mushroom",
+        "red_toadstool"
+      ]
+    }
+  },
+  "full_start/crops/spring/13": "ash_mushroom",
+  "full_start/crops/spring/14": "spirit_mushroom",
+  "full_start/crops/spring/15": "oyster_mushroom",
+  "full_start/crops/spring/16": "pineshroom",
+  "full_start/crops/spring/17": "cave_mushroom",
+  "full_start/crops/spring/18": "earthshroom",
+  "full_start/crops/spring/19": "mines_mushroom",
+  "full_start/crops/spring/20": "morel_mushroom",
+  "full_start/crops/spring/21": "purple_mushroom",
+  "full_start/crops/spring/22": "red_toadstool",
+  "full_start/crops/summer/21": "ash_mushroom",
+  "full_start/crops/summer/22": "spirit_mushroom",
+  "full_start/crops/summer/23": "oyster_mushroom",
+  "full_start/crops/summer/24": "pineshroom",
+  "full_start/crops/summer/25": "cave_mushroom",
+  "full_start/crops/summer/26": "earthshroom",
+  "full_start/crops/summer/27": "mines_mushroom",
+  "full_start/crops/summer/28": "morel_mushroom",
+  "full_start/crops/summer/29": "purple_mushroom",
+  "full_start/crops/summer/30": "red_toadstool",
+  "full_start/crops/fall/17": "ash_mushroom",
+  "full_start/crops/fall/18": "spirit_mushroom",
+  "full_start/crops/fall/19": "oyster_mushroom",
+  "full_start/crops/fall/20": "pineshroom",
+  "full_start/crops/fall/21": "cave_mushroom",
+  "full_start/crops/fall/22": "earthshroom",
+  "full_start/crops/fall/23": "mines_mushroom",
+  "full_start/crops/fall/24": "morel_mushroom",
+  "full_start/crops/fall/25": "purple_mushroom",
+  "full_start/crops/fall/26": "red_toadstool",
+
+  "full_start/crops/winter/11": "ash_mushroom",
+  "full_start/crops/winter/12": "spirit_mushroom",
+  "full_start/crops/winter/13": "oyster_mushroom",
+  "full_start/crops/winter/14": "pineshroom",
+  "full_start/crops/winter/15": "cave_mushroom",
+  "full_start/crops/winter/16": "earthshroom",
+  "full_start/crops/winter/17": "mines_mushroom",
+  "full_start/crops/winter/18": "morel_mushroom",
+  "full_start/crops/winter/19": "purple_mushroom",
+  "full_start/crops/winter/20": "red_toadstool",
+  "full_start/crops/spring": [
+    "daffodil",
+    "tulip",
+    "snowdrop_anemone",
+    "lilac",
+    "potato",
+    "turnip",
+    "cabbage",
+    "strawberry",
+    "carrot",
+    "peas",
+    "chickpea",
+    "temple_flower",
+    "mystery_bag",
+    "ash_mushroom",
+    "spirit_mushroom",
+    "oyster_mushroom",
+    "pineshroom",
+    "cave_mushroom",
+    "earthshroom",
+    "mines_mushroom",
+    "morel_mushroom",
+    "purple_mushroom",
+    "red_toadstool"
+  ],
+  "full_start/crops/summer": [
+    "basil",
+    "catmint",
+    "chili_pepper",
+    "corn",
+    "cosmos",
+    "cucumber",
+    "daisy",
+    "dill",
+    "iris",
+    "marigold",
+    "mystery_bag",
+    "night_queen",
+    "oregano",
+    "sage",
+    "sugar_cane",
+    "sunflower",
+    "tea",
+    "temple_flower",
+    "thyme",
+    "tomato",
+    "watermelon",
+    "ash_mushroom",
+    "spirit_mushroom",
+    "oyster_mushroom",
+    "pineshroom",
+    "cave_mushroom",
+    "earthshroom",
+    "mines_mushroom",
+    "morel_mushroom",
+    "purple_mushroom",
+    "red_toadstool"
+  ],
+  "full_start/crops/fall": [
+    "broccoli",
+    "celosia",
+    "chrysanthemum",
+    "cranberry",
+    "garlic",
+    "heather",
+    "moon_fruit",
+    "mystery_bag",
+    "onion",
+    "pumpkin",
+    "rice",
+    "rosemary",
+    "sweet_potato",
+    "temple_flower",
+    "viola",
+    "wheat",
+    "ash_mushroom",
+    "spirit_mushroom",
+    "oyster_mushroom",
+    "pineshroom",
+    "cave_mushroom",
+    "earthshroom",
+    "mines_mushroom",
+    "morel_mushroom",
+    "purple_mushroom",
+    "red_toadstool"
+  ],
+  "full_start/crops/winter": [
+    "beet",
+    "burdock_root",
+    "cauliflower",
+    "daikon_radish",
+    "frost_lily",
+    "jasmine",
+    "mystery_bag",
+    "poinsettia",
+    "snapdragon",
+    "snow_peas",
+    "temple_flower",
+    "ash_mushroom",
+    "spirit_mushroom",
+    "oyster_mushroom",
+    "pineshroom",
+    "cave_mushroom",
+    "earthshroom",
+    "mines_mushroom",
+    "morel_mushroom",
+    "purple_mushroom",
+    "red_toadstool"
+  ],
+  "full_start/crops": {
+    "spring": [
+      "daffodil",
+      "tulip",
+      "snowdrop_anemone",
+      "lilac",
+      "potato",
+      "turnip",
+      "cabbage",
+      "strawberry",
+      "carrot",
+      "peas",
+      "chickpea",
+      "temple_flower",
+      "mystery_bag",
+      "ash_mushroom",
+      "spirit_mushroom",
+      "oyster_mushroom",
+      "pineshroom",
+      "cave_mushroom",
+      "earthshroom",
+      "mines_mushroom",
+      "morel_mushroom",
+      "purple_mushroom",
+      "red_toadstool"
+    ],
+    "summer": [
+      "basil",
+      "catmint",
+      "chili_pepper",
+      "corn",
+      "cosmos",
+      "cucumber",
+      "daisy",
+      "dill",
+      "iris",
+      "marigold",
+      "mystery_bag",
+      "night_queen",
+      "oregano",
+      "sage",
+      "sugar_cane",
+      "sunflower",
+      "tea",
+      "temple_flower",
+      "thyme",
+      "tomato",
+      "watermelon",
+      "ash_mushroom",
+      "spirit_mushroom",
+      "oyster_mushroom",
+      "pineshroom",
+      "cave_mushroom",
+      "earthshroom",
+      "mines_mushroom",
+      "morel_mushroom",
+      "purple_mushroom",
+      "red_toadstool"
+    ],
+    "fall": [
+      "broccoli",
+      "celosia",
+      "chrysanthemum",
+      "cranberry",
+      "garlic",
+      "heather",
+      "moon_fruit",
+      "mystery_bag",
+      "onion",
+      "pumpkin",
+      "rice",
+      "rosemary",
+      "sweet_potato",
+      "temple_flower",
+      "viola",
+      "wheat",
+      "ash_mushroom",
+      "spirit_mushroom",
+      "oyster_mushroom",
+      "pineshroom",
+      "cave_mushroom",
+      "earthshroom",
+      "mines_mushroom",
+      "morel_mushroom",
+      "purple_mushroom",
+      "red_toadstool"
+    ],
+    "winter": [
+      "beet",
+      "burdock_root",
+      "cauliflower",
+      "daikon_radish",
+      "frost_lily",
+      "jasmine",
+      "mystery_bag",
+      "poinsettia",
+      "snapdragon",
+      "snow_peas",
+      "temple_flower",
+      "ash_mushroom",
+      "spirit_mushroom",
+      "oyster_mushroom",
+      "pineshroom",
+      "cave_mushroom",
+      "earthshroom",
+      "mines_mushroom",
+      "morel_mushroom",
+      "purple_mushroom",
+      "red_toadstool"
+    ]
+  },
+  "object_prototypes": {
+    "crop": {
+      "ash_mushroom": {
+        "faux_crop": "crop_faux_ash_mushroom",
+        "day_to_stage": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "sprites": [
+          "mushroom_stumpling_ash_spring_stage0",
+          "mushroom_stumpling_ash_spring_stage1",
+          "mushroom_stumpling_ash_spring_stage2",
+          "mushroom_stumpling_ash_spring_stage3"
+        ],
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "sways": false,
+        "currency": 4,
+        "regrow_days": 2
+      },
+      "cave_mushroom": {
+        "day_to_stage": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "sprites": [
+          "mushroom_stumpling_cave_spring_stage0",
+          "mushroom_stumpling_cave_spring_stage1",
+          "mushroom_stumpling_cave_spring_stage2",
+          "mushroom_stumpling_cave_spring_stage3"
+        ],
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "sways": false,
+        "currency": 4,
+        "regrow_days": 2
+      },
+      "earth_mushroom": {
+        "faux_crop": "crop_faux_earth_mushroom",
+        "day_to_stage": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "sprites": [
+          "mushroom_stumpling_earth_spring_stage0",
+          "mushroom_stumpling_earth_spring_stage1",
+          "mushroom_stumpling_earth_spring_stage2",
+          "mushroom_stumpling_earth_spring_stage3"
+        ],
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "sways": false,
+        "currency": 4,
+        "regrow_days": 2
+      },
+      "glowing_mushroom": {
+        "day_to_stage": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "sprites": [
+          "mushroom_stumpling_glowing_spring_stage0",
+          "mushroom_stumpling_glowing_spring_stage1",
+          "mushroom_stumpling_glowing_spring_stage2",
+          "mushroom_stumpling_glowing_spring_stage3"
+        ],
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "sways": false,
+        "currency": 4,
+        "regrow_days": 2
+      },
+      "mines_mushroom": {
+        "faux_crop": "crop_faux_mines_mushroom",
+        "day_to_stage": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "sprites": [
+          "mushroom_stumpling_mines_spring_stage0",
+          "mushroom_stumpling_mines_spring_stage1",
+          "mushroom_stumpling_mines_spring_stage2",
+          "mushroom_stumpling_mines_spring_stage3"
+        ],
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "sways": false,
+        "currency": 4,
+        "regrow_days": 2
+      },
+      "morel_mushroom": {
+        "faux_crop": "crop_faux_morel_mushroom",
+        "day_to_stage": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "sprites": [
+          "mushroom_stumpling_morel_spring_stage0",
+          "mushroom_stumpling_morel_spring_stage1",
+          "mushroom_stumpling_morel_spring_stage2",
+          "mushroom_stumpling_morel_spring_stage3"
+        ],
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "sways": false,
+        "currency": 4,
+        "regrow_days": 2
+      },
+      "oyster_mushroom": {
+        "faux_crop": "crop_faux_oyster_mushroom",
+        "day_to_stage": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "sprites": [
+          "mushroom_stumpling_oyster_spring_stage0",
+          "mushroom_stumpling_oyster_spring_stage1",
+          "mushroom_stumpling_oyster_spring_stage2",
+          "mushroom_stumpling_oyster_spring_stage3"
+        ],
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "sways": false,
+        "currency": 4,
+        "regrow_days": 2
+      },
+      "pine_mushroom": {
+        "faux_crop": "crop_faux_pine_mushroom",
+        "day_to_stage": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "sprites": [
+          "mushroom_stumpling_pine_spring_stage0",
+          "mushroom_stumpling_pine_spring_stage1",
+          "mushroom_stumpling_pine_spring_stage2",
+          "mushroom_stumpling_pine_spring_stage3"
+        ],
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "sways": false,
+        "currency": 4,
+        "regrow_days": 2
+      },
+      "purple_mushroom": {
+        "day_to_stage": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "sprites": [
+          "mushroom_stumpling_purple_spring_stage0",
+          "mushroom_stumpling_purple_spring_stage1",
+          "mushroom_stumpling_purple_spring_stage2",
+          "mushroom_stumpling_purple_spring_stage3"
+        ],
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "sways": false,
+        "currency": 4,
+        "regrow_days": 2
+      },
+      "red_toadstool": {
+        "day_to_stage": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "sprites": [
+          "mushroom_stumpling_red_spring_stage0",
+          "mushroom_stumpling_red_spring_stage1",
+          "mushroom_stumpling_red_spring_stage2",
+          "mushroom_stumpling_red_spring_stage3"
+        ],
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "sways": false,
+        "currency": 4,
+        "regrow_days": 2
+      },
+      "spirit_mushroom": {
+        "faux_crop": "crop_faux_spirit_mushroom",
+        "day_to_stage": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "sprites": [
+          "mushroom_stumpling_spirit_spring_stage0",
+          "mushroom_stumpling_spirit_spring_stage1",
+          "mushroom_stumpling_spirit_spring_stage2",
+          "mushroom_stumpling_spirit_spring_stage3"
+        ],
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "sways": false,
+        "currency": 4,
+        "regrow_days": 2
+      }
+    }
+  },
+  "forageables": {
+    "sand_forageables": [
+      "blue_conch_shell",
+      "sand_dollar",
+      "spirula_shell",
+      "pink_scallop_shell"
+    ],
+    "votes": {
+      "legendary": 3,
+      "rare": 6,
+      "uncommon": 9,
+      "common": 12
+    },
+    "spring": {
+      "common": [
+        "daffodil",
+        "dandelion",
+        "fennel",
+        "tulip",
+        "chickpea",
+        "lilac",
+        "wild_leek"
+      ],
+      "uncommon": [],
+      "rare": [
+        "snowdrop_anemone",
+        "fiddlehead",
+        "morel_mushroom",
+        "nettle"
+      ],
+      "legendary": [
+        "middlemist"
+      ]
+    },
+    "winter": {
+      "common": [
+        "frost_lily",
+        "poinsettia",
+        "burdock_root",
+        "jasmine",
+        "crocus",
+        "holly",
+        "ice_block"
+      ],
+      "uncommon": [],
+      "rare": [
+        "snapdragon",
+        "pineshroom",
+        "oyster_mushroom"
+      ],
+      "legendary": []
+    },
+    "summer": {
+      "common": [
+        "daisy",
+        "iris",
+        "catmint",
+        "cosmos"
+      ],
+      "uncommon": [],
+      "rare": [
+        "marigold",
+        "sage",
+        "basil",
+        "thyme",
+        "oregano",
+        "dill",
+        "sesame",
+        "night_queen"
+      ],
+      "legendary": []
+    },
+    "fall": {
+      "common": [
+        "heather",
+        "horseradish",
+        "chestnut"
+      ],
+      "uncommon": [],
+      "rare": [
+        "moon_fruit",
+        "rosemary",
+        "garlic",
+        "viola",
+        "fog_orchid"
+      ],
+      "legendary": []
+    }
+  }
+}

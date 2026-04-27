@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "item": "sf_ash_mushroom_trunkling",
+      "store": "general",
+      "category": "trunkoom"
+    },
+    {
+      "item": "sf_cave_mushroom_trunkling",
+      "store": "general",
+      "category": "trunkoom"
+    },
+    {
+      "item": "sf_earth_mushroom_trunkling",
+      "store": "general",
+      "category": "trunkoom"
+    },
+    {
+      "item": "sf_glowing_mushroom_trunkling",
+      "store": "general",
+      "category": "trunkoom"
+    },
+    {
+      "item": "sf_mines_mushroom_trunkling",
+      "store": "general",
+      "category": "trunkoom"
+    },
+    {
+      "item": "sf_morel_mushroom_trunkling",
+      "store": "general",
+      "category": "trunkoom"
+    },
+    {
+      "item": "sf_oyster_mushroom_trunkling",
+      "store": "general",
+      "category": "trunkoom"
+    },
+    {
+      "item": "sf_pine_mushroom_trunkling",
+      "store": "general",
+      "category": "trunkoom"
+    },
+    {
+      "item": "sf_purple_mushroom_trunkling",
+      "store": "general",
+      "category": "trunkoom"
+    },
+    {
+      "item": "sf_red_mushroom_trunkling",
+      "store": "general",
+      "category": "trunkoom"
+    },
+    {
+      "item": "sf_spirit_mushroom_trunkling",
+      "store": "general",
+      "category": "trunkoom"
+    }
+  ],
+  "categories": [
+    {
+      "store": "general",
+      "icon_name": "trunkoom",
+      "sprite": "images/trunk.png"
+    }
+  ]
+}
