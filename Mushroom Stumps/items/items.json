@@ -21,7 +21,7 @@
     "overwrites_other_mod": false,
     "name": "Cave Mushroom Trunk",
     "description": "A cut tree trunk that will grow Cave Mushrooms",
-    "crop_object": "cave_mushroom",
+    "crop_object": "wild_mushroom",
     "mini_sprite": "cave_mushroom_trunkling_ui",
     "icon_sprite": "cave_mushroom_trunkling_ui",
     "sow_sprite": "cave_mushroom_trunkling_ui",
